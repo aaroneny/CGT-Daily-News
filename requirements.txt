@@ -1,3 +1,4 @@
 feedparser
 pytz
 requests
+deep-translator
