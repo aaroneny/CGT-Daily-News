@@ -1,0 +1,39 @@
+name: Update CGT News
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点运行 (UTC 时间 0 点)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发测试
+
+permissions:
+  contents: write # 赋予写权限，以便更新 README
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run script
+      run: python main.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add README.md
+        # 如果没有变化，不提交，避免报错
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update Daily News" && git push)
