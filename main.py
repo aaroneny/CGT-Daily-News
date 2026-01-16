@@ -3,58 +3,70 @@ import datetime
 import pytz
 from deep_translator import GoogleTranslator
 from time import mktime
+import re
 
-# --- 核心配置区 ---
-
-# 1. 升级版 RSS 源：锁定 PR Newswire, Business Wire, GlobeNewswire (一手企业通稿)
-# 使用 when:1d 强制只搜24小时内，并组合你的核心关键词
-# 语法说明：(来源1 OR 来源2) AND (关键词组合)
+# --- 1. 高精 RSS 源配置 ---
+# 我们构建了 3 个针对性的搜索组合，全部限定在 24 小时内 (when:1d)
 RSS_URLS = [
-    # 综合搜索：限定在一手通稿平台，搜索 FDA, IND, CAR-T, In vivo 等关键词
-    "https://news.google.com/rss/search?q=(site:businesswire.com+OR+site:prnewswire.com+OR+site:globenewswire.com)+AND+(CAR-T+OR+%22Cell+Therapy%22+OR+%22Gene+Therapy%22+OR+%22In+vivo%22+OR+IND+OR+FDA)+when:1d&hl=en-US&gl=US&ceid=US:en",
-    
-    # 补充搜索：防止漏网之鱼，针对 In vivo CAR-T 的全网最新（不仅仅是通稿）
-    "https://news.google.com/rss/search?q=%22In+vivo+CAR-T%22+when:1d&hl=en-US&gl=US&ceid=US:en"
+    # [通道 A] In vivo CAR-T 与 下一代细胞治疗 (最核心)
+    # 搜索逻辑：必须包含 "In vivo" 且必须包含 (CAR-T 或 基因编辑 或 LNP)，锁定企业通稿
+    "https://news.google.com/rss/search?q=(site:businesswire.com+OR+site:prnewswire.com+OR+site:globenewswire.com)+AND+%22In+vivo%22+AND+(%22CAR-T%22+OR+%22Gene+Editing%22+OR+%22LNP%22+OR+%22Vector%22)+when:1d&hl=en-US&gl=US&ceid=US:en",
+
+    # [通道 B] 常规 CAR-T 企业重大进展 (排除科普文章)
+    # 搜索逻辑：CAR-T + (IND 或 临床 或 FDA 或 融资)，排除市场报告
+    "https://news.google.com/rss/search?q=(site:businesswire.com+OR+site:prnewswire.com+OR+site:globenewswire.com)+AND+%22CAR-T%22+AND+(IND+OR+FDA+OR+Clinical+OR+Pipeline+OR+Dosed)+when:1d&hl=en-US&gl=US&ceid=US:en",
+
+    # [通道 C] FDA 监管与审批特别通道 (包含 FDA 官网)
+    # 搜索逻辑：FDA + (细胞治疗 或 基因治疗) + (指南 或 批准 或 暂停)
+    "https://news.google.com/rss/search?q=(site:fda.gov+OR+site:businesswire.com+OR+site:prnewswire.com)+AND+FDA+AND+(%22Cell+Therapy%22+OR+%22Gene+Therapy%22)+AND+(Guidance+OR+Approval+OR+IND+OR+Hold)+when:1d&hl=en-US&gl=US&ceid=US:en"
 ]
 
-# 2. 关键词过滤（白名单）- 只要标题包含这些词中的任意一个，就保留
+# --- 2. 关键词白名单 (命一即可) ---
 KEYWORDS = [
-    "FDA", "IND", "approval", "cleared", "clinical trial", "trial start", 
-    "dosed", "fast track", "orphan drug", "submission", "pipeline", 
-    "In vivo", "CAR-T", "TCR-T", "NK", "gene editing", "LNP", "delivery"
+    # 核心技术
+    "In vivo", "In-vivo", "CAR-T", "CAR T", "Chimeric Antigen Receptor",
+    "T-cell", "NK Cell", "TCR-T", "LNP", "Viral Vector", "AAV",
+    
+    # 监管与审批 (FDA)
+    "FDA", "CBER", "IND", "BLA", "Fast Track", "Orphan Drug", "RMAT",
+    "Approval", "Approved", "Cleared", "Green light", "Guidance", "Guideline",
+    "Clinical Hold", "Complete Response Letter", "CRL",
+    
+    # 临床关键节点
+    "Phase 1", "Phase I", "First Patient Dosed", "Trial Start", "Top-line data"
 ]
 
-# 3. 排除词（黑名单）- 过滤掉非研发类的噪音
+# --- 3. 噪音黑名单 ---
 EXCLUDE_WORDS = [
-    "market size", "market report", "share", "forecast", "outlook", 
-    "stock", "dividend", "loss", "profit", "quarterly result", "lawsuit"
+    "Market size", "Market report", "Growth analysis", "CAGR", "Forecast", # 市场报告
+    "Lawsuit", "Class action", "Investigation", # 律师事务所通稿
+    "Dividend", "Quarterly results", "Financial results", # 纯财报
+    "Skincare", "Cosmetic", "Veterinary" # 排除无关领域
 ]
 
 def is_recent(published_parsed):
-    """
-    严格检查新闻时间是否在过去 24 小时内
-    """
-    if not published_parsed:
-        return False
-    
-    # 将 RSS 时间转换为 UTC datetime
+    """严格的24小时熔断检查"""
+    if not published_parsed: return False
     news_time = datetime.datetime.fromtimestamp(mktime(published_parsed)).replace(tzinfo=pytz.utc)
     current_time = datetime.datetime.now(pytz.utc)
-    
-    # 计算时间差
-    diff = current_time - news_time
-    
-    # 也就是 24 小时 (86400秒)
-    if diff.total_seconds() <= 86400:
-        return True
-    return False
+    return (current_time - news_time).total_seconds() <= 86400
+
+def highlight_title(title):
+    """视觉增强：为重点词添加 Emoji 或 加粗"""
+    # 标记 In vivo
+    if re.search(r"In\s*vivo", title, re.IGNORECASE):
+        title = "🔥 " + title
+    # 标记 FDA/Approval
+    if re.search(r"FDA|Approval|Approved|IND", title, re.IGNORECASE):
+        title = "🏛️ " + title
+    return title
 
 def fetch_news():
     news_items = []
     seen_links = set()
     translator = GoogleTranslator(source='auto', target='zh-CN')
 
-    print("正在扫描全球最新一手通稿 (Past 24h)...")
+    print("正在根据特定策略扫描 FDA 与 In vivo CAR-T 资讯...")
 
     for url in RSS_URLS:
         feed = feedparser.parse(url)
@@ -62,77 +74,64 @@ def fetch_news():
             title = entry.title
             link = entry.link
             
-            # 1. 严格的时间筛选
-            if not is_recent(entry.published_parsed):
-                continue
-            
-            if link in seen_links:
-                continue
+            # 1. 时间清洗
+            if not is_recent(entry.published_parsed): continue
+            # 2. 去重
+            if link in seen_links: continue
             seen_links.add(link)
 
-            # 2. 关键词筛选
+            # 3. 关键词双重校验
             if any(k.lower() in title.lower() for k in KEYWORDS) and \
                not any(e.lower() in title.lower() for e in EXCLUDE_WORDS):
                 
-                # 清理标题
+                # 清理并翻译
                 clean_title_en = title.rsplit(' - ', 1)[0]
-                
                 try:
                     title_zh = translator.translate(clean_title_en)
                 except:
                     title_zh = "翻译暂不可用"
 
-                # 记录发布时间 (转换为北京时间显示)
+                # 格式化时间
                 news_dt = datetime.datetime.fromtimestamp(mktime(entry.published_parsed)).replace(tzinfo=pytz.utc)
                 beijing_dt = news_dt.astimezone(pytz.timezone('Asia/Shanghai'))
-                date_str = beijing_dt.strftime('%m-%d %H:%M')
-
+                
                 news_items.append({
-                    "title_zh": title_zh,
+                    "title_zh": highlight_title(title_zh), # 中文标题加高亮
                     "title_en": clean_title_en,
                     "link": link,
-                    "date_str": date_str,
-                    "timestamp": news_dt.timestamp() # 用于后续排序
+                    "date_str": beijing_dt.strftime('%m-%d %H:%M'),
+                    "timestamp": news_dt.timestamp()
                 })
     
-    # 按时间倒序排列（最新的在最上面）
     news_items.sort(key=lambda x: x["timestamp"], reverse=True)
     return news_items
 
 def update_readme(news_items):
     beijing_tz = pytz.timezone('Asia/Shanghai')
     today_str = datetime.datetime.now(beijing_tz).strftime("%Y-%m-%d")
-    now_str = datetime.datetime.now(beijing_tz).strftime("%H:%M")
     
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 我们每天只生成当天的板块，或者直接覆盖
-    # 这里采用“累加模式”，并在顶部显示“今日最新”
+    header_marker = "## 🧬 每日精选：In vivo CAR-T & FDA"
+    new_header = f"{header_marker}\n> 更新日期: {today_str} (筛选标准: In vivo / CAR-T / FDA Approval / IND)\n\n"
     
-    header_marker = "## 🚀 今日最新 (Latest 24h)"
-    
-    # 如果要保留历史记录，可以在这里做逻辑，这里为了简洁，我演示“每次更新覆盖最新列表”
-    # 但保留下方的“历史归档”结构（如果需要可以教你怎么做归档）
-    # 目前逻辑：刷新整个 README 的新闻区域
-    
-    if header_marker not in content:
-        # 初始化
-        new_content_top = f"# 🧬 全球 CGT 每日情报\n\n{header_marker}\n> 更新于北京时间: {today_str} {now_str}\n\n"
-        old_content = "" # 或者保留原有的介绍
-    else:
-        new_content_top = content.split(header_marker)[0] + f"{header_marker}\n> 更新于北京时间: {today_str} {now_str}\n\n"
-
+    # 构建新闻列表表格或列表
     news_list = ""
     for item in news_items:
-        # 增加时间标签
-        news_list += f"- `[{item['date_str']}]` **{item['title_zh']}**<br><small>*{item['title_en']}* [🔗Source]({item['link']})</small>\n"
+        news_list += f"- `[{item['date_str']}]` **{item['title_zh']}**\n  <br><small>🇬🇧 *{item['title_en']}* [🔗原文]({item['link']})</small>\n"
     
     if not news_items:
-        news_list += "- 截至目前，过去24小时内全球主要通稿平台暂无相关重磅发布。\n"
+        news_list += "- 过去24小时内未监测到符合「In vivo CAR-T」或「FDA重大审批」的一手通稿。\n"
+
+    # 逻辑：保留 README 头部介绍，替换新闻区域
+    if header_marker in content:
+        final_content = content.split(header_marker)[0] + new_header + news_list
+    else:
+        final_content = content + "\n\n" + new_header + news_list
 
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_content_top + news_list)
+        f.write(final_content)
 
 if __name__ == "__main__":
     items = fetch_news()
