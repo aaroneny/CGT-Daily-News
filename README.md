@@ -1,20 +1,23 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-01-22 | **更新时间**: 09:10 (北京时间)
+> **日期**: 2026-01-23 | **更新时间**: 09:10 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[22:00]` **Orca Bio 将在 2026 年 ASTCT 串联会议上展示其高精度细胞疗法的新临床数据**
-  <br><small>🇬🇧 *Orca Bio to Present New Clinical Data on Its High-Precision Cell Therapies at the 2026 Tandem Meetings of ASTCT* [🔗Source](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUVkteERVRERZMVVkWEluTC02NXJWZ2pXTmxqb2pZaHY2VmN6S1VYc2MwS2RsdU11dDlfLWJFRFRpNHI0aGx5dGZFcDhEQmpZOU9VekJYTlhqVVFtNTFtRGpzSTF3OWNLMkdjMXQ3U0J3NVgxbGVqRFBuYVlEc2NmaEJ1V1ZsbEZmNnE4VTVOXzJGRkRuQl9YX3B5YXVydG5pV0NCbFF0bWswd01SeEVLQ3BQX0kycTk5RDRjTnIteW5ORnFIUDZNOV9CSWc5eHBsS0laNnF2elVJZ1BTeERMYnpYT19xdUlxaUJsaGtaOWUwbl9UNGEtZDJGUVo3UFJOZXpROXgtRDA3dFU?oc=5)</small>
-- `[21:00]` **🏛️监管 | 美国 FDA 授予 Wugen 的 WU-CART-007 突破性疗法认定，用于治疗复发或难治性 T 细胞急性淋巴细胞白血病 / T 细胞淋巴细胞淋巴瘤**
-  <br><small>🇬🇧 *U.S. FDA Grants to Wugen’s WU-CART-007 Breakthrough Therapy Designation for Treatment of Relapsed or Refractory T Cell Acute Lymphoblastic Leukemia / T Cell Lymphoblastic Lymphoma* [🔗Source](https://news.google.com/rss/articles/CBMi0wJBVV95cUxPeTRHTTRieGE0MXJTb2NZNFBwSFI5NzEzYVUtVDhsRjBlYXpCRU9zLUNub1Z0S3dRRUplMjFmSlZ3dWdjY2NVaWhOd3ltdTZKTWFTMWxUUWFvT1lZOVdJVmJZQWRFb0l4Y1pjZzN2S0d1elJKMFBfNnFnWDFTUmI2QWJ0Y3FGMzlucXBQWFRuZXU1aEtaTnp3S1d1V0Rjc2ZKMlB4ZlJHZjE4MUZZbUF3eHY4LTRkOTBlY25DV0dxY0dLdUJWMGZTdXV0YmIyVmJvTWNYdjRlN2lSRTdHU2RUdlk4ZHljX1F1S3BvZWRVQ1FSWlRSSUJXdXhRUlpBUjQxOXBfcDRWa0JqU2dfMy04cEdybFVERkRwbnYzc25OMzhYbnFWZXdDeFU3YVppbmJQcy1WWEQyWHFWeWx3Tl8tdjMzcVkzVDdLZkZFUUZpcXZfbnM?oc=5)</small>
-- `[20:00]` **T1D 基金任命生物技术行业资深人士和细胞治疗专家 Teresa Foy 博士来加强专业知识，以推进下一代 1 型糖尿病（“T1D”）疗法**
-  <br><small>🇬🇧 *The T1D Fund Strengthens Expertise With Appointment of Biotech Industry Veteran and Cell Therapy Expert Teresa Foy, Ph.D., to Advance Next Generation of Type 1 Diabetes ("T1D") Therapies* [🔗Source](https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaVdhSzZVZEE0NkhOM0tqR1VCUlQ0enVHb2J3c3BUWkNQb1NTQ1dLazFLRWE2VURuQmhmeTBwVUFnRlIyaGpkZ0FLQ2xWYVhaMTZYTWgxZDR5bW9LUVJlWVk3b0x5OUVRdm5tdnhKdjIwRmlTYkRpcjJUbXNuQW1vc3VnTnFFWThmSndzUVJkMW5aWmNpdlhGbmJadHQ5UWd0dzhhOVh1bVZFVXdrU3FuZ3VkUmNVeEt3QVZ3dEthekI5UzF5VkFvRmVhV2xOVTdzVXdudHhEcmFUcVVFdTd4ZjFaVDRzX1dMNXhUYTRqWTNFMXRSNWg2RFkyX1VxeWhSRUVBQWNkUTNVeEhMVWtuaFBDaFFsMWY2ajRySVJ5UzVTcGhCMVlHUWdGYjJnV0FwaDdHVGJBaW9sZ1M4OXVBWGdxdzFxc2ZRU19vVFJiSjZGelNV?oc=5)</small>
+- `[03:53]` **CorriXR Therapeutics 宣布发布更多临床前数据，证实 NRF2 敲除恢复实体瘤化疗敏感性的能力**
+  <br><small>🇬🇧 *CorriXR Therapeutics Announces Publication of Additional Preclinical Data Corroborating Ability of NRF2 Knockout to Restore Chemosensitivity in Solid Tumors* [🔗Source](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNEQ2Um5uNk5FcDJmWE1jSjhtU2tQYWlMRTMxMWQwZTNpeDk3S3Y4LWhEZ3lyaDJrcFpYdVdiUVRGUE1GMVprbGo0X2N6WjBXakRwR0ExRjhiRHVlV1FLUzdES1o5a2FWY3BhVDc5c1R2dUhQZFRoWWNTNkZ0YTZ3dWNuRi0tZ2RqUWs0ZVNiSUtibVAtSGNYc3JaRTBVbDNVcjJSYmlEeWN1WmlIbmMwU0duWHpEUnBWTmptRjdRbTl5WFRMZGlnWFJXaW5oVW9xcUJvQWxfUzd3Mkt0RmdUdGZyZzl1SWhWLVhDYkNMQUpQVWc2WExvRnBHS1J4SnNXa1M0RlljM0tMTkVjS3ctMzhzNjZ6czdtWWFETWZWeW1YWklpVnJkY0tOTDVKQjg4a0dOV2Y2NTI?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[08:04]` **🏛️监管 | 通用型CAR-T连获突破！茂行生物MT026临床数据登顶Nature子刊，MT027获批美国II期临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5YN2gxYnlmZ3NXM183NlV0VnZCV2x0YXh0X2I5ZnRia2dYZERwR2Jad3NFTUFZMkZhRWc1c2NBTl9HdzRVTHZqYVN1cEJlaF96NDQ2RVFHWUVLeHJVWFQ4Wjl0QmlVQWExWFRJUFQzeVJKc2NaQzlHTUFoVGRUdw?oc=5)
-- `[17:41]` **🏛️监管 | 研发投入近4000万，上海医药肿瘤细胞疗法获批临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE50dWdpQ0lDYk9vWmxsMzY2UWNDZXJyczJzcEFscmQtaks4Y2dtR2hfOGh2MHNGcmJxODRGQ0hVdTBlV09uelZNZm4wWUEzbWZCa1ZLRUlJalhfYlBQQklnS3hJTm1IdzZnU1BiUG1YOWtCc09MZ2tKeTMzYVJTUQ?oc=5)
-- `[17:36]` **🏛️监管 | 上药肿瘤细胞疗法获批临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nRm5VZkw3OWlKOXdwYjF4WWc0a2RUenFUaFREUzE2aUlEWl9UQzRrYlkzcVdfdHQ2MDd5dkRob24wYzFYblN0OU1fVGtScWdHSEoyQ0ZnT2ZsX0NhcmYtcjdhbG1reEpnSk5zWjhuUDAyNEFNX2I0bjZTemNUZw?oc=5)
+- `[08:26]` **首次证实：iPSC衍生的iNKT在临床治疗中安全且有效** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBDOWgzODlfRTFPVDd4bnFIX1RNbkZuVWJSTkdWUmdwQ0c3bTBnYWNFMFh4RHpSRzNfSGdQRHBBaFpXeEZNc0tYNXd4YjhLYlNsZjNkR24xOVhkUmREQ2xIVm94Q0VqYlFDSWxEN3E5ZnFTMWYxVUVfc3I4ekFTZw?oc=5)
+- `[23:55]` **华氏巨球蛋白血症新突破：CD19 CAR-NK细胞疗法实现15个月完全缓解，无化疗新希望！** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWVk1XUjBuSkk3N3c4R2JGRW9KaVpDeWZQaURXS0xQRlo2OHY3NmJqRWo4bzRKWl8ySTVHb1pITTBSNXV4QXc?oc=5)
+- `[22:23]` **百万抗癌药海外大卖，传奇生物CAR-T去年销售超18亿美元，四季度环比增速放缓** [🔗阅读原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2cWRIcjVtRm1sV0EzcVJIUklla3A4LWJLQmhma0VfXzlHNUxUREY3SDl3eDBxV1g4ZWdMd2NPNG5GcFpTMTNWeExrODNUeFdG?oc=5)
+- `[21:08]` **晶泰科技赋能莱芒生物取得细胞疗法重大成果，以1‰剂量CAR-T实现多位系统性红斑狼疮完全缓解出院** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE53VHZoS1dHSHNiSzRvOS1pbXNBNFVHNUdMM2ZIUzA4YzhyTU16NmljRXdHZ01GbGxSZ3ZkdlJyWDVkczZiTnNoMm5ILXdFZ210dnNvRDg4R3lDTUtsZlRNY1BzME84bi13cEllU1NhM1VVRGVQdjlSUGVBYlRkQQ?oc=5)
+- `[17:51]` **大湾区首例｜CLDN18.2 CAR-T晚期胃癌治疗临床案例落地南沙** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFA0ejNpaDBrYVBCeTl1QnI3R3lFd1hZNTJtYnhCZUpiN2xKMWxjaEJTX01TUVB2VTNVMWxMU2JZNkx6dmdOTFhJT1p5RmFiemhHUVZ1TE9NNjZvdUpPNV9Nc2YtamRDWjZJSm9MM3BiZjU5YkRLRDVETFdPbkgydw?oc=5)
+- `[17:44]` **CAR-T细胞规范诞生！郑大一附院牵头发布全国CAR-T治疗标准** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE1YTjNXQV9mSjh3eHJuWWN3R1lGbi1Mb2ZNWjVHUGZqcFlXcXlSX1NyX2RQSnV1dzJFOWQ2VnlYLW52OG1DUnh4U0Qwb254Z2VsdjB2UVk0YzFGRkFxYXNoVnZZZ2YwMkprcGRGakFB?oc=5)
+- `[17:40]` **从专利到临床：博雅生命以科技创新破解老龄化健康挑战** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QZzdWR3JMX0p0Z3hvQmtVTHh3S29rUHFPMEVNWHJwUkszckVEN05iTzlUeWlLa3N6OXBVRnFyLThacDlmYURyLVAyMDdyYjBYSV8tOGhB?oc=5)
+- `[17:15]` **终于有国产CAR-T企业快要扭亏了！传奇生物预计今年实现盈利** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZW5yczFraFdiNGRkV1lwODhTLWlscjl6MFVEdGJSS1N6cHlDZEFZVzlJSGNlRGpjVzZIQmhaTnpfYi1ibDEyUUswN0YyV2VGWmxxNU02YTlqWmtjeVZhMFlFQnQ1Zw?oc=5)
+- `[15:14]` **🏛️监管 | 「新锐公司」纽伦捷生物：深耕神经原位转分化创新基因疗法，治疗恶性胶质瘤原创新药获批临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9HZUM1enFXWHlDb3ZvT0NycGhRck40U0F5amx1UnhSNDJYbzQyZkNYNVRGdnhRTFFaX3FUdXhzZUhkdjRhcEx2RkxyV2o4M1VpRGJiWG5vakMwdFBHS3JJelNVZWxSSGU5RzJCRUpuSzNyaEtvUmdyNTliWEotdw?oc=5)
+- `[11:10]` **🏛️监管 | 上海医药iNKT细胞疗法新突破：1类创新药B023注射液获批临床，通用型细胞直击转移性肿瘤无药困境** [🔗阅读原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EYzFfenZ4MkFfclFWd28zcXdwdTR1Ujc5ZlpHdmNJZnlxUGZPTm5BeFRDTUFOSmNLRUpHMVgxZFkwQ0pTLWhiLWlhYmlyZ1l5TzdjWVVuNGVIZw?oc=5)
