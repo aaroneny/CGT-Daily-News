@@ -1,23 +1,18 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-01-23 | **更新时间**: 09:10 (北京时间)
+> **日期**: 2026-01-24 | **更新时间**: 09:06 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[03:53]` **CorriXR Therapeutics 宣布发布更多临床前数据，证实 NRF2 敲除恢复实体瘤化疗敏感性的能力**
-  <br><small>🇬🇧 *CorriXR Therapeutics Announces Publication of Additional Preclinical Data Corroborating Ability of NRF2 Knockout to Restore Chemosensitivity in Solid Tumors* [🔗Source](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNEQ2Um5uNk5FcDJmWE1jSjhtU2tQYWlMRTMxMWQwZTNpeDk3S3Y4LWhEZ3lyaDJrcFpYdVdiUVRGUE1GMVprbGo0X2N6WjBXakRwR0ExRjhiRHVlV1FLUzdES1o5a2FWY3BhVDc5c1R2dUhQZFRoWWNTNkZ0YTZ3dWNuRi0tZ2RqUWs0ZVNiSUtibVAtSGNYc3JaRTBVbDNVcjJSYmlEeWN1WmlIbmMwU0duWHpEUnBWTmptRjdRbTl5WFRMZGlnWFJXaW5oVW9xcUJvQWxfUzd3Mkt0RmdUdGZyZzl1SWhWLVhDYkNMQUpQVWc2WExvRnBHS1J4SnNXa1M0RlljM0tMTkVjS3ctMzhzNjZ6czdtWWFETWZWeW1YWklpVnJkY0tOTDVKQjg4a0dOV2Y2NTI?oc=5)</small>
+- *当前暂无过去 24 小时内的相关重磅全球资讯。*
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[08:26]` **首次证实：iPSC衍生的iNKT在临床治疗中安全且有效** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBDOWgzODlfRTFPVDd4bnFIX1RNbkZuVWJSTkdWUmdwQ0c3bTBnYWNFMFh4RHpSRzNfSGdQRHBBaFpXeEZNc0tYNXd4YjhLYlNsZjNkR24xOVhkUmREQ2xIVm94Q0VqYlFDSWxEN3E5ZnFTMWYxVUVfc3I4ekFTZw?oc=5)
-- `[23:55]` **华氏巨球蛋白血症新突破：CD19 CAR-NK细胞疗法实现15个月完全缓解，无化疗新希望！** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWVk1XUjBuSkk3N3c4R2JGRW9KaVpDeWZQaURXS0xQRlo2OHY3NmJqRWo4bzRKWl8ySTVHb1pITTBSNXV4QXc?oc=5)
-- `[22:23]` **百万抗癌药海外大卖，传奇生物CAR-T去年销售超18亿美元，四季度环比增速放缓** [🔗阅读原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2cWRIcjVtRm1sV0EzcVJIUklla3A4LWJLQmhma0VfXzlHNUxUREY3SDl3eDBxV1g4ZWdMd2NPNG5GcFpTMTNWeExrODNUeFdG?oc=5)
-- `[21:08]` **晶泰科技赋能莱芒生物取得细胞疗法重大成果，以1‰剂量CAR-T实现多位系统性红斑狼疮完全缓解出院** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE53VHZoS1dHSHNiSzRvOS1pbXNBNFVHNUdMM2ZIUzA4YzhyTU16NmljRXdHZ01GbGxSZ3ZkdlJyWDVkczZiTnNoMm5ILXdFZ210dnNvRDg4R3lDTUtsZlRNY1BzME84bi13cEllU1NhM1VVRGVQdjlSUGVBYlRkQQ?oc=5)
-- `[17:51]` **大湾区首例｜CLDN18.2 CAR-T晚期胃癌治疗临床案例落地南沙** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFA0ejNpaDBrYVBCeTl1QnI3R3lFd1hZNTJtYnhCZUpiN2xKMWxjaEJTX01TUVB2VTNVMWxMU2JZNkx6dmdOTFhJT1p5RmFiemhHUVZ1TE9NNjZvdUpPNV9Nc2YtamRDWjZJSm9MM3BiZjU5YkRLRDVETFdPbkgydw?oc=5)
-- `[17:44]` **CAR-T细胞规范诞生！郑大一附院牵头发布全国CAR-T治疗标准** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE1YTjNXQV9mSjh3eHJuWWN3R1lGbi1Mb2ZNWjVHUGZqcFlXcXlSX1NyX2RQSnV1dzJFOWQ2VnlYLW52OG1DUnh4U0Qwb254Z2VsdjB2UVk0YzFGRkFxYXNoVnZZZ2YwMkprcGRGakFB?oc=5)
-- `[17:40]` **从专利到临床：博雅生命以科技创新破解老龄化健康挑战** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QZzdWR3JMX0p0Z3hvQmtVTHh3S29rUHFPMEVNWHJwUkszckVEN05iTzlUeWlLa3N6OXBVRnFyLThacDlmYURyLVAyMDdyYjBYSV8tOGhB?oc=5)
-- `[17:15]` **终于有国产CAR-T企业快要扭亏了！传奇生物预计今年实现盈利** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZW5yczFraFdiNGRkV1lwODhTLWlscjl6MFVEdGJSS1N6cHlDZEFZVzlJSGNlRGpjVzZIQmhaTnpfYi1ibDEyUUswN0YyV2VGWmxxNU02YTlqWmtjeVZhMFlFQnQ1Zw?oc=5)
-- `[15:14]` **🏛️监管 | 「新锐公司」纽伦捷生物：深耕神经原位转分化创新基因疗法，治疗恶性胶质瘤原创新药获批临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9HZUM1enFXWHlDb3ZvT0NycGhRck40U0F5amx1UnhSNDJYbzQyZkNYNVRGdnhRTFFaX3FUdXhzZUhkdjRhcEx2RkxyV2o4M1VpRGJiWG5vakMwdFBHS3JJelNVZWxSSGU5RzJCRUpuSzNyaEtvUmdyNTliWEotdw?oc=5)
-- `[11:10]` **🏛️监管 | 上海医药iNKT细胞疗法新突破：1类创新药B023注射液获批临床，通用型细胞直击转移性肿瘤无药困境** [🔗阅读原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EYzFfenZ4MkFfclFWd28zcXdwdTR1Ujc5ZlpHdmNJZnlxUGZPTm5BeFRDTUFOSmNLRUpHMVgxZFkwQ0pTLWhiLWlhYmlyZ1l5TzdjWVVuNGVIZw?oc=5)
+- `[17:14]` **🏛️监管 | 新型CD7 CAR-T获FDA突破性疗法认定** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE8yTDdoRm15VEU5cmdlaXNNZ0cwOWsxbm5MZ3R4NExURERXOHlsT3psbGpMSWo4QVdVM1hkVHVqdmVlRDBiWHloTGlRSzg5VlVsY0NMM3NKaXBZSktEeU9CUTl0dlM4eUlZQW9BaVBQMkJGaklLcUo1WE5DbVltZw?oc=5)
+- `[16:19]` **HLA/肽特异性CAR-T细胞在根除实体瘤方面优于TCR-T细胞-阎影的博文** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aRlhZS1F5NTV0aHJEd3I4bXBCX0lvbE5BRnQ2UXA5RGd0N1BVRFhJOFhpdWdmZEFzUG1ERXQtcVY5NFhTM0tvWS1oTU9SV2lId0Z4c0lma1EwSGQxZ2dIVkpyWFRCRHlEajd6Qg?oc=5)
+- `[14:46]` **2026 CASH丨魏文胜教授：通用型CAR-T的前沿突破及临床研究进展** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6d1VYRHVHa1lNVHlNUFpxM3JHRTZ6Tk1nbjQtdmdoS0ktbFVjWnNtVTVuRTBjNUdXQWkyMUxHMEJxOGxZLTAzVE5n?oc=5)
+- `[11:06]` **港股异动 | 晶泰科技盘中涨近5% 赋能莱芒生物取得细胞疗法重大成果 多个实体瘤领域IIT临床将启动** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWd1JrZzhla2R0LXgyQTZ4Q0lSSjk4enJqcWdvejJDUV9FUEhPamZpNG9JMmxyY29oVHh4ckFnakdYYmxUMDhKTUNPMWQ2MUNIbnFhZU1B?oc=5)
+- `[10:45]` **强生2025年财报：CAR-T王牌Carvykti狂飙95.9%剑指百亿峰值，有望掀翻吉利德“销冠”宝座** [🔗阅读原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KNU5vbDBUVWFZRVp3UVpLR05tajZlSmZ0YTNWcHptRTdVVDB2ZEZydlI0aTZWQ3Z4NjdsUGlLc2pta3lfZUhmelZDU3NrclFEUXRTOV9BNA?oc=5)
+- `[10:05]` **晶泰科技(02228)赋能莱芒生物取得细胞疗法重大成果，以1‰剂量CAR-T实现多位系统性红斑狼疮完全缓解出院** [🔗阅读原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3VyVjhYZGRsbV9RcHktNEdvdWFBSVhrNS01dHViTjdPS0p1ZFRqNDNrVUVJR3lkMFdUTE9VQ3k4Y1M0RHhmdFQwbk5jVTlFeF85WDRSM2h3dFlhbEZFZEM5aFJxc2tscHJBMndhQXlYbksyS1ptTW1ZVTJBZGRfMQ?oc=5)
