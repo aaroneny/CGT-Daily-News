@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-02-08 | **更新时间**: 09:56 (北京时间)
+> **日期**: 2026-02-09 | **更新时间**: 09:25 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,5 +10,6 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[07:20]` **Science 子刊封面：宾大团队开发新型 CAR-T，针对肿瘤和自免** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzFfOUFCSGt0SUNtNDNMTFRHUW1nVVpwVVdUM3ZMT2w1bmEwbzdnS3hKN1JsNGs2YjRKaUJqdS1Vb21ad09GTHZYYm9pc2c2OGM5V3pkd04wbUhNbDNsQS1Vd05jTVNxLVRHLTNzcFNJX0hSbjR0UUhxRk9CamQ0MDQ0QU5PZWhaZWZB?oc=5)
-- `[22:37]` **网红一栗小莎子疑患淋巴瘤：早期信号、治疗新进展与康复希望** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE02SUQ5WHBXYTJzMmpUUDBxRVU4M0c4UkpKWHdwZzFPMkFzUExyRWp3R2VqaC15NDhyLXF1bzZndFB6bEFVTkE?oc=5)
+- `[22:23]` **2026 Tandem会议深度解析：多发性骨髓瘤CAR-T疗法最新突破与患者指南** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LZkpqY1FjamVKN1l3LXBzREpnMUVhV05raUtYbFRqOXVzZWJTU3RvLWpSVnh4ZnQwRHZHdk9NcHdoemwyR3c?oc=5)
+- `[22:20]` **CAR T细胞疗法新进展：非霍奇金淋巴瘤患者心血管风险与真实世界疗效深度解析** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wOU1UMVBSeVE0WUNFeUZibFVBbHZkaC1NTnVnX1AtRTU3XzgxV01WLXdaV1RGbjR0YldRaDB0X1BpTWxXYkE?oc=5)
+- `[17:16]` **重磅！惰性B细胞淋巴瘤与华氏巨球蛋白血症“无化疗”新希望：CAR-NK三联免疫疗法临床试验最新进展与深度解析** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Lc3NMa3lubkYtNV9Wak1kSUpkTEhPRFZpdWh2MDhiUG14ZmIwdmRTOXBxQnA1QkszSmxoekRKaTUxY2d3dVE?oc=5)
