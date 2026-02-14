@@ -1,21 +1,17 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-02-14 | **更新时间**: 06:57 (北京时间)
+> **日期**: 2026-02-15 | **更新时间**: 06:47 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[21:05]` **MEDIPOST Inc. 向美国食品和药物管理局提交 IND 修正案以启动 III 期试验**
-  <br><small>🇬🇧 *MEDIPOST Inc. Submits IND Amendment With U.S. Food and Drug Administration to Initiate Phase III Trial* [🔗Source](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm96cC02YTNHbnFuUUwwTWlZMjY4a3JxOXZ4QlpEUnE3YUtRdnkxM0RsbDlMOC1zeGZGUGxjVW9QSWdOb2FLU3V3Y0dkMUVXbk9KM2U1YU1Ram1CWUl1ZXl4MkQ3amZzdEJMUW1rNGwzRk1nT1Q3T2JPM1h5WkxJZWljU3ZZaXE4d3N6bUszbEpVcGJoa2NvUmctel9GdVBFUkY3Y0RFVTZhaEtJd3ZvU3FMUDFvOVZrWkhORWYyTzdpQ2ZUT1ZhaUlIbFc4eWFSYldXTFg4a3Bfc1UzNnM2Z0lFYk44QzdtZzg3bmpROUk?oc=5)</small>
-- `[15:28]` **世界首个 EXO 001 外泌体平台支持实体瘤体内多靶点 CAR-T**
-  <br><small>🇬🇧 *World-First EXO 001 Exosome Platform Enables In Vivo Multi-Target CAR-T for Solid Tumors* [🔗Source](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeUdualVQMEd2SnB2dENfelgzaXA5aU5zRkM1dnpLYUpEcFJuc25jMEtyeUo4Q01tVEZJbmp4N3lZS0JjaGFQREVfMkhxdXRrYktYV0FXT2p5ZnlsN3FaczVpTkVfSmFpZEw1Vm1jLVBOc1FSYUowUDlkWnFVd19YaXQ2dzNkUzBrQklONHJoZUdQYnNwVUYxLXF2Q0pZbm1CN20wUHZ1RjZsTG10SHlET1BwbXRPZTZFd3VVc3RMekFCaGtiWUEtMGJmUXhCbHdwc3N0UzdFVk9ib1dG?oc=5)</small>
-- `[08:15]` **科济基因签署战略合作协议，扩建上海金山CAR-T商业生产基地**
-  <br><small>🇬🇧 *CARsgen Signs Strategic Cooperation Agreements to Expand CAR-T Commercial Manufacturing Base in Jinshan, Shanghai* [🔗Source](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT3FDUlhwTV93ZWZrSUdDb0t4VS1jWjhTRzJRTkpMTThVZnBVZ3FMZnlrQVpFUVRTRk1tYjZNOWVBcUFWMUZxdnpMbk1WUzlpZ1dweThTNng2SDR3dmNCRm9nTFlTU3NKMmNoeVcwdEl1WkFYRHN6dV8xX0VHZl9pOEhXWk9uTjRFaElGWWtuVTVzR2dpWWJFRVlSbzFUTEh6MHVFYnl5VkFFaXQ2bFJEMlc4WWQ2dmFDa2dYRnFQRlB6ai1lWWZwUW8xRnpPY2xVZU9xOTdEVTR5bkp1VGZCVk1teWE4aUt0QVYxdzk1ZW5mQjh0bnd1LWZVdWE?oc=5)</small>
+- *当前暂无过去 24 小时内的相关重磅全球资讯。*
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[23:25]` **关于优化CAR-T治疗前桥接放疗的循证指南-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9BV3A5TVgwRWpKSTBiQ0VLcEJNTVVTZ2U5YmtEMWVackFvRGJYUFREalRUcTdlTDZGbTRTeGZJVjMtVENvODBYc2FJQjZBM01xTlRhYWR4SnB0em5SSWc5NDdzUjY1dG8wMU9lWWtB?oc=5)
-- `[22:40]` **2026 年中国生物科技对外许可激增打破纪录**
-  <br><small>🇬🇧 *China Biotech Out-licensing Surge Breaks Records in 2026* [🔗Source](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGxLUENEQlZsTFNqMDg0YThqZktkdGlMOXpiVnQ5cXRxUkRwN21uYXo4QV9GR2hzZHNuc0NvYVAzNXRMMnota1ozOVZYSmNwVWk2Nks3OXg3NU5Rel9rVHlRbEtoWnJTWS1tMng0bE5oVFg2MXpaZW8zd280NjUtQTJJZ1BwVjR2MlVqV296cWFNRDRScGxBYnZkNlFWX0k?oc=5)</small>
-- `[19:45]` **全球首款实体瘤CAR-T要来了？科济药业拟3.7亿扩产** [🔗阅读原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zNVZwS3M2U0x3ZVRxM01UM2E1ZHpTMXFva0FKOGp3di14M2lGelh4YW1IR05US1dydXYxbkpocFdTODVlX1F6S1BjTXNXNEp0?oc=5)
+- `[17:42]` **2026细胞疗法与移植峰会：CAR-T、异基因CAR-T等抗癌新突破，多发性骨髓瘤、淋巴瘤患者新希望** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XLWljVjM4U0MyYVRxczA5TVpRaFduMmJfekpHaGY0YWREYm9weTdtU2ZjWGlxSDNMSnZldzQ2aXZKci04TFE?oc=5)
+- `[17:38]` **体内CAR-T疗法与AAV新突破成细胞与基因疗法领域交易聚焦新增长点** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE85YmhIUk5rTW9RMUhNTzRaVmxtRkYwU05UNk1QczZhQUhmc1RGa09ncHpxeWMyZi1PUjdHQUk3Ynk3SFY1LUIwaUtmUUxsTU82XzlreE9iVEE1WDlTSldzQnBqdDNDVDd4aWpHTjVvcTIwbnBpdmRUYm01QURVdw?oc=5)
+- `[14:04]` **脊髓损伤患者再次站立！士泽生物iPSC细胞治疗临床研究取得可喜疗效** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1paS1JZjhPVkhESUtnczdSR3M1YWp1SEZrWWNJbHdLOGE2enpRT1lGVllwQ2V6SXZjSUxoVDIzaV9vT0pqOW5GcXVhaU1wTUg5bVhQMTlqdm9iN3ZUMldOUzAwaDltZEZRZzJnUDU4LTk0d0pQaWNQZElUOTZXZw?oc=5)
+- `[13:35]` **关于优化CAR-T治疗前桥接放疗的循证指南-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9BV3A5TVgwRWpKSTBiQ0VLcEJNTVVTZ2U5YmtEMWVackFvRGJYUFREalRUcTdlTDZGbTRTeGZJVjMtVENvODBYc2FJQjZBM01xTlRhYWR4SnB0em5SSWc5NDdzUjY1dG8wMU9lWWtB?oc=5)
+- `[07:20]` **🔥In-vivo 🏛️监管 | 26 年伊始：63 款 1 类创新药 IND 首次获批/受理，in vivo CAR-T/siRNA/表观遗传编辑/XDC 等开启研发竞速新纪元** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0xwRGlZaE02Q1pDUUlHN21HSU5ud3paTFBOdGwwa0N3QXRoX0FqRkxrT09CUWhfZzY5Qm9fbV9SN2JobmM3b1FuMlBvUVBqZnJjdTZ0YnR4cndldGhyNmNWSWZkdUNuVWFpc0xtSUdmVFVzSGRkYnZBYlp2VkpGN3NFTXQ5SEhhQ0JN?oc=5)
