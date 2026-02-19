@@ -1,18 +1,16 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-02-19 | **更新时间**: 06:58 (北京时间)
+> **日期**: 2026-02-20 | **更新时间**: 06:56 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[22:00]` **Cellares 与威斯康星大学医学与公共卫生学院扩大合作伙伴关系，以用于实体瘤的 CRISPR 编辑的 CAR-T 临床制造**
-  <br><small>🇬🇧 *Cellares and University of Wisconsin School of Medicine and Public Health Expand Partnership to Clinical Manufacturing of CRISPR-Edited CAR-T for Solid Tumors* [🔗Source](https://news.google.com/rss/articles/CBMiuwJBVV95cUxONkZQWWNLaUpvTXBmbWItUVp3dXdQMnZyNU1oWElDTmJ2bFByZU93TUwtOXVnUXJna3l1T0JQUDREaHZSU2tJUU9QY3VobUNTRTNuN280VFhwVHQzRklQc1NITDZHOVJ6UkVBZEJUQnl3bFdqWEFpT2VDYXgyV0NXS2Y1c0J2UzdrQlBrNHpDei0xVGMyY0d1OUx0Rjh2SERDRnktOFlFRmR3QzBtRkd0TFNHc3ZfUVpXU1RNZUFia0l0U2hhTUVad2R0N0t0VUVZWjYzY3dxaFpQd01SYkVZZ01tMVozQ1dGckdDZEZEaGFrLWVmZGVxZ2ZQLUh2U0NvaHVFQTNGTTBXdUtjazd3a25kSVNhY3ZQNzd3T2Y4TWpwQ0JXajkwOXRoMDlFTGVPVEQ3b19Na1dOY2s?oc=5)</small>
-- `[22:00]` **ImmunityBio 获得欧盟委员会授权 ANKTIVA® 结合 BCG 治疗非肌肉浸润性膀胱癌原位癌，将全球范围扩大到 33 个国家**
-  <br><small>🇬🇧 *ImmunityBio Receives Authorization from the European Commission for ANKTIVA® with BCG for Non-Muscle Invasive Bladder Cancer Carcinoma in Situ, Expanding Global Access to 33 Countries* [🔗Source](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOSW9OYnRFa2Z3RjJzam1aQ0gzdllfQlV1WHktbFF0cWwtdmhaRldYTDNtNEFZWnVDWWMzV0cwMXY5MmlQTWZId3dVR1oxYnRsYThXYnYyNXhfYWpTbXBBdm5QdVZTT0Q5RDhfcDMyMW5CMFRtSm5ITmxyWk5xLUFNRThBaFZyajVweGtUenBudGVybm9XYWZGNGJpN19HSFd5TnR1ZHRUM3dxZ0J5ZTAyMzZJaXhBZHA2eXJpODBqbXZid0Q1ekFKNWRqWjQwYTZIaDdfM2g0bWducm5teFdHWEU3elFselIxTXhsTDJGNXI3RGJXcGRWak1nZWhoMUlDa3NRYURmdG9JY0FZc0JvT2NiMmZuUXhyN0NMcjE3LWlGM2FROXd3Y0M5SXkwY3ZVc2FuNGJKTFBpZUhVbXMwRm10M0JrQ1RCVGRjc25iNmxSOVdtMkt3emtn?oc=5)</small>
-- `[20:01]` **Precision BioSciences 宣布在 2026 年肌营养不良协会临床与科学会议上发表演讲**
-  <br><small>🇬🇧 *Precision BioSciences Announces Presentation at the 2026 Muscular Dystrophy Association Clinical & Scientific Conference* [🔗Source](https://news.google.com/rss/articles/CBMihgJBVV95cUxOdEZSUW5wNUxmRmljZVVvTDRDS09DM1dzcm5KcUtueE0wWlM1Wi01UG8zamhaZmVGR1o3aHFCYW9aY21pdzkzTkY3QVVHQ3NpUTBseXZVV1BHYTdHN3dmU3Jnam12SUtTc3FnQUY1S1VtbFpseC1JRlpMLVpWVTNFTDBIcUxuYWEtTFp4aVpadDI4UGlBRkNUTjhlSXpQaFpOaWxhQlBISjA3VmhabGxHQ3hjTTEyNXVQSmxvSkoxek1BTkp3WkNLelJWUnJ0VjVUVnpZQkxoenZHNDFjSVZBaHNsQ1NSYWxva0VZWTlIeEZ0bE5pMGJUd2ZOSGxkSWM2ZE5NTjR3?oc=5)</small>
+- `[22:00]` **WellSky® 深化与 Adoration Home Health 的合作，以扩大临床编码咨询服务**
+  <br><small>🇬🇧 *WellSky® Deepens Partnership With Adoration Home Health to Scale Clinical Coding Advisory Services* [🔗Source](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVEJSbjMzWk0zNXZOQW1abjMtTnM0a2NOcUhiYWRoVnVIZ2ZTN3RTZFAyRWJZZEp5OFVvdHpVOGlzc1ZpdW5XbFBvV0VpbDdnMVhsaERTNjRFS29ONG1hN21nWHFkY0otU1dEQXdOdFNEWU1ULUZKaHlveFhycm9MTEtpcGtKY0dDc0kyMzZ3WWlBaFVsWmc2b0NfMklIN3dqay1IcWN1X0I1Z3RNaFZnNWt6N3h4d2lCd1BhY21tRHRnZVJtblZJWnNQVGhJR2RQd1N4QTlJVFBGZlF3WE4ycEZfS2MyMVVaTUE?oc=5)</small>
+- `[15:45]` **到 2036 年，智能电视市场将达到 825 亿美元（复合年增长率 11.8%）|中国和印度引领增长| 4K UHD 出货量突破 60%，55 英寸以上驱动溢价收入 -- FMI**
+  <br><small>🇬🇧 *Smart TV Market to Reach USD 825B by 2036 (11.8% CAGR) | China & India Lead Growth | 4K UHD Tops 60% Shipments and 55-Inch+ Drives Premium Revenue -- FMI* [🔗Source](https://news.google.com/rss/articles/CBMipgJBVV95cUxOemhzMUgxUi1TV0xpU0x4NDNlMFgyU2gwX3BTU2diZzNKVzdfZ1lUa3NIUUJkM2ZrVmhENDN0VFFhdFYtc1BsVUZDeml6WG80U2dJa1MtQmpZWHlKMTVTUEFVdFk3X1M2ODRDZGcxQ1RqX0VEeU9vWmRTN2ppTXoxX0N3YloyVVZ3RUN3cEJ0LWJmTVR5R3RBdVhyVGpqazhZX011VUdIck4tNW9nMGJhdkZJa2piY2t4bDh3VnNzU19qakNTdUtjaHQxdnVDQUYtdzIzZnNSRVd5elVJVlBEMFNtN2gzTmNjaV9qRkQzVUVacjd0RldJcnJlYVFsRjc0XzVwajBWdXZDWm5rNVFGbUFTZ254TmlZN3VteW1GNVo3Vkk2YVE?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[11:59]` **【Blood】继发性中枢神经系统大B细胞淋巴瘤不同临床亚型的治疗模式与预后差异-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9tcVJzQ3FHV1FtWmoybUNwWFRvcS1PM00xVF9VYmNqT2tjbWZtSmVBcHBUY1BHbGxCTXIta3lqMlpTazFQMkJRWG9uaEZ1NE5PQVVtdW02d3Z1V29iV3ZxX3JaaklOc0VpRWRuMGVn?oc=5)
+- `[07:40]` **为了美国临床和商业化，全面构建全球生产体系** [🔗阅读原文](https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WnBCNVVxZmliRXMyc0hUQVJCMGlncVJWUm5pcXJ2V0cwUGlLV3FqX1FxMmFBcHM4TTVhN0pKb1dPVVJ1QzZ3WDNNYXRHNW8?oc=5)
