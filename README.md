@@ -1,16 +1,19 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-02-20 | **更新时间**: 06:56 (北京时间)
+> **日期**: 2026-02-21 | **更新时间**: 06:50 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[22:00]` **WellSky® 深化与 Adoration Home Health 的合作，以扩大临床编码咨询服务**
-  <br><small>🇬🇧 *WellSky® Deepens Partnership With Adoration Home Health to Scale Clinical Coding Advisory Services* [🔗Source](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVEJSbjMzWk0zNXZOQW1abjMtTnM0a2NOcUhiYWRoVnVIZ2ZTN3RTZFAyRWJZZEp5OFVvdHpVOGlzc1ZpdW5XbFBvV0VpbDdnMVhsaERTNjRFS29ONG1hN21nWHFkY0otU1dEQXdOdFNEWU1ULUZKaHlveFhycm9MTEtpcGtKY0dDc0kyMzZ3WWlBaFVsWmc2b0NfMklIN3dqay1IcWN1X0I1Z3RNaFZnNWt6N3h4d2lCd1BhY21tRHRnZVJtblZJWnNQVGhJR2RQd1N4QTlJVFBGZlF3WE4ycEZfS2MyMVVaTUE?oc=5)</small>
-- `[15:45]` **到 2036 年，智能电视市场将达到 825 亿美元（复合年增长率 11.8%）|中国和印度引领增长| 4K UHD 出货量突破 60%，55 英寸以上驱动溢价收入 -- FMI**
-  <br><small>🇬🇧 *Smart TV Market to Reach USD 825B by 2036 (11.8% CAGR) | China & India Lead Growth | 4K UHD Tops 60% Shipments and 55-Inch+ Drives Premium Revenue -- FMI* [🔗Source](https://news.google.com/rss/articles/CBMipgJBVV95cUxOemhzMUgxUi1TV0xpU0x4NDNlMFgyU2gwX3BTU2diZzNKVzdfZ1lUa3NIUUJkM2ZrVmhENDN0VFFhdFYtc1BsVUZDeml6WG80U2dJa1MtQmpZWHlKMTVTUEFVdFk3X1M2ODRDZGcxQ1RqX0VEeU9vWmRTN2ppTXoxX0N3YloyVVZ3RUN3cEJ0LWJmTVR5R3RBdVhyVGpqazhZX011VUdIck4tNW9nMGJhdkZJa2piY2t4bDh3VnNzU19qakNTdUtjaHQxdnVDQUYtdzIzZnNSRVd5elVJVlBEMFNtN2gzTmNjaV9qRkQzVUVacjd0RldJcnJlYVFsRjc0XzVwajBWdXZDWm5rNVFGbUFTZ254TmlZN3VteW1GNVo3Vkk2YVE?oc=5)</small>
+- `[21:30]` **ImmunityBio 与 Biopharma 和 Cigalah Healthcare 合作，在沙特阿拉伯为膀胱癌和肺癌患者推出 ANKTIVA®**
+  <br><small>🇬🇧 *ImmunityBio Partners with Biopharma and Cigalah Healthcare to Launch ANKTIVA® in Saudi Arabia for Bladder and Lung Cancer Patients* [🔗Source](https://news.google.com/rss/articles/CBMilAJBVV95cUxQcTJpMmYzOEsya3VSOXRJelVqOFZEaERHS0lOOVVhc19nNFJZZ2h1M3NaTUpycjFiRkNVT2kzMkpzNjRCQXJoTDZFVjVZSVQ3bmtrTEhtamhVSURkM3J0V1phclR0aElOWU1kRmJoVHc1dVFLQkd6MnhkQXF6QzZoY3UtRTBqMkVuYWdJWm0zQ0RuTkp6amxZSjMxeENZbklQQzBwbXhpbDhvbmgybWI2QUJpd182ZHpYTXplZHI5QmZUSmFUM3pjYVlLZE1MMFExaHI3a0tJNkw0ekRONjRaSkJrSTZQMVNqdFQyY0ZqNDBDR0R2YnVnYzVTeHh1UDBFdHg2T0hxdWxZWGg3QUlyNnFCR08?oc=5)</small>
+- `[15:00]` **🏛️监管 | 美国食品和药物管理局 (FDA) 批准 VENCLEXTA® (venetoclax) 和 Acalabrutinib 联合治疗先前未经治疗的慢性淋巴细胞白血病 (CLL) 患者**
+  <br><small>🇬🇧 *U.S. Food and Drug Administration (FDA) Approves Combination Treatment of VENCLEXTA® (venetoclax) and Acalabrutinib for Previously Untreated Patients With Chronic Lymphocytic Leukemia (CLL)* [🔗Source](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeWJvT1dzNlFOaUEyNHpWMVY5UmpzLV9WYy13TFVLWDh5aTRHazV0QUlhalBHQnJ0NktpTG1IMk9PSnBoODNaUkJtLTIxb0dDZU9jZ1N3enRKQlF6U2FZUFRjSFZ0R0ZSSUF2dUtRaGV3WFhXTDVidTZqT0cwSl9jSVlxOTYzTWEzZ1A4cFVmQS13U1BzTU1JMlE4STlIZlIwM1BzQTJxZTNIZEZqa2t5dXJ3NkE1NHZxUy1EdEs0VVpfcnZVTXh3QlNhNmdZNWF6RWVlbFdFUkpoSU1IVHN4bE9DSG9HMUtUM21IUXRCNmFqNm9jSURwN0RhRXdtdzduRkVLNXlEeURJdkFEMW5lWldEUE9GbTRXRllvYndISnIxb3RLdi1YenpHZVl4ZHZjVHVOOU9SZEdBbVBfalk4bmVGdHZmMkM5SFpGaXFScWRYby0wQXhN?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[07:40]` **为了美国临床和商业化，全面构建全球生产体系** [🔗阅读原文](https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WnBCNVVxZmliRXMyc0hUQVJCMGlncVJWUm5pcXJ2V0cwUGlLV3FqX1FxMmFBcHM4TTVhN0pKb1dPVVJ1QzZ3WDNNYXRHNW8?oc=5)
+- `[05:02]` **iRegene 创下全球两项第一：NouvNeu001 治疗帕金森病的 IIa 期美国患者接受给药，以及 NouvNeu004 在中国随机 MSA 试验中首次入组**
+  <br><small>🇬🇧 *iRegene Hits Dual Global Firsts: U.S. Patient Dosed in Phase IIa for NouvNeu001 in Parkinson’s and First Enrollment in China’s Randomized MSA Trial for NouvNeu004* [🔗Source](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb005SFZBMkk0TElwXzgtX3RwMzBMLUNtZTFfYXl6S0MzeHNLaWpMOUI1cXY1UVNGMm9TVlRPUFoxODNKb1E0QkJ1ZURQR3h0QXI2dDlvelpfVzNLNU9wR1hZUllEYWpGVEI4OGtrY2xEYmNGQVR6QktjcWt2RmRObnNFMjJhVkM0UzVmVktlVHFRejJITmZ3ZDRvbzFyQk5nRV9Kc293cGl6UjJiZmdhTDFDYmNJam5jcE9uMXdJSl9zUQ?oc=5)</small>
+- `[00:12]` **Fierce Pharma Asia——吉利德的合成致死交易；东京生物科技公司首次公开募股； Novo Ozempic 中国销售额下滑**
+  <br><small>🇬🇧 *Fierce Pharma Asia—Gilead's synthetic lethality deal; A Tokyo biotech IPO; Novo’s Ozempic China sales dip* [🔗Source](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2RJUWlYazZodWVMUmt6TW84UUZRZGZpREMxaGJzLUpoZ242U2tta0w1SEZsNFpQdzZNUTZCU3lIU0o5b2JzYlNjY01iaFB1TzBQZ1pvcGxqQzEwZkxZaEpxTWFQNV9uVnMzZUFQVktRLW1kU3BqWWZYTUJoUTViVnYwNk1FQlR1SmxKOFh4dFBjT25oZkZsTE0zbmc4X2tnc194Q3NLVFcyMHRqUHE1ZVdrYlJJQQ?oc=5)</small>
