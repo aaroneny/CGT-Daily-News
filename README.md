@@ -1,25 +1,19 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-02-28 | **更新时间**: 06:47 (北京时间)
+> **日期**: 2026-03-01 | **更新时间**: 06:44 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[23:38]` **🏛️监管 | Gallant 宣布与 MWI Animal Health 建立首个同类合作伙伴关系，为兽医诊所提供预期的 FDA 有条件批准的干细胞疗法**
-  <br><small>🇬🇧 *Gallant Announces First-of-Its-Kind Partnership with MWI Animal Health to Deliver Anticipated FDA-Conditionally Approved Stem Cell Therapy into Veterinary Clinics* [🔗Source](https://news.google.com/rss/articles/CBMivwJBVV95cUxORk5XWWtDOXoyWktPQUFuYWU4REN0T2h5dUl1UlI3Tk43OWc3a1kzeDFSWjJVUUhZVjhaVGVlX20zcG54cV9EUmphcmZvZThjXzFuRzZhMTJhZ3NNNndpZlRObE1mWXN6T3F3cTdmYWRORFVkN2FONHRvcTlfaDdsNTVWNGNHYVdRdW90T3YzV0lwSkpkUk9iRExhU1VFeVU0ei1SYXBSNkl5dDRJRmNsWkEzXzNzbVh4bm9FR1FJamFUQkM3X2phX2hQTGQtV2VhZXlmTlhJVVY5SE5BakNIUWVReFVDR0JleUxHT2c2T0VYYTZVZGlsUWM5REZZbDR0Vi1OTEZGM3JjOG1yNzNGTS1sc3R6cTJnQzhQeFNORHRPdnRtMk54dXIxOVJMQjVzSHpmanp4aXV5Y3VoQXh3?oc=5)</small>
+- *当前暂无过去 24 小时内的相关重磅全球资讯。*
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[03:00]` **京津冀自贸试验区发布全产业链协同发展机会清单** [🔗阅读原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUk0cDdxLTdUX29rTlhESzdDYjZaeXJHb2VqcjJMVFhFa3U1VG1LLUJXVFhuVmYwdFd6NDVpWXVHRDBRd2UtelQ4STVHM0RVbHlYWUZ6YXV5UXFYZlR6VWh3R2lIbTVYQzRMM1J0eW1mMTZvU2o0VXQ1RVNnSFJ0Rg?oc=5)
-- `[00:59]` **京津冀自贸试验区搭台助企业融入“大市场”** [🔗阅读原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTZtd2FIUGhjeHVDVFlhQktuNDdCUXJBNUlhaTdMTzdyTWVVdWI2THRtb0dOTmFwNzBHYUMwaWpmLW1sLXNkSEJQMWs5YUFabURULTNBM3RTbFdRTVN3cWd3b2dnLXZ2MHgtc2luYWw2M0VwSVN5UXU3VXFFRU1uX0lCRy1oVmF0WU12RDBTWE5ZbktMaVFsbw?oc=5)
-- `[20:50]` **京津冀三地自贸试验区发布首批“机会清单”，41家企业发邀请函** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PQXAtb3pxM2VtazR6LVNpeDJaRHJ1Qjd5X3FlQXNuS0dLeXhiRVhBQjNPZlZHYndNQWF3TC1WcmVKTmpob3VQdGtEVC1oSU1iUThteURtdFh5WG1Qc1dIcTkyM2Y?oc=5)
-- `[18:31]` **78亿美元！吉利德豪掷千金，BCMA CAR-T即将进入“三强争霸”时代** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE1SbWNwN3k3bS1KZHhZTWJ1Y3A3RG8wdkY5cFAwaDl0UHViYlk2aFRXWHlBVWtONVRoQl9DdFFVZTBack5KV1k1MmtfajE3a3R1SWZUVzJwOENYbXNkdXJGblVHVTBQZEFkV1VTVXgtTWxTX3pzaF9iNw?oc=5)
-- `[13:57]` **【STTT】隗佳/张义成/周晓曦团队证实CD19/CD22 CAR-T治疗TP53异常复发难治B-NHL具有治愈潜力** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE5TTVRDQy01cWxBckZYTXB3MlZjMmZaSHptZE1uZ29UWmJJR242a3N0VjhNSTBWdmttOHd6cEVwZ0hGOXRkV3Q2UkxCc0JXZnpTUFJDU2QzRTIwWGlKWVhWbE9lMlZzcGZweHppMnB3?oc=5)
-- `[13:53]` **易慕峰生物冲刺港股：“抗癌针”处于三期临床 C轮后估值超20亿** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TcHJtMXRGODRxclBwWUtVZDZXeFQ3WlNMQ3pUU3RfOVdxWURIVUQ1Q3NSLTdGeTRNeFdMVFRWaFN6ckpCR0dHVGNZM3U4T3M3S2dZbjBTX05FaGtuMThhWXd5VUhmeWc?oc=5)
-- `[12:13]` **GC Cell 寻求中国批准的多发性骨髓瘤 CAR-T 疗法 Fucaso**
-  <br><small>🇬🇧 *GC Cell seeks approval for China-licensed multiple myeloma CAR-T therapy Fucaso* [🔗Source](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zS1JrcjJtT25HWVRSNE1EdkIxNzVKWHJubnltNXl3LWYzSHoxQW16Sy1wUGlYQk5wOTQzRzk5RmVkMGJna2RVMENrcXdJbklkUlE2TUhQN3FxR2dmTHBBNElmNW01X3FUbTV4eHlB0gFyQVVfeXFMTWh5bGpxTUkzOENEWU1vb2hENDhSU2N3OWNKdzlBRDB4QXVxcUItaHJnQU80NWJocHBFZ1VsWVJpSjFxZzB5RU9iRDVuLUtpNFFxOG5GZWxvblJiT012bkpUcm1TTzNaLWpkUkxtMUdtaXZn?oc=5)</small>
-- `[07:41]` **GC Cell 申请多发性骨髓瘤 CAR-T 疗法“Fucaso”国内上市许可**
-  <br><small>🇬🇧 *GC Cell Applies for Domestic Marketing Authorization for Multiple Myeloma CAR-T Therapy 'Fucaso'* [🔗Source](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UdWowY3FVRDJBUjdqVVd1T0ozbi1haXh4XzlnNzJGUE1za0J4YTFtcC1ySnpoZm05Q3FPZG0wWTBlSkJZOEd0VUhNbzFlSExlUjdBZ2VCNjB5eENnbWg2V01rOA?oc=5)</small>
-- `[06:56]` **韩国 NK-T 细胞疗法希望渺茫，ViGenCell 未能获得生存数据 - CHOSUNBIZ**
-  <br><small>🇬🇧 *ViGenCell stumbles on survival data as Korea’s NK-T cell therapy hopes dim - CHOSUNBIZ* [🔗Source](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0NGTjZOdENXUmpweVdtSHVzQ0g4SUgxRlR3X0RVMktwc0N4b2N6VXNZNXhxX2llOG1qbHB3amNXYk9ocmo0MFMxNmQ2d3RQZE42WHYtNXRQRWY5NXd4T0gxaURGS3ZxcUExNUNmZV9lWmFpU3E4ZFVpY2ZqME1BUNIBlAFBVV95cUxOZENoSUtNdERYYTZYd3dveGZHcTdqMm5EVHlETi1kallibHNKX3E1WGVjanRVRFVSbVdvYTVHUVl6ZFp6dDdDbVJNNjB0WjlaNUR4WEszbGg2VmpPRE9MMlotMjlXc2Z5SFRENlZ0RGdzN0pHa2lYVVB0QXV2NGVxb0FjNVV0WTB0SWxTY3VBSTVFejRv?oc=5)</small>
+- `[20:23]` **CAR-T治疗不再“一刀切”：2026年最新毒性管理策略，患者副作用更可控！** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE50QlNqWnNhaXpySTA2T1RTT1FPRUxXODZZMVJ4SFpqS29YRUs1WW9xS0JJZXBPZ2lLazBHWVhCN0tZMzMydFE?oc=5)
+- `[18:32]` **京津冀三地自贸试验区共同发布全产业链协同发展机会清单** [🔗阅读原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHROSE5XeUh3Q2g4Tko1Q3U3YXVrQ3NqdmZZeldBMVFSZmd2X1VucWZHZ3VNRUIzMzZfS1BQWTNBaGozTnJHTFJPY050UE5YWncwRFh0UXNHNnhXTW01TGNRNndTbVdLcVJuNmR1OGp1WnlIczFvcmNoWHVlWG9oZlRjT0xZM21Vc2lIWnAxMkFfSUdULVRKSA?oc=5)
+- `[16:29]` **J Clin Oncol | 安刚/邱录贵团队报道BCMA CAR-T细胞治疗不适合移植初治多发性骨髓瘤患者疗效卓越** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTHNpbF9JWmUzWnhyNmgzWmxRUHZkd0h3Zi1KXzdmcVM3MURwMTZKbzB1YzFWcFNvZm5PWDhuUzBZcENXZW1jUTlKZ05LTWtiRFhURmJqeVNBandwSFY2bjE3aTU1UWJKVnl6TE5uSFE1Z0NnMW1jQ055VDNvUQ?oc=5)
+- `[12:06]` **国产首款！石药集团siRNA新药启动3期临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9rNjNreUZYUTRTME5FRTA1SXFJX0UwR3ZHRHRBMXZCWldDd21ZdG5rWnh3NWlCaTJxOG5qcjE3Y0Y4dDlOQmFlU2h1b2ZseW1JTTNpVnFyVkdLQ1pIZU5kNjY5WkZ1ZWx6cG5henVfYmxoeUNpQV9SMWx0RFZiQQ?oc=5)
+- `[11:36]` **J Hematol Oncol：浙江大学团队新研究，hIL-5 CAR-T细胞为高嗜酸性粒细胞疾病提供持久治疗方案** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE4yQ2ZEY2dENWZVWmdzcVFsRlZwQ2JFdUg3SDk4R29LX0htMlZEemZOOTZpZFN3aE5SZ1d5eU9KYUV5SVNYTmhBZERHRDRYaXN1NmtmWk5aMzlseXF0Si00WkdrRTJTTTlRMVR0aUh3?oc=5)
+- `[10:24]` **告别终身输血！禾沐基因hemo-cel临床研究成果正式发表，地贫基因治疗迈入新阶段** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9vOXJKS3BlLWx2TWlNN044UERDaElpNVFfd3pHRTNFN3RfNndWWlRwRmFWcWViTFF2czI5OHdCWG1kQU9wYXVVQlYzTXJqRnFJRV9HSmlLUDNBOWtBRHB2SVVNNDc0bExmMVpiNnJ5WWNWVjNMQk5EYjloSEZQQQ?oc=5)
+- `[07:21]` **王振玖博士重磅加盟华赛伯曼，出任临床高级副总裁** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjJHM1FlY2ZmdWdsbzNyaDRBMVliMTBDOXBvVWdVNjVqR3FlT1VjYTUzSlZ0TS0zOTlqYXpYVEVsbUtEV0l4Z2sxbG1LLUY5TWNmck50dHRtNWhOazBEQ0w5MWhMSDR2bWFuRUNMVnJ5a2dsZ1U0VDZBTVBueU95UHFaRmJuZnNmc1Iw?oc=5)
