@@ -1,32 +1,20 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-04 | **更新时间**: 06:50 (北京时间)
+> **日期**: 2026-03-05 | **更新时间**: 06:54 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[05:01]` **Arcturus Therapeutics 公布 2025 年第四季度和财年财务业绩和管道进展**
-  <br><small>🇬🇧 *Arcturus Therapeutics Announces Fourth Quarter and Fiscal Year 2025 Financial Results and Pipeline Progress* [🔗Source](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdjhEdmwta1dRMmNBeE9NdDB6RTF2Z2tDMkZ5Ymg4dXF5QlVTZ1o2R1dUbWRfWlAyQWFqbGRjWnE1UDJyaEFValM2cG9YMzdfSmQ4am4zTHc1bkxGcXdzOEJoRjBGTkc3QzA4elJ3ZlVwUE9hclFfcDRwbG9zaTNRRjNTODhmS2xPTW1GR0FkZGJ4NWkyU05JcXFpeEpoMS1GWVhUaEJqVE9kSnhZZmxDVFdJdXoyOTVWVTk1Wk1qTUVmdm1GbWpJUlNoTjd1NjRqY3pldXpvZDNhOU9oeVNUZmJNajFJaHR1S1lNc1g0dXVfVm5jdUZJ?oc=5)</small>
-- `[03:36]` **在免疫疗法、CAR-T 和精准肿瘤学的推动下，血液恶性肿瘤市场到 2032 年将达到 1,284.8 亿美元 - Credence Research Inc.**
-  <br><small>🇬🇧 *Hematologic Malignancies Market to Reach USD 128.48 Billion by 2032, Driven by Immunotherapy, CAR-T, and Precision Oncology - Credence Research Inc.* [🔗Source](https://news.google.com/rss/articles/CBMipwJBVV95cUxQQXdJNV9vNC1wOHJxQlpZcnNLa3h2T2dpQWtadUU1M1Njb3I0cVp4bXBLU2R1TUdKeHB3b2VCMzg2VklQR2JUdzRNY0RzX3B5UndXbDR1N2wtNEE1MDJyT01MSFJKVGE0R2RCYVlIekVEbThsNUtVZWRtWHZ0TnFrOG0yWmRldjhtUk1tbk9OemNKWGpaZTdMVExjazk0Ujl2TDZ5ZkJzT3c2RXF2LU5MaDltUFFjN2VGRVBULU10c29xM1NzQ0IxTEwyVEJwU1VjX1M3bmw0ampCVElFdjZINmxNNDBYVTQxVU5JZkZPdFNLTzhWTXZjTFV1UWV0ZXdYVzBlSVNsQUQxX01XaEpPX0FSUDdYeU82TUVPM0RNQUdnbzhHajJJ?oc=5)</small>
-- `[22:05]` **REPROCELL 推出用于临床 iPSC 的 GMP 主细胞库制造**
-  <br><small>🇬🇧 *REPROCELL Launches GMP Master Cell Bank Manufacturing for Clinical iPSCs* [🔗Source](https://news.google.com/rss/articles/CBMizgFBVV95cUxNMDlYOTBNX0xEZW1iWk4zYVhUem4xYnRWWks1OEdob3NxZVZWUEt6MmdNOEtKWE9uYnVweFRmWFFUM3J3NDViUXZlbUd2Z1NtS0lvcm5pZ2JKLWhJLVZIQVN5bGE0dkx1VkxpNjVjR2NaYjJlNGZnUHI2amtQTHpzZVdNdWF0QnZ5VG5PSVRWVXpnYThLTFJJNlprTFh0ZHROWmlfZ0J1S0RlSGpXZ0w2S01QbXNTdDl2WFFVOENXeXN1R0dSd2xTZjctNDI5Zw?oc=5)</small>
-- `[20:59]` **🏛️监管 | 皮尔法伯制药公司向美国食品和药物管理局 (FDA) 提交 Tabelecleucel 生物制品许可申请 (BLA) 的 A 类会议请求**
-  <br><small>🇬🇧 *Pierre Fabre Pharmaceuticals Submits Type A Meeting Request to U.S. Food and Drug Administration (FDA) for Tabelecleucel Biologic License Application (BLA)* [🔗Source](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVmhPaFNNVE45RFZJZzVwcW9oYmVKNWNmZTdMYVB3RDFWeUpYb1ZMZTE1X0NBMVpDRm5VNmdrRk44SzVKTklhS2pHS3pDbmxpYkZYelRMbzIwV2NGdk94ZnFqV0FsR19VY3NfMFU0WklXb2N1bXVaV3REUFdHZ3I2ajJoQUdnYWJQVkNoYXBUVkdHSktaQklKeDA2WVNuLUtFdS1ES2hLRHZMQUdjdlhsMzlva3JQNWF4TWxNWlFHYlloYW9kN2RxZE9HeHdPVjM1RmVDNHlBNFBEOEhWckE4QW82THY3Zi1fOVkxOFRmSF9qcU9HZ016UmtDOTZpV2NCLXhtSzZPYm1oZGRCSjBPbFh4a3UxaTF6cUhsVGNTUF94eVQ4dlBUOXJVUkJRQQ?oc=5)</small>
-- `[19:00]` **🏛️监管 | Sanaregen™ Vision Therapeutics 获得 FDA 批准进行治疗视网膜变性的临床试验**
-  <br><small>🇬🇧 *Sanaregen™ Vision Therapeutics Receives FDA Clearance for Clinical Trial to Treat Retinal Degeneration* [🔗Source](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlJQVXROTy04M2dHU1BSV3RJVUtSdDhTTVc0Sno4aDQ1VVNXZXdfQ1lncmRkeVRyc3lkajM2eHJkMmJKa0pNZ3RTVkI3OWdoSjBuWGtXcGtURXJGejVVZkxFWDdZUU0yd3QweDFIZFd0Yy11QXdnNm9aSlc2SzBUVnU1MEVuT1FDdElkbnRoYzNMTzJERXFYcjV2dk9WWk8zTU4zWUxKcVFfV3FiX1hSMndPT1hqMzF3QjhEYkFNSXFvYmlIRnNmSDhqelB1VFltb3pEbklLREtfdDgzaUZ3aHR5UzNFZVRVOHQ1QmZkQQ?oc=5)</small>
+- `[22:00]` **ImmunoScape 宣布与美国首要癌症中心签署临床试验谅解备忘录**
+  <br><small>🇬🇧 *ImmunoScape Announces Memorandum of Understanding for Clinical Trial with Premier U.S. Cancer Center* [🔗Source](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNXZ3bGVPQTlPR291Q2h0SFloV2pNRnZ4MnVnRVo5SzRIdU9yWV81LVZGQUhqYWR6N1RwY29HcFJKUVkzVWZWUzI4eUFRWHhyNmVQb21Ra2xtQXRKa3FGWjZTeG95eU9Ibjgzc1JDUWdEUEdZWnlvNHJBbVZOQ3c3MDYyeURPWXZVekdDWFo3QnNDcHc4Zm5BSFV2QkNJcEQ0bk9iMXZLNmw2NTFlUklEeF9mN0hEbDJ0OFctQ3pBc3VGdVFYS3NwdWwzb0hIX0RRZUh3RHdwamV6dUh4cGlHSVVqaUZDU2xWalM2bEtB?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[01:12]` **🏛️监管 | Pirtobrutinib 治疗 R/R CLL 和 SLL 在中国获得 NMPA 批准**
-  <br><small>🇬🇧 *Pirtobrutinib Nets NMPA Approval in China for R/R CLL and SLL* [🔗Source](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcnZlR2xZcGVkcXBXN1NBX1VsZml4eFRsRU8wSHA4aXBoMWozbTlCN20yVWxrUHl4S2cyVXFKeHZRa29JUTNJMTByRkVBTDJqSThuU2tTVXVqTXM0bjViWU9LdkdnV0dJRzB2ckFtYU1oR2wtMm9PYVc3UVppbHRyTk9PQzZMZ0xmek1MX3RkbUd3WExK?oc=5)</small>
-- `[00:53]` **皮尔法伯寻求重获美国批准被拒绝的细胞疗法的机会**
-  <br><small>🇬🇧 *Pierre Fabre seeks to revive US approval chances for spurned cell therapy* [🔗Source](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnE3dklXWEtQUzZLWlBGMkRtQk9Fb2FZeHlLUlg2TllxZ3ZfblMxMjU0WHRFOEJfVFl5Y29aeTNZb3c5c1VJZzBRMXNSU1RGb2dlRFZLb3hWQWtfa1d4T3E5cWh2UGU4WlN0RWJOSDluMHZ0MnVKcWVIb2FFX05zNE05cUtsa3l5ZHlOMXRFTFdWTGpRckluUEtQWQ?oc=5)</small>
-- `[00:40]` **7 款 CAR-T 近 60 亿美元销售额，呈现「整体扩容、两极分化」趋势** [🔗阅读原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE9LXy1EQkdCbjF0ZjNMSUJfaUJ1OURkNGs4ZnVCY09YQzZtdW84ZjNBSmtabENoUUY5UEpRcFdNTzkyUDJSQXF2c2RfQllQYTA5eXVndUJma3RxNlpnbllHU18wdkVGS0JMZ2RZMWxZb29XUW5jR1JZMUdR?oc=5)
-- `[18:41]` **CureGenetics公布 CGC729 积极的 I 期临床更新：用于复发/难治性转移性肾细胞癌的抗 CD70 CAR-NKT 疗法 | 项目进展** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE91djNzZHo0cDROblR6bXo5UDJhUk9mQ2lCUXpicVc5T1E3ZGJUbzhWaUtuLUZTOXJndHY0YmlPRE9jWW5ibkw0dEhzXzE0d0VRLUk4ZkJTN0F4S2RlZG54c2EwaENsZ2tKdGxiMGxtUTVRZ0ltdHAxR3RGelFPUQ?oc=5)
-- `[17:41]` **Science重磅｜实体瘤CAR-T迎来关键突破，超灵敏HIT受体破解低抗原密度难题** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9ySi1TbnV1d19hRjhsZjU4TGR2MmFRX25SNHdkcVY4VGx3Q29XV1luckg2cVpmOHVyeGdMZlJIT2VYQ1BOZkVhRGNqdzJ1Um9EQ0lxX3I3aEZTUnBLWU5pTmJaaElubXRCTmxPVmQtSDVpTmNDMlREM0dzQm5Cdw?oc=5)
-- `[17:36]` **易慕峰完成近2亿元Pre-IPO轮融资，持续深化实体瘤与体内CAR-T双引擎布局** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzeEkwaHdOSUpCdy1ZNDViNUYxV2xtdU5UVVlvdTJGak9Va3UtSk5xNnRlTWcweG1nYVFmNjQwMEh4MzNqdlpr?oc=5)
-- `[14:57]` **告别终身输血！禾沐基因hemo-cel临床研究成果正式发表，地贫基因治疗迈入新阶段** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9vOXJKS3BlLWx2TWlNN044UERDaElpNVFfd3pHRTNFN3RfNndWWlRwRmFWcWViTFF2czI5OHdCWG1kQU9wYXVVQlYzTXJqRnFJRV9HSmlLUDNBOWtBRHB2SVVNNDc0bExmMVpiNnJ5WWNWVjNMQk5EYjloSEZQQQ?oc=5)
-- `[11:04]` **当自免CAR-T来到兑现前夜** [🔗阅读原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jOUd0MzFFeXhvVTdHcnZXbFUtM2RERzFHdUVzNGRkSFE1OC04T2RZWGNxLVdyYWNoVVlCWmZ5RER4U1JaSTBGcWRpcDEyQQ?oc=5)
-- `[10:20]` **我国免疫细胞临床成果不断涌现，助力实现“主动健康”新目标** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeXdCRkdEb2lNT1dPdkwyTlZVcVQ4MVRCT0lnMG5heTZfNFlySlBrYkJpU19fTERMcmh6RWo2LVhZYTBfLU9BNXJhRWg2WWpqeFFmZUdVLUcta3pyUkZyMUlabU9OZ0dFQ1pRNQ?oc=5)
+- `[21:10]` **全球首个“一次输液”降血脂基因治疗获突破，来看临床试验结果** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTFBBWnlucTlQNG53bVVBcF85YkwxcTR6WURMMEhBVFBsdi1oYmJoeDJUdUM3MjZfTHRJRkRfREVTODFncXdydzJVY3NpamZnZnVWZjB0N3BRMno3V0FzTnpSU2ZxWG9wRXZubTRpdzNUWURUMXp1bHpmYQ?oc=5)
+- `[17:54]` **构建实体瘤CAR-T技术矩阵：重庆精准生物缺氧响应实体瘤CAR-T创新路径获《Nature Cancer》刊发** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE42NlBsMUpraWloV2FEcVp4bzQ2RjRGS0tfRXdvcXlFV0dpZjQ3OXlyRHZKTVA0SGhrTEIyLTMwNG9ycHMwNW9tem4tRVZTdTJnTlVVZ1FPWVkzNVdYSXZUUWRmZS1SSmtka0stR2hyWU1YcEt0eEpfUk8tUzhidw?oc=5)
+- `[14:14]` **莱芒生物完成近2亿元融资，推进代谢增强型免疫细胞疗法临床转化** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42c0NpN0l2UUc5bFlnRDhjY0Q2WnNxT2dZZnZ3SUhNcGc5Y1Ntdnhnam9ITG93dW1WUUozSzNPRkVxWVVtZUlEZU1DMHhqc1BjSkZKQjB3?oc=5)
+- `[14:14]` **莱芒生物完成近2亿元融资，推进代谢增强型免疫细胞疗法临床转化** [🔗阅读原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0dXVHhWMG5Ma2RsV2w0aHJFekptMU11NXh4RHJBazhWeHkyd3NFUnoydEFYTDFmT3pmUkxQV2F2bDlwUUFrWmpZZVZ5R0IxZmhDWUJnQjRua01HNzdIbnpNaXpJX1hfYlRsbTlscEJqNXJJN3VpcEpmMnBlVFNlOVNNeWt0OEE?oc=5)
+- `[11:37]` **晚期头颈癌新希望：CSPG4 CAR-T细胞疗法突破性进展，实体瘤治疗迎来变革** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3emZ6Z0NwR2pHbGpnbWZkN29UUGxESUJyN0Q0SEdNWi05TkR2OXNYQzZJdFg4UWFpbW05alJzd1RiMlI0bEE?oc=5)
+- `[10:06]` **易慕峰获近2亿元Pre-IPO轮融资，高榕共同领投，实体瘤与体内CAR-T双引擎布局** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ObWNtVVpvTnFMRHJtTUFObTZVbS1NQmtGUE8zNG5mLVpNWjlnbjhtZ21tSHgzdHpjWmYwTlprTTR6Ukg0bENfbHU1MV9pMU9ZUHpGSWIzeDBSbmRyQXNGcTF0Nm5kSURySEtOT0R1VjNHYnB3aC0ybjVxX3B3QQ?oc=5)
+- `[08:02]` **莱芒生物完成近2亿元新增融资，加速推进代谢增强型免疫细胞疗法临床转化｜36氪首发** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWUZUbFR0clYyU0toWHdXenZYZUk1YnZwWGNYeGxoVnhfa09BV3lPR01uVkVIYl9PVGhuS1lERUJySVlUWUFIUUZuZFNITzdCbmdGLXRR?oc=5)
