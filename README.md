@@ -1,20 +1,21 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-05 | **更新时间**: 06:54 (北京时间)
+> **日期**: 2026-03-06 | **更新时间**: 07:32 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[22:00]` **ImmunoScape 宣布与美国首要癌症中心签署临床试验谅解备忘录**
-  <br><small>🇬🇧 *ImmunoScape Announces Memorandum of Understanding for Clinical Trial with Premier U.S. Cancer Center* [🔗Source](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNXZ3bGVPQTlPR291Q2h0SFloV2pNRnZ4MnVnRVo5SzRIdU9yWV81LVZGQUhqYWR6N1RwY29HcFJKUVkzVWZWUzI4eUFRWHhyNmVQb21Ra2xtQXRKa3FGWjZTeG95eU9Ibjgzc1JDUWdEUEdZWnlvNHJBbVZOQ3c3MDYyeURPWXZVekdDWFo3QnNDcHc4Zm5BSFV2QkNJcEQ0bk9iMXZLNmw2NTFlUklEeF9mN0hEbDJ0OFctQ3pBc3VGdVFYS3NwdWwzb0hIX0RRZUh3RHdwamV6dUh4cGlHSVVqaUZDU2xWalM2bEtB?oc=5)</small>
+- `[20:15]` **Liberate Bio 获得骨髓优化 CAR 设计许可，以推进体内 CAR-M 项目**
+  <br><small>🇬🇧 *Liberate Bio Secures Myeloid-Optimized CAR Design Licenses to Advance In Vivo CAR-M Programs* [🔗Source](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYmNpZ0hMZGloWjZJTHA1NzZpc2EweURuTFVsQ053cDRDUnA2d09NUmJSWFVpaG55R2dZTk9pT01yOHNKVFZWN0gzYnZISDFyZmtlM0YxQkQ5VVVQUnJFcmROallrLTk0dm92NEpNUlZJbUQxZXpjaXdtdWE4R1pyTkVOSHhaaFJDdVRSM0I1N3dDWGVOcjRkd1JtYmMtRVBLM01UYWJLeVVfWkdrVnlEQzdyTXJBMmFYYlA1SnNaTjQ5QzRoOWQwamlWTFNQTkpmWE1nZFV3dld4cU5Ub2w5Z2tTWQ?oc=5)</small>
+- `[20:00]` **NexCure, Inc. 推出 1900 万美元的 A 系列融资，以在社区门诊环境中实现 CAR-T 和其他先进治疗的提供**
+  <br><small>🇬🇧 *NexCure, Inc. Launches with $19 Million Series A Financing to enable CAR-T and other advanced treatment delivery in community outpatient settings* [🔗Source](https://news.google.com/rss/articles/CBMipAJBVV95cUxOWVlHRXFGUUNNaFdCUE9mRkRfeGhnUl9pWUQ5N1p2MEdxWGgxcFdDNTFmOUNMTl9XVTR6V1A0OGFsMTUzdDVEUXRtemdZb0dlU0cxNFk3V0FLVjd2LVRnOGdLbWVzU2lVSjV2MVVSS05aX0dvSG1tWFNOUm1EUUJFNk1qZXNabkE2X3pjcy1ZTFVlaGppYnVVN1lkSnE1b0ZsQ0k0ZmxaQjlpSVNtakdURFZLZ3BpLWdJYm1yVlJtN0pFOXZhOThLN2JMUTZsRGdHMWZBMkg3RUVoYVd0MWdQeWpNaDFIQzdING9tcUxvT0JfVUM1STRwYnczYU5BTFJrOW10Q1FBaGFsX1h6aWJkbk5nTzBZN3JuMm1tR1RVWkhfYXlC?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[21:10]` **全球首个“一次输液”降血脂基因治疗获突破，来看临床试验结果** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTFBBWnlucTlQNG53bVVBcF85YkwxcTR6WURMMEhBVFBsdi1oYmJoeDJUdUM3MjZfTHRJRkRfREVTODFncXdydzJVY3NpamZnZnVWZjB0N3BRMno3V0FzTnpSU2ZxWG9wRXZubTRpdzNUWURUMXp1bHpmYQ?oc=5)
-- `[17:54]` **构建实体瘤CAR-T技术矩阵：重庆精准生物缺氧响应实体瘤CAR-T创新路径获《Nature Cancer》刊发** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE42NlBsMUpraWloV2FEcVp4bzQ2RjRGS0tfRXdvcXlFV0dpZjQ3OXlyRHZKTVA0SGhrTEIyLTMwNG9ycHMwNW9tem4tRVZTdTJnTlVVZ1FPWVkzNVdYSXZUUWRmZS1SSmtka0stR2hyWU1YcEt0eEpfUk8tUzhidw?oc=5)
-- `[14:14]` **莱芒生物完成近2亿元融资，推进代谢增强型免疫细胞疗法临床转化** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42c0NpN0l2UUc5bFlnRDhjY0Q2WnNxT2dZZnZ3SUhNcGc5Y1Ntdnhnam9ITG93dW1WUUozSzNPRkVxWVVtZUlEZU1DMHhqc1BjSkZKQjB3?oc=5)
-- `[14:14]` **莱芒生物完成近2亿元融资，推进代谢增强型免疫细胞疗法临床转化** [🔗阅读原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0dXVHhWMG5Ma2RsV2w0aHJFekptMU11NXh4RHJBazhWeHkyd3NFUnoydEFYTDFmT3pmUkxQV2F2bDlwUUFrWmpZZVZ5R0IxZmhDWUJnQjRua01HNzdIbnpNaXpJX1hfYlRsbTlscEJqNXJJN3VpcEpmMnBlVFNlOVNNeWt0OEE?oc=5)
-- `[11:37]` **晚期头颈癌新希望：CSPG4 CAR-T细胞疗法突破性进展，实体瘤治疗迎来变革** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3emZ6Z0NwR2pHbGpnbWZkN29UUGxESUJyN0Q0SEdNWi05TkR2OXNYQzZJdFg4UWFpbW05alJzd1RiMlI0bEE?oc=5)
-- `[10:06]` **易慕峰获近2亿元Pre-IPO轮融资，高榕共同领投，实体瘤与体内CAR-T双引擎布局** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ObWNtVVpvTnFMRHJtTUFObTZVbS1NQmtGUE8zNG5mLVpNWjlnbjhtZ21tSHgzdHpjWmYwTlprTTR6Ukg0bENfbHU1MV9pMU9ZUHpGSWIzeDBSbmRyQXNGcTF0Nm5kSURySEtOT0R1VjNHYnB3aC0ybjVxX3B3QQ?oc=5)
-- `[08:02]` **莱芒生物完成近2亿元新增融资，加速推进代谢增强型免疫细胞疗法临床转化｜36氪首发** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWUZUbFR0clYyU0toWHdXenZYZUk1YnZwWGNYeGxoVnhfa09BV3lPR01uVkVIYl9PVGhuS1lERUJySVlUWUFIUUZuZFNITzdCbmdGLXRR?oc=5)
+- `[19:57]` **CAR-T指南标志着中国细胞治疗监管体系建设进入下一阶段**
+  <br><small>🇬🇧 *CAR-T Guidelines Signal China’s Next Phase Of Cell Therapy Regulatory System Building* [🔗Source](https://news.google.com/rss/articles/CBMipgJBVV95cUxQbUV3N21TOFloaEhDYkFfaWhRYmNhaTZENUFTbk5RMlZ5RmhVc3dMbThOQjFCUERkbVMzcExhdG1fTkxOaHh0NFhIT3YyYmVveTJQQjBKVG1PNTQwM1NTOEMzZjNzbG5RQnVGWlMwNHEwd1NYQWUyeGEwNm03aTJDUXBjOFhSR2NXaUVXbUtTcFZpZmgwRDFoQ3o0SVE1RE9OR1VxaHJycjFJUDRFQ1R0Mnk5OXRiYTBEbmVSOFNNZERtMnR4U0c4d25ENHBVRlpvS1piNmFFTnMzal9lem9Tc2s1MzAtZ3J5LVBKeG9PV2lvSmloTEVsVTlocU9YaUs1aXd2WG9kby1nNVktTEtoakVNWDlHXzdPdWI5QjlucFo4S0loVEE?oc=5)</small>
+- `[13:54]` **🏛️监管 | 全球首批 iPS细胞疗法获批，日本豪赌再生医学的二十年** [🔗阅读原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXEtMlZNTXp4bnJqQ1hpMGo4UHYxYXdzTXdkUE5uckQ0dWU3cVkzbkVPU3l6bEJQYjJxWVRMWFlCSl91QTQyRllyN244eHhFbHVFcGYwU3BPZG1JamMxeEY5NVR5OWxyd2trWWlPUTlRU290cUFrZ0pBYkZGSW1BZnRFMGVTbHlKRjVuS0MzZ0J5ZkkxWGU1UUtuZlEzSjZsQ3ZLVUp0cw?oc=5)
+- `[13:40]` **一文速览iPSC-NK细胞治疗临床优势与布局** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9kaWVsTXlFY2VWVzU1b1JENm5xdzY4MTZDMmE1V1Y1ZjY1VFlJREVzTjMtNXAxZ2tPczhRMi1QdXY1RmIyWDNwb0RoUGNVQ2dQNks3b1c0TUF2ZXBEang3S2dVbVNLOVJpUkNLeEF3OHEtdVpzTDMwaUc3WVBVZw?oc=5)
+- `[13:16]` **仁济医院发表全球首个杂合子家族性高胆固醇血症体内基因治疗临床成果** [🔗阅读原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NEg0SXotNHEtUDI2cDlVMFhNaGFWM1VPbHd6MTA2cVl4OXBMQ0xwUjBzVkM0SUpKU3BLb3dtdjdNeFVtZlZ1Y2p3czZ4cWhhZmdiRVdhRQ?oc=5)
+- `[09:39]` **以千分之一剂量CAR-T实现血液瘤与红斑狼疮100%完全缓解！晶泰孵化企业莱芒生物完成近2亿元融资，“平价”新型高效细胞疗法开启临床转化医药新闻-ByDrug-一站式医药资源共享中心-医药魔方** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZTItbTJ6QUUzRWw4c29TVXgtUm5GdDQ0Nm8xcHZWMURQM3U1V3BUS0llUUg0OUNfLTh0dTFNWkE5Z1hhemlBejZMc2xKbUJmRGxDNlhPSHRQRHljaXR5MWIwWE5OQ25naEd5SW5FWk5qck0tdE9ZSGtUb0FPUQ?oc=5)
