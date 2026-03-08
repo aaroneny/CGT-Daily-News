@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-08 | **更新时间**: 06:45 (北京时间)
+> **日期**: 2026-03-09 | **更新时间**: 06:46 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,5 +10,4 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[17:13]` **🏛️监管 | 礼来肠道疾病药物在中国获批**
-  <br><small>🇬🇧 *Lilly's bowel disease drug gets approval in China* [🔗Source](https://news.google.com/rss/articles/CBMif0FVX3lxTFB1R29LYXRKWllwSzMyWEhhS21oY2JmTms4Z1ZqdFA1UlhFVk9EN2wtUzhSWk9yQUt0aVg5MEtYN2hZb3dYeXpPRDlMM1p3MF82NU1wakNjTE5GSmstUlFEZ0VOcC1DcTBaR1VVcl93czBrUEMzTDBzZVgtcVp5Tms?oc=5)</small>
+- `[19:49]` **192项全球临床试验，结直肠癌双抗治疗的真实格局** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkduS2hpODc4UzRDM2JSd1dFN3EzemRmY3FrbzdBUHV3aGF2NkNtc3dsclkzZzczUnFPeFFDdmphUGZnc1VQX3RKaDFzcE12cmVqU1lxcHJKdF9kLUhyelh3bTBwQURTWjRxSFliRXdKLUJjUDJpdy1sbFRGbDdnb1lBUFZQY2t0R1I0?oc=5)
