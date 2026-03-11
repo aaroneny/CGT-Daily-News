@@ -1,22 +1,21 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-11 | **更新时间**: 06:50 (北京时间)
+> **日期**: 2026-03-12 | **更新时间**: 06:46 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[22:32]` **潘兴广场基金会向八位先驱研究人员颁发“MIND”奖**
-  <br><small>🇬🇧 *Pershing Square Foundation Awards “MIND” Prize to Eight Pioneering Researchers* [🔗Source](https://news.google.com/rss/articles/CBMizgFBVV95cUxONno4MC14bmhDYW9BUXpnaXlVNVdBRnRXczREQnhuOTFYQ0ZpZzVBLVZxcmp2X0s1VHZnTWhlVDJtcl92N0xZTHU1YVBGZ1NKb08xT0Z2RXNQZURiVzd4aWpMb1F1TzJrQjdlQWpfVVprNVk3bGQ2ZUY1WHFLZjgtM3JvT1RNUUJ3Qk5WSlNjVFVucldpR2lwcngtVzBQd2ppSmNHb0VLSnQwcERWRFJKMlVzdjdmdVl6ZUxtb0FmcEdOb2RKcnpHUTNPaVZEZw?oc=5)</small>
-- `[19:01]` **Precision BioSciences 在 2026 年肌营养不良协会临床和科学会议上展示临床前 PBGENE-DMD 数据，强调持久肌营养不良蛋白表达和功能益处**
-  <br><small>🇬🇧 *Precision BioSciences Presents Preclinical PBGENE-DMD Data Highlighting Durable Dystrophin Expression and Functional Benefit at the Muscular Dystrophy Association Clinical & Scientific Conference 2026* [🔗Source](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNbmxZRmJWRnFJUU5RcVg1c3k3clF4dGRDa3VFNDhSYWsxVlFULXc4NXQtMWVhc1FObVZ5T3Q2SGtybUpKOHlIUjhxWFJPODMyVXJ2eEtiYm11UXFQUVpNZ0JEWlJOVGtVaElmZ3FPeGk1a1BIME5iVGZVRzJpYzRYbWJxYkU1emxSOVRMbTlVMGE3NWZpQkRNS2hCR0ZPSWNxeFVSSzd2OC02RE9LbEpsVE9xclVHbWdmZTNxYUV3TjFOM2NvRWdGLTlKX1k0anZ5MnFZMFJQdnp6cWlRd3lkTE5qRWtnNWJxTkZQaW5oLTBfMWJkODczMVRMcU5aYXdyYzFha1JCVlFla09TNUd2RF9NUDBCV3U1czBlWmdMNFI0VEp1MlVDNElKbEM1VTk3UjIySkFJeDNpem40UW9XZXh2WEI2ZklOTWRiQU0zRjZFSE1XNFYxUlZlbEl0TzBKWmJwYkVRSFVjWEZlWWNmdw?oc=5)</small>
+- `[20:00]` **Catalent 和 GelMEDIX 建立全球合作伙伴关系，共同开发和临床制造治疗眼部和视网膜疾病的 iPSC 衍生细胞疗法**
+  <br><small>🇬🇧 *Catalent and GelMEDIX Enter Global Partnership for the Development and Clinical Manufacturing of iPSC-Derived Cell Therapies in Ocular and Retinal Diseases* [🔗Source](https://news.google.com/rss/articles/CBMitwJBVV95cUxQRXN1Y0dPR1pRUnhnUlNiX1dYRkwxRnRqanVjV1RBX3N5Rzc0RW0zdVRIeWdqRnZqd3dmUDJCamZULVM2ZXM5dnVRZlg2ZE9wOFAtRkI1QU84RS1FZmFHVFdaRFVtNW1UaXNsUWJyS2lpOEVFOW1xUFh4YmxRbDdiRi1nNXdfU3VhbDMybFNTU2VvbW5iczRLbGxTWXR5ZnBfU3FvZk91OXpQbHRiMF9lbHVqUzFfc2M1SlFUaXh3a0FrMzJvQWNuWFI2ZXpBVDhPTlY5N3RZZ0J1U3NYOTQ5dzRqS1E5Q0tEWDUyV2UzcjZsOG9qdzlMa1ZnOGRGbDdFZHoybWdTVDdpOURILXQ1TE05eU9YcGZSb2VaS2hoYmxkYjF0dGd4V1BUalZ6c0NWMzZvMDRVRQ?oc=5)</small>
+- `[19:05]` **Veristat 向寻求有效进入欧洲市场的中国药品和器械公司拓展监管和临床服务**
+  <br><small>🇬🇧 *Veristat Expands Regulatory and Clinical Services to Chinese Drug and Device Companies Seeking Efficient Way to Enter European Markets* [🔗Source](https://news.google.com/rss/articles/CBMimwJBVV95cUxNUG5CSktCdlJNNjZTWnM1SlVaUlp5b3ptM240QXowX0NrV0ZEUkJYaVZLdkplTjFWc1VsT05JY0pId1l2MXVRS3pBYnJpdHdXTEZraXBlSThEMW50U25aTXJJUHZqZmE3MGdlUUpyVE5MQ0lMU2hUYUJvdlZ0X1pvdWFwaG5hZTkxMWF0RWlCZzhCc0lDYzlJMkVBVG9RTEJoMWE0YzdwRUFGczRHRFllSU82OE5PT0dJVTlZWFhjYjRPNXFzc1hhU2M1dzN6R2gxT1pPbWZyOFV4amFMeVdZWUJHdWNhYVhRQmt3aFlibWNnRHpoWTJ4eExKb2hwd19LNmQtcUgxRHZZckptVGNDRUpkTGhRdFVaelRv?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[21:19]` **传奇生物CAR-T销售放量，盈利拐点将至下的喜与忧** [🔗阅读原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0N4emdYZGZHMUhFVFpQU2RuMm1xZTlqNEhWUkcyc2o2QVJHX1ZlbkxJaWhyN0pxalQ3OEdqUV9Lb3FYZVpDWGpHSTVqOWk0YU83ZEpkZXJ3X0Ria1dZNlVrT19nQ1A3NUVncGx3UkFRUmxhZ0Y5bDA1S3RDMHZwSEZaVUJIRnpyZTZKT29tcw?oc=5)
-- `[20:40]` **住友制药获得全球首个 iPS 细胞疗法治疗帕金森病的批准**
-  <br><small>🇬🇧 *Sumitomo Pharma bags world-first go-ahead for iPS cell therapy to treat Parkinson’s disease* [🔗Source](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTlM0Y01iYklnUlpLQm9aV09tVk41Um9NUnBsLS1hOUpLZERwREY2Z1M2MThLYmw3dEJjWU5LM1dfb09rRW9KSnBlU0w1QklGS010MzFhZE9pLVI5U3cwMFV3bmpzbVJvVzl1eUQyMzJDRnFVR2VMcThUVkFMZTJtdVJMQUdma3cwOFFoTTFHaFhObFRlR0c1X1VjcHNEV1hRNUlLUnFZNUZOcEVxUHhuMVNHUmhUaUpwcHJTSVk5WjlmeTBhbE90R2l1NnVDWnPSAdYBQVVfeXFMTUFDbmQ1RDRvYmh6c0lLQ0EtRHVHaW9rcG80RWhxa2lVYU5BVlpiUVpQYkl1YkJRd3QyeDJEUHkzUzYxX1dqVGIyeDJYOFpKZmwtcnJvYlljeks4WjhPZllNcThvbFpvcWN0eHpNN2ctSWxKZmE0aVZYWnRSNkhxZW9wUkhrNGtXb29wOVR4dV9FM19oYkVWTjBuSS1kTTRDeFR4a0YxRnpYaDJGZVZjUGZYSkszMTV3YVZSLXFEaThKS2V4ZnpiR0piTk8tTXZqNEpFd0JXUQ?oc=5)</small>
-- `[18:01]` **🔥In-vivo | in vivo CAR-T大火，UCAR-T真被抛弃了？不，它只是换了身“装备”** [🔗阅读原文](https://news.google.com/rss/articles/CBMiekFVX3lxTFA4WUdLSkp3WTRnS1g0YlFMUVhvaHJYNFV2Qzh5alVVUVBzS1NzSWxIOTRWVGFxLUhVMXItenVMR25sd2puN2h1a2drNzNELTEtdk5SMjR1ZXozcGVmWC0zSjllLU1Qc3RnZ0tkZnZ6dHo4SWZrWHdmd1lR?oc=5)
-- `[16:33]` **细胞因子装甲型CAR-T细胞的研究进展** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFB2YXp6Yk9JMlpHUXpVeXkxUVVxTkxYclBIcVl1ODBZTFRPUUtOanlFVERFUmRyejh6Wkw1QjBXZm9pdkNwOGlxR3hiei1KUEZsSkl1REtwUmlQYXlZZnlOU1pEZUVzeTNIa1ZTdFdR?oc=5)
-- `[09:53]` **重磅合作！英百瑞与中国医药生物技术协会医药生物技术临床应用专业委员会达成战略合作** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE53bDBNYUZhajViWTViTFEyRlZidXF5QzZHT21CS2REMjVhVUtiX0NaeHRTVkhGUUdMelN6N3Rrd3l0QzA2eUl0UmZzWE1RcDFycHJxMTNkT1dPUHp4T2doQl9HNi1pN0dTNF9aamRGdXBKX0dBeTkzT181NXFRQQ?oc=5)
-- `[07:21]` **全球首创外泌体 CAR-T 清除肿瘤细胞，预计明年启动临床，前沿方向持续加速创新** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWd5YjdKUG4zdGpjNUxDR2RBelRhTDFSdi0wd0FTaUxjSjNoQ09SV3BiRE9WeVRNUDJyc1RCYVFUbXhIVHJVWkFJdlJTWUc4Mm9KellxTXZ0NkJHX1ZlbWhSendpdnlCNk5mdXVmdWhoT25feU5fZjZvS3FpRFNuUFBmX3NOMThIUEYw?oc=5)
+- `[04:23]` **中国Qyuns将IL-17生物制剂推向首次批准**
+  <br><small>🇬🇧 *China’s Qyuns moves IL-17 biologic toward first approval* [🔗Source](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmh2dmJyUlF1S1RpMGVQZFRRZ1BYWFBqM2FDUFVGNVRpSmRDN1BlbDBSTUFPTS1OS0YwRHV4LW42NTFvS0NwRDV0TjVpM2F0dlRPYXZjTG9HOXQ3d2p6eXZGcklmb2tkZ2NHTGRXeEFLcUdIRW1BZDNYZE90N0daUXhYMGNMME0yT2ZTOThzVDNtdUlIMExpdzgyTVo?oc=5)</small>
+- `[20:38]` **美国和中国监管机构批准干细胞疗法治疗 MSA-P 的试验**
+  <br><small>🇬🇧 *US, China regulators OK trials of stem cell therapy in MSA-P* [🔗Source](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGQ0THpuNVpoTUY2S3lBTkx5bmp2V0szSjd4QVJMbHdBNkJxYjh3SlM5M20wSmJfT0hKTDdWVlRTaExXNWtxbkZGQUVxRWRUaWF3cWNpdFVKeXV1NVA4UjFQSzFQVm9lZS1CNlRqcWFIUzl1bk9tX0NsN0JhaW0wV1gwSzRFMmFRTElYcXpIeW05d1FrLUE?oc=5)</small>
+- `[07:21]` **🏛️监管 | 10 款 CGT 疗法 IND 申请获批/受理** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVVRWnJfVDFoRlVHeDQ4dkhLcGNCWjhMR0plTG9fVGNSYS1LaG1ob3d0SlJBbXZ1eEpSTmxBdWU2dnU4ZTQtSzBfUHI2VHZMa1FKeFRRV1NoUHVrR0t1aTZSSnl0ejB1ZVJ4cjhZV3lRdVN5Ty1zUS1KamdxZkFFN0JXczFRWDRER0pF?oc=5)
+- `[07:21]` **百万售价国产 CAR-T 订单增长 42%，已纳入商保目录** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2Q1V0pjVVFSTTNKVTE2WnIwZXlSREc5aEZLcElQeDE2LWFIS0s5eFl3dF94S0JyTzEtMmdXaGZ5ZDAxVDI0Qk4yNHlYamgwYm1PcDVEZjVoZDFFbl9MekdOT0tCUHhuLXFHUUxmOHotcE8wVTRDM3lkQ2p2QVNXZDMzQUJQN0VJR3JV?oc=5)
