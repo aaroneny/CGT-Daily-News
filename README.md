@@ -1,23 +1,27 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-20 | **更新时间**: 06:52 (北京时间)
+> **日期**: 2026-03-21 | **更新时间**: 06:52 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[21:44]` **CytoSorbents 在 ISICEM 2026 上宣布推出 HotSwap™、更新 Aferetica 合作伙伴关系以及新的临床证据**
-  <br><small>🇬🇧 *CytoSorbents Announces HotSwap™ Launch, Renewed Aferetica Partnership, and New Clinical Evidence at ISICEM 2026* [🔗Source](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb1B3UG5MMUVaV0pFS0hudUJDTFJTdTNtN2NZT09ORUhSTlhtMURBSlJhbmhYaG41ZkdBRFR0V0pJVF8yaHd1bVVCMWwwdXBLWDNiNjBOT2d3U1J5SnZCSlZzTl8ycFdLaGFWWmwwMkVVaTh5NEdwdm5NSzZRQ25GcFowU09RZGVId2s0Vkl1YXAwbExuOHFUdHZ4bjVkbzNJZ1lGRUxKRUk1d3J3ZmFLOURTYno2LWF3R1M5YmVnREFYdHdRb1lJcFJqVWNYdko1SnYtWGpDcndONmFZQWJuYXVEeVdrX3R1QjRxQzdxZnRLeTdjNkVB?oc=5)</small>
+- `[01:08]` **🏛️监管 | ImmunityBio 宣布 ANKTIVA® 在中国澳门特别行政区获批用于治疗卡介苗无反应的 CIS ± 乳头状肿瘤 NMIBC**
+  <br><small>🇬🇧 *ImmunityBio Announces Approval in Macau SAR, China for ANKTIVA® in BCG-Unresponsive NMIBC with CIS ± Papillary Tumors* [🔗Source](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUEFCeWpfdkJndXN1WThWVTBzeFBfcURscnprMWRfUmJuUHVGTVZocmU2cjBuQ1c5LVJZRGRiazJneHp3dlNuS1hjNFJUcjU5MmJrR0tYSjJEZWlkdng2cGs3azhCTkpYeHg0VkpyLXZqcDk0eDIxT0NxTVVUZkZINDcwazFQbGIxRW5uTS1YMzlDRzVnWk10SVZTMzBMdFpVdXVTUUFTNkVvenhxTjVOdFkyenFoZXdpMk1adGNzQU1PdjN1Wkh3QXVtNTAwUTB5czZSazVQckxvLUNzYVBXZjhua3M0UTdhZkpnaE1sNjY0cGVObk0tbmM1N1FiQWc?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[04:45]` **🏛️监管 | Recon：Novo 的 Wegovy 在 CNVP 计划下获得 FDA 批准更高剂量； FDA 授权强生公司的口服银屑病药物**
-  <br><small>🇬🇧 *Recon: Novo’s Wegovy nabs FDA approval for higher dose under CNVP program; FDA authorizes J&J’s oral psoriasis drug* [🔗Source](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWExbG9ITkdlUGxsSFhobl9CNExBN2gyTFc5cE4yTHh4NGJHV1JLMkRDLWRUZVN1d25qb25tS1dLa3B4SVlwR092bmlTU2llUWhJc0lEbHlQSENoWjF1VHg0aElhSi1BZXhjcUdNcVVKX1M4R2wyUkdyQWlXbFdXZzJmaXlyUDEwbjF6NkxiQV9naVlRQVBzeHlnc0Z4WkZ6aWZMU0g0MnlFMndWZ1JV?oc=5)</small>
-- `[21:12]` **吉利德科学(GILD.US)CD19/CD20 CAR-T细胞疗法启动III期临床 提供者 智通财经** [🔗阅读原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE1CVE1PdDhFUDZ0bVVxVDVPY1Ffdl8wWHdkNmlJSnZEb0RWemhDN3E1dkdmaW1UVmplUXotdlBVeTRyT0N0UGJPdTc4RHUtX0ZiYmx2SDRCaGRndEh2UE4xdUxZeksxemQ3V0dQcldnaVU?oc=5)
-- `[17:55]` **天士力：拟合资2.4亿元推进双靶点CAR-T项目研发** [🔗阅读原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZmhBczF2OURua09KY1NPcWpjcDg4ZTRhV0lUWG9mam5vQV9nX0Z4RGVSRTRyeUkzU3V0N3lkcnBmZ1ZBdnVRNEhBR2FKOE5DRGRWM2YzRGtERzhtOHVuSm9QejluTDMyU21uS0tJdm9sZEtveWd3UEhEemM3MjU0bmFlclBvYkU?oc=5)
-- `[17:13]` **博览EBMT丨自体造血干细胞移植联合CAR-T显著改善复发难治性中枢神经系统淋巴瘤患者的无进展生存** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rbUpzSkRmQW1SUTNOSk52UjFyRUQxNmZWcWg2aVdvcDZoWWZsdmtfem1sRk41TTNDMnZ2QVNCWndTWmViMGpwdXBR?oc=5)
-- `[16:25]` **博览EBMT丨单用CAR-T或联合自体造血干细胞移植治疗侵袭性B细胞淋巴瘤：一项倾向评分匹配队列研究** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QVnRDSXRPRTVlb25yaEs5eFNqb1ctS2k2MVZ2RXJDQnljZ2xlVlV6bHZiT2lhTmNxbFpfMTRNZHRJOURwczdZdk5R?oc=5)
-- `[16:23]` **CR率高达79%！吉利德CD19/CD20 CAR-T细胞疗法启动III期临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9EdjEzc1FWWlNBYUNISVBqN3VoTkJrSnZhODU5eTVGTjZKajNkU1lBUmVCTGpYWlV1OHNCQ2F5RGhwUk1LTEpIbzZZT0w3T2dMQWRKbUxrd2NQbmdlSjdDaXAzWHJmM2poVklVVVVsVkpJTDF1UmZvNUlTdTdydw?oc=5)
-- `[16:14]` **博览EBMT丨CD19 CAR-T治疗转化性滤泡性淋巴瘤：一项纳入43例患者的真实世界研究** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IZzZrTVJUdk00aUVtelowa1l4RTBTbnNyVFJVeFktSTE5Yy1DMlZFZ0UwX0RSVUVJNll6NzdSU01Kb283NXZWclpR?oc=5)
-- `[15:53]` **博览EBMT丨格菲妥单抗与CAR-T治疗的序贯顺序对复发/难治性B-NHL疗效、生存及靶抗原表达的影响** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzeTdhRzh3akV3aWNPeE11N21pbnY5TE1PckJvVUpTblpOamdidm9YZGhVOVRNQVJERjlnTWxnc296V3ktejl6S2t3?oc=5)
-- `[09:21]` **Med-Fine Family |天宜康医药完成逾亿元种子轮融资，汪文博士领衔，新一代CAR-T技术剑指“成本与复发”痛点** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5YUHF5bDRTY1NxX2k4bFZkRmZnUllnQkdRNF9fVW55VmozczRYdHVCOVVqSlptT3dwZlZma1g1RGF6ZGVaQXU5bHBQZ1RRX1pzV0cyQzFuSnZlWVY4OVR6ZkNYSzFGU1YtNDFncXB3ZDhaZ2Z5emg4SlF3c0dLdw?oc=5)
+- `[01:34]` **ImmunityBio 宣布 Anktiva 在中国澳门特别行政区获得批准**
+  <br><small>🇬🇧 *ImmunityBio announces approval in Macau SAR, China for Anktiva* [🔗Source](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDR1bnNnX25idUVhQ2pfSVBrTzVYZFpJUWhLYzdwVDVNOFAxNlktMjdqRG1qQklRZWMtc3V1M1h1aHcweDB3YURxeDVsOWhyX3lNSk44M2ItTjlIQ1VEa2hDVGVFVGtTempnNU1rVWVjdFpSaHV3TUJ3S1NQN2xvd09RZ041ZGkxcXMzcjZpcFQ2aVRSeG02ZnRFZDZhSmcwOV9iczJaU3JIRmp6X19XMGJkTU4?oc=5)</small>
+- `[01:08]` **🏛️监管 | ImmunityBio 宣布 ANKTIVA® 在中国澳门特别行政区获批用于治疗卡介苗无反应的 CIS ± 乳头状肿瘤 NMIBC**
+  <br><small>🇬🇧 *ImmunityBio Announces Approval in Macau SAR, China for ANKTIVA® in BCG-Unresponsive NMIBC with CIS ± Papillary Tumors* [🔗Source](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUEFCeWpfdkJndXN1WThWVTBzeFBfcURscnprMWRfUmJuUHVGTVZocmU2cjBuQ1c5LVJZRGRiazJneHp3dlNuS1hjNFJUcjU5MmJrR0tYSjJEZWlkdng2cGs3azhCTkpYeHg0VkpyLXZqcDk0eDIxT0NxTVVUZkZINDcwazFQbGIxRW5uTS1YMzlDRzVnWk10SVZTMzBMdFpVdXVTUUFTNkVvenhxTjVOdFkyenFoZXdpMk1adGNzQU1PdjN1Wkh3QXVtNTAwUTB5czZSazVQckxvLUNzYVBXZjhua3M0UTdhZkpnaE1sNjY0cGVObk0tbmM1N1FiQWc?oc=5)</small>
+- `[20:00]` **Fierce Pharma Asia——全球第一个脑芯片点头； AZ的细胞疗法赌注；安斯泰来与 CytomX 解散**
+  <br><small>🇬🇧 *Fierce Pharma Asia—World's 1st brain chip nod; AZ's cell therapy bet; Astellas-CytomX breakup* [🔗Source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2VmWXR4WE81blZZQ1VqbVdrbTRyR1ZPZ0ZIcWxXZlpNc1o3cGpXaFB1TFpfd0E3X0R3aW94enZRQlRQSnBOWTRNU0hlWkUwMTQ3SHRNa1lpOURrTmJtT3N3S0o1S0RPVWl5Q3RYZXgxUXFGcEJoWHJFZFlqclVpdUkzYmVHQ05IV0N1MmxJNnBxbjZDbEQ4VFJlSy1iWFppRzBFYXJjUzg?oc=5)</small>
+- `[18:25]` **CAR-M疗法攻坚实体瘤临床研究平台正式启动——国家癌症中心与鲲石生物共启晚期实体瘤治疗新探索** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9sSEY4SHpFLVZnc3IybENyRjNCVVljUV9sOEZ5VHhZaVhUMmUtdTc1NGk0Qlg2cmtoSFhsZXhyTFBNVTdHVEo5aUJzcS04X25OV0pNZmpHeXlXbzdxX0ZCdHM1UUVYT0YyUklSN19QbEhmODkzaVJqQl80UE9Kdw?oc=5)
+- `[18:23]` **阿斯利康上海细胞治疗基地深化中国业务**
+  <br><small>🇬🇧 *AstraZeneca deepens China push with Shanghai cell therapy base* [🔗Source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblNiT2pLa1lwOU9iX0g2T2JjYktXbkpCT0FFLXdCX3lHeTJqYzBCcVdLMHRlckllaHhjX2lSV0gtcTdHVGhxemtYcklxN3lZS0Z4NkllQklwYmFuTngyUm84VDlNWk5TejJOaXVnVEplWDktbVIxQ29wYWJFRldVRnlkVWtrWTdINmJna2t3UDZfY3lqSXkyVklJSHFKbnFoM19mUDh5TXdxZzA?oc=5)</small>
+- `[17:07]` **CAR-T细胞中的TNFRSF共刺激域-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFA3c1VrOHRIVkdzMmtvWk1sOGFRR0dOQzEtOTNDWDg0QjJDZ1UwTlVFaG9hNkJGdDlWbEMxV0dET283Y2xxejlnclMyUG1DNGpfSGJuZFV2dEVMbjFidk9rcjAtNDB4aUw3dGN1WG1n?oc=5)
+- `[15:02]` **博生吉医药CEO杨林博士亮相 BIOCHINA2026 并发表主题演讲** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5LNmZtR0VEU1Jja3hSTG4zcHMwV1BlaEN0and5cDU4bndGcGxfU0YzaHFMck9DLWNBTHBQcXBZNUl0Mm9TaTgyaUw5Q005MWdiSW94c0xPcG12eElxaHN5ZGFGRHhrMm1jeUthTFRwSEZqbU5JQ0JWNlVTbjFKdw?oc=5)
+- `[10:10]` **先衍生物斩获1.5亿元A轮融资，小核酸慢病创新药加速冲刺临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE12Y0xCaEJNQUxkbEh6X2pWblZsQlB6dzFuXzZEN3ZRNi1RcjhXR0RyRXRjR2tGSERRLW1wNVpZX29IaFJPdU1KS0N3RGNzeDBtMDh4SERITTY5d3Z3bl8wUFNNdVJOdVUtZHFXYlB1cFFLc1N4TEVMYm9WQ00wQQ?oc=5)
+- `[08:35]` **🏛️监管 | 一款国产AAV基因药物在澳门获批上市** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBPeHF4UkFUYkgxZTJGbTBFdkNKNFV4YW9IbjFsS1dzT3cxSjk1NUdmVXRibzJBSGhLZmFCUHhJMU5tNHVhajFIV2hvcy1mTnNxNkpxRWpQeHV6bzkwemtUeFo4UkhuYW1KaDZUQndmNm9yZy1DVURMNGdaS0pIUQ?oc=5)
+- `[08:20]` **精准猎杀“癌王”突变！国产新型CAR-T疗法为KRAS实体瘤患者点燃生命希望** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTDR5LTNiMVJHczhIbE10dW0yTUdpRDhYdDVSbmtuMWVSM3E5NkMwcEp3RG40dnJjZm05ZUViLVFoWHdmdkE?oc=5)
