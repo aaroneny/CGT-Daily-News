@@ -1,18 +1,18 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-30 | **更新时间**: 06:55 (北京时间)
+> **日期**: 2026-03-31 | **更新时间**: 07:00 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[21:05]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *Anixa Biosciences Announces Presentation of its Ovarian Cancer CAR-T Therapy Clinical Trial at the Society of Gynecologic Oncology Annual Meeting on Women's Cancer* [🔗Source](https://news.google.com/rss/articles/CBMivwJBVV95cUxNY0dOX1JIVkttQ0pYbU95RE1vRHFxaVI1T0M5NlEtOUtEMXJVWGxlRUJKc3ZJMVA1dVVqeTZEbGQyajgycWhzQVBhdTR5T0dMTjhmNmh5WEZFN0I0Y3VnN3JOejhpZmdkeGNUQ05HUTVuWDZQRGRrV29qbjFyZl93X0FNQ3pxVnI4MTd2Z1ZYUWZFUTByNHYzX2Z1VW1LbTVObERDQUU4STFBRDMzRTcwd0U1UHJUVDgxZUNsYWpKcXctcS1rUW5QRExHb2ZwSHdSY2hFdDRIaHVCSmVzY0tEemcwUFVORGFrTjQ1SmlfaDRqdGVnQ1oxT1B2OGt4cFhEeXRtTlE3YV9pbjMzT0JuUm9JWEtvQ25xZ1FkOUhLdENzM1ZxU183ZXA1dTF5ck9ERnBScFBHM2wxX1lKdWdV?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[23:28]` **攻克实体瘤新突破！《Science》发布HIT细胞疗法：精准清除肾癌与胰腺癌隐形细胞** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE95Q3pMN0FVZmtFcEdKc1VfVjRVSFU0N2FGYWlMR1RpSjM5bVd0TTMwSFFUck96b3pBdU5LNl8wcnB4YWFjN3c?oc=5)
-- `[18:43]` **🏛️监管 | 里程碑式进展：英百瑞ACC-NK（IBR854）第二个Ⅱ期临床研究获得NMPA临床默示许可** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRTFKQnN1X2pKY0FldXNScDZDcjZPSGh0VHdlVjRnbWRXOF9nLUJmT0tBVl9PWmVhcjNUSnNxSXFlMF9Ha3Z5OVNLMnhYWlRVbDQwRU93aC1yTlBSSW5hQkdJZzBoMGd2a3hMMGNETmc5bC10UHRucWdSLUltQQ?oc=5)
-- `[13:08]` **疾病管理厅开发出了国家标准"逆分化干细胞"。 这将有助于减少研究者直接制作细胞的费用和时间,提前进行细胞治疗剂的开发和临床研究。疾病厅国立保健研究院29日表示,为了支援国内研究机关和生物企业的细胞治疗..** [🔗阅读原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ia01OSnNIY1pZV2FLTjV6Wl9xaS1DbXZnalhleWF3RWxtemVEcDNTLTc5bk1QVlZLNnBYYlFyWDZ3WkEwWUNhZnMyRQ?oc=5)
-- `[11:26]` **🏛️监管 | 一款细胞药物获批上市** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1abkh3UmVoS1h5dzRpYmtGa09ON3h6eFJPcDlYUXYwMDlxaXdfTzNsa2FfRVpRVFNoSWdlbkpiVElUcHFCUFhha2JMRkx5bV9ta2Fna3dGWTVWSTFLYlFOQWtvTTJwNW9sQ3E5eHpNWWpaRm1UMXJiYnNuMUlQdw?oc=5)
-- `[11:25]` **实体瘤克星来了？Nature子刊新策略让CAR-T细胞摆脱PGE2束缚，小鼠及人类样本均显效- 癌症研究专区** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Cd3o2ZXpncVc5RHlPRHAwamNpTVc4NlNxMGFQYjZKWFZONE1vaG1KemZnUVVJNHVObTdSSlVSRUFqNWJaNmRKak0wYlNiejR3a2JJb3A5dFZPU0c3?oc=5)
-- `[07:21]` **Biotech+AI 突破体内 CAR-T、AAV 技术瓶颈，构建「数据-模型-实验」闭环丨专访西湖云谷智药创始人马丽佳** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnBoYzFPanF3MmNJX3drMmZvNVNyVERGOTdFNWJGUUpiY3ZWMEhZRlVJVUpzNlFKODVkZkRsSVAyUG4xVmJ4TmxnZXhxSHhYZUJVblV5ZTZnRC0xUnJQcWhyaE42WFNxbDMtVW1kcEtMSEx1aFdCdExTcGJrX0tPY3JrT1ZMbkJVMWJWTw?oc=5)
+- `[17:34]` **🏛️监管 | 药谷药闻｜首方落地、获批临床、新适应症获批，张江药谷创新成果持续涌现** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BSWI2dklpVG4ycVUyVUJRNk1qckhkU29UWjVORjRTUzd2dktMZmRWX2V1ai11V2tRZ1luelhSc2p1MUd0QmJzZGxxdUN5d3lERDZTQ21iakRfQVk2dTl3NFVqdS1KdVBzM3g5LWlOMTM4S3ZIa3Z3WDRBdkJlZw?oc=5)
+- `[16:40]` **CAR-T疗法板块上涨！东诚药业领军，市场资金流向分析** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmk2Y0p6Z0ozUUdCWWNyZ3NSNy10SmhRRmNXVW0tS2p4aG9BRnpxSGYwMDFwSGE3dEo5ZjE3ZHA3TmVQSmFqNUhlS1dCY2VMSVpjWGFHdVpNVzVnNjlvMnJ4ZVNKdm5vMTZZbkdwZmdUWndxcjFGMXBwNlNyMzJ0Y29wVWsyeDEwdFdIaQ?oc=5)
+- `[11:49]` **博览EBMT丨苯达莫司汀暴露R/R B-NHL患者T细胞功能恢复及CAR-T扩增改善的研究** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XZGhXVF9MN2xab0NaTl9fcmJidTJYdFZnNjViYXBsZ3pfVVlIQmp4emY0Zll2cHhLb2xwZzN1UG12RzJaellORVp3?oc=5)
+- `[07:37]` **科学研究 - 东海大学提出白血病CAR-T治疗新策略，联合microRNA同时增强治疗效果与持久性** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE84R21DUnJtd1pjdUZWbDBwQnFVUDFwQXE0cXIxQlVmd3llUkQ1Q0xYX2FkU2FOSnBjaFJwM0ZPdUVNRjB1NHE4MHVLaFAxVmVyRlEwZDFJVlRmZlZBcnpFNWtsaGVvb0NSOGRtZnNQMXdRNVFqbHlpWA?oc=5)
+- `[07:20]` **🔥In-vivo | in vivo CAR-T 加速临床转化，递送载体前沿创新与精准策略分析** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEZ2NllXNlRqWFZ1YTV0S2dTdDZ1ZEkxVTBnMlBMRndIdDEyVnNaUFVBLWNuRVloOGo3Zmh0NGlzdEZMa1hpVDhXalM1Rld5U3hXckpKYmtTeS11SjNvU25SaWd6YlVjYzlGWVYyWWVBYThGUGtneTFJOThJMjY2dFVNZDVudEY3S0wyYQ?oc=5)
