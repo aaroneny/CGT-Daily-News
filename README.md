@@ -1,18 +1,20 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-03-31 | **更新时间**: 07:00 (北京时间)
+> **日期**: 2026-04-01 | **更新时间**: 06:55 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[21:05]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
-  <br><small>🇬🇧 *Anixa Biosciences Announces Presentation of its Ovarian Cancer CAR-T Therapy Clinical Trial at the Society of Gynecologic Oncology Annual Meeting on Women's Cancer* [🔗Source](https://news.google.com/rss/articles/CBMivwJBVV95cUxNY0dOX1JIVkttQ0pYbU95RE1vRHFxaVI1T0M5NlEtOUtEMXJVWGxlRUJKc3ZJMVA1dVVqeTZEbGQyajgycWhzQVBhdTR5T0dMTjhmNmh5WEZFN0I0Y3VnN3JOejhpZmdkeGNUQ05HUTVuWDZQRGRrV29qbjFyZl93X0FNQ3pxVnI4MTd2Z1ZYUWZFUTByNHYzX2Z1VW1LbTVObERDQUU4STFBRDMzRTcwd0U1UHJUVDgxZUNsYWpKcXctcS1rUW5QRExHb2ZwSHdSY2hFdDRIaHVCSmVzY0tEemcwUFVORGFrTjQ1SmlfaDRqdGVnQ1oxT1B2OGt4cFhEeXRtTlE3YV9pbjMzT0JuUm9JWEtvQ25xZ1FkOUhLdENzM1ZxU183ZXA1dTF5ck9ERnBScFBHM2wxX1lKdWdV?oc=5)</small>
+- `[21:11]` **Citius Oncology 提供 LYMPHIR ™上市的商业更新，强调早期采用和扩大临床开发**
+  <br><small>🇬🇧 *Citius Oncology Provides Commercial Update on LYMPHIR™ Launch Highlighting Early Adoption and Expanding Clinical Development* [🔗Source](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPOWJManlxU1pQWmwyMTR3MmFvVkZ0UzhlNFgzeFdNcTBnYVN4VFhsNEtaVzlEelIyWG5Cc3R4QmlmcUU0NElEY0QwQ3ZnZUlNMUxFSlhiR0U5Y21KVjhHRkFJQ0JIVUZxbnFYVGxVaEZtZXE2ZHZROGhBVDhtclBDejUzTWFTV1lnNTBxOFNha1RkcE94Z3lMMVJRWGo1NURmYnM2cXpTNkh5MlAwbzNvcTBjbjJaaVNsU1ExdDM5cUFBaHU0NXFMVm1DLUFjTFVkUEpxS1hlS09uSVNaVnpLOGtrSWpBTnNJbklhQU5tZWNJcHNsZFdrM0lLbHczMHFYY05JMl9CVmYyVjg?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[17:34]` **🏛️监管 | 药谷药闻｜首方落地、获批临床、新适应症获批，张江药谷创新成果持续涌现** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1BSWI2dklpVG4ycVUyVUJRNk1qckhkU29UWjVORjRTUzd2dktMZmRWX2V1ai11V2tRZ1luelhSc2p1MUd0QmJzZGxxdUN5d3lERDZTQ21iakRfQVk2dTl3NFVqdS1KdVBzM3g5LWlOMTM4S3ZIa3Z3WDRBdkJlZw?oc=5)
-- `[16:40]` **CAR-T疗法板块上涨！东诚药业领军，市场资金流向分析** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmk2Y0p6Z0ozUUdCWWNyZ3NSNy10SmhRRmNXVW0tS2p4aG9BRnpxSGYwMDFwSGE3dEo5ZjE3ZHA3TmVQSmFqNUhlS1dCY2VMSVpjWGFHdVpNVzVnNjlvMnJ4ZVNKdm5vMTZZbkdwZmdUWndxcjFGMXBwNlNyMzJ0Y29wVWsyeDEwdFdIaQ?oc=5)
-- `[11:49]` **博览EBMT丨苯达莫司汀暴露R/R B-NHL患者T细胞功能恢复及CAR-T扩增改善的研究** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XZGhXVF9MN2xab0NaTl9fcmJidTJYdFZnNjViYXBsZ3pfVVlIQmp4emY0Zll2cHhLb2xwZzN1UG12RzJaellORVp3?oc=5)
-- `[07:37]` **科学研究 - 东海大学提出白血病CAR-T治疗新策略，联合microRNA同时增强治疗效果与持久性** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE84R21DUnJtd1pjdUZWbDBwQnFVUDFwQXE0cXIxQlVmd3llUkQ1Q0xYX2FkU2FOSnBjaFJwM0ZPdUVNRjB1NHE4MHVLaFAxVmVyRlEwZDFJVlRmZlZBcnpFNWtsaGVvb0NSOGRtZnNQMXdRNVFqbHlpWA?oc=5)
-- `[07:20]` **🔥In-vivo | in vivo CAR-T 加速临床转化，递送载体前沿创新与精准策略分析** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEZ2NllXNlRqWFZ1YTV0S2dTdDZ1ZEkxVTBnMlBMRndIdDEyVnNaUFVBLWNuRVloOGo3Zmh0NGlzdEZMa1hpVDhXalM1Rld5U3hXckpKYmtTeS11SjNvU25SaWd6YlVjYzlGWVYyWWVBYThGUGtneTFJOThJMjY2dFVNZDVudEY3S0wyYQ?oc=5)
+- `[19:39]` **🏛️监管 | 【里程碑】可瑞生物首个TCR-TCE创新药获NMPA IND批准，已实现中美双报** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wNi1DQUlsUTJRRXR2cVR2Z2Nvd0d5R25pOWNWcWRnRU9MdzhJa3FlaTFORDM3WVN4UUpCeVBITGgzQU1fUXpj?oc=5)
+- `[17:55]` **在中国真实世界人群中验证PFS6在CAR-T治疗R/R LBCL中的预后价值-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZVNxOThaRVVCWFRadlgwM1NOcVFocmJzU1BobWlKRmYxTUN0YzdURG9XSkhZX3hqZVlUajlSX1BkYWtsM0dGX1lOMDYxVFhQNWRkM1lHcE52MFVKdHlMN1pRdTdrMnRNVGthTGdR?oc=5)
+- `[17:30]` **【文献速递】年龄对CD19 CAR-T细胞治疗大B细胞淋巴瘤结局的影响** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5aNjdsM2YwcG5Qc0lJb1VENG5qQ1JXT2Z5dTk3MzlFR3hNanhuNVZmS1NOVVRRMWpUcE5zTElONzlOVkh0SGJxTE5wcURtNF9ISHp6QWtVdi1qbEd6a3dVdWlfMEdkQ29Yd3dJdzIzWlZwbzNUWW4xaDVjOWJMUQ?oc=5)
+- `[17:05]` **🏛️监管 | 政策丨NMPA：国家药监局部署完善药品附条件批准制度有关工作** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1MUDMxdFM4ZkJnTG5LeDdNcThGZm1raHktT0xBXzFkMEpQanZQemgyLUFMNFdXN0FtLU5va3VFOHFFQ2NQWmZfQ1U1a1NPakxUbnBYeHk1Q2xJenJtWFF5aGFtb3RZU3dOZmNFaHprVndHU1VVWTU0SkJKRWN3dw?oc=5)
+- `[16:33]` **随着竞争日益激烈，生物技术风险投资公司向中国科学管道的上游转移**
+  <br><small>🇬🇧 *Biotech VCs move upstream in China’s scientific pipelines as competition grows fiercer* [🔗Source](https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2RYb25YZVBKR0gzQXV0ODZKaXZXcFJjNURrMFFFYlctNEZ4MEgxOGJQMDd1dGs5SWFsMWxsX0lIU1VzbmVFSXhLS3k0VHQwLW5wbGVaUFgxTFVQeC0xTTNGS1ptVHZFRWNyaFRKMXAwZXRuUHRhOHN5VUoya1JMcVJ1ME5uUm1qSjlyM21IbmFUTF9WdlY5b21tYVhvTGpUeHpEeWFiSjlJVERRX3c?oc=5)</small>
+- `[10:33]` **🔥In-vivo | ​【Nat Med】武汉同济医院开展In vivo BCMA CAR-T治疗RRMM的1期研究-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmYkt1Z0UyQnh6dFdrRVhIX1VjelZXNXVtWnAyUklLb0lqaG91bkNaYUJVeGFDREZ4RnpkYUE4M0FHdUZubG1XUkpSdjhqNmtyTVIxR09QSG9Db1lKVmZlSXo4dGZaUUJQMkktRkxR?oc=5)
