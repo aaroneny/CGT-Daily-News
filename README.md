@@ -1,23 +1,15 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-04-11 | **更新时间**: 07:00 (北京时间)
+> **日期**: 2026-04-12 | **更新时间**: 06:57 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[08:00]` **Oricell Therapeutics 完成 1.1 亿美元首次公开募股前融资，加速实体瘤 CAR-T 疗法的全球开发**
-  <br><small>🇬🇧 *Oricell Therapeutics Closes $110 Million Pre-IPO Financing to Accelerate Global Development of Solid Tumor CAR-T Therapies* [🔗Source](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOFFfZWppeWY1Ul9YZ3FYNnkwNlVzVjdlcUs5Q05lLUg2ZUE3eGlrNjV4U3dEZjVLQ3N5Ukc5OGd5M0M1MXV4dHpVWWdQaXBNWm8yLVdGb2ZtZHVHVmxhTmhRbXpndE1jcWp1SEl2Y05hZ19MeWJHXzlZSmNBdHdQTXZKS2ZveExLZFJnRjBSbGJpQVBnRkF6OHNCMEFqa3h1VVVRbzdCNXVhS2tGcXFZVmRPZ2dJbjJBcnJnWS1ZclVxUWF6VEJrQXBvVjBfMnducHVzWC1FUnRZODZ0R2RzTlBRS1V5NEd6U1hGN3I0Z0s2YUxWaFpiVDJPUUFZODJOZmloTTVzenU?oc=5)</small>
+- *当前暂无过去 24 小时内的相关重磅全球资讯。*
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[01:33]` **监管追踪：安进 (Amgen) 和 BeOne 的肺癌药物 Imdelltra 获得中国批准**
-  <br><small>🇬🇧 *Regulatory tracker: Amgen, BeOne score China approval for lung cancer med Imdelltra* [🔗Source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1HR2pJQXJsR0JMdGpBX2JINnZaLTk0S3JUd1dsWDVWTVp1WlpDSUs5ZFlzNC03ZTQySzJ4cTZOelRQM2JqUHJiUkxac3llMUE0Tlo0Mlk2ZmZqeXRVSEJ4aUg0TVlYRUFmT2pNVUhsVFQ3MURPelB0amtNNnZBUQ?oc=5)</small>
-- `[20:19]` **🏛️监管 | 安进肺癌药物塔拉他单抗在中国获批**
-  <br><small>🇬🇧 *Amgen’s lung cancer drug tarlatamab wins China approval* [🔗Source](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbjE1RDI5aExUNEM1bnBad0dNMHFnR0NLSkk2TDZZY2hVdGY0TDRIXy1ITmpuTlg4a3pNcWR2Mk9zUkVpSmI2TzlqQWJ4LURnZTNYT2g4Vndibmp0YTNrenVnMXNITjhsd0pYVUNCck02cks0TUJnT0FyNDI0dGJsUDZSS1JsdUFMdEE?oc=5)</small>
-- `[17:00]` **CAR-T技术演进全景：从体外定制到体内原位生成 ，免疫治疗迈入新征程** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE41Tm5icS1HQmREVER2OXdLWmNveHlGVkd5a0ZPLWxpaF9TM3ExYTA1R2lBMjZFRkxtZHVUNFB2QS11VEFVRXpQZVQ1UHhtN2RLdFFFNVk5VTdoUENRODBFZzNBVU9XeG9mWFZVb0pwR3p0YVQ5Z2t4N01EOUNCUQ?oc=5)
-- `[12:07]` **原启生物完成1.1亿美元Pre-IPO融资，实体瘤CAR-T全球布局再提速** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1UT3JmZnFzMXB0cmdBYWstZXl0VXBjbGFZQ2RqQ1RVTUdyYXVwQ2pnMDBFOVRlSEhlOGYwNmtjRU5hVGo2d2tJdC1TYW9yMFpna1hZSWszdk1LLUhZcDVyM2hnamppQ0d3endLTGJGRFVMdjJPVG1YWHJWT0pwdw?oc=5)
-- `[08:26]` **🏛️监管 | Lynk Pharmaceuticals 宣布 NMPA 接受 Zemprocitinib 的 NDA**
-  <br><small>🇬🇧 *Lynk Pharmaceuticals Announces NDA Acceptance for Zemprocitinib by NMPA* [🔗Source](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZkowOGpJaGNoenBWSjhOcXVIWllFTDJCOWZ4Yk96ckFoMU5LWHdndm9jc2Zqc001U0V1OUxQNWVFUzllRklORGlWSjRWVkJiV2xvMUNpa1NRekxMSzZVVjM5MExJb0VpZUlJT242MEZFN1dVcEhaRzZSWG5sV3JzM29uZUZNc0stR0o3OXE0UjhrVDN6Q1NfZlZBWlBpT2NfTUVPSk1sWmdGcTVIVTNGWDZ0VXpqWHdpN3JHeEVsdGlZRWh5ODJrRVNFZWJMNkxUa2FzdDR4OFNTSkJydGxDNNIB4AFBVV95cUxNZkowOGpJaGNoenBWSjhOcXVIWllFTDJCOWZ4Yk96ckFoMU5LWHdndm9jc2Zqc001U0V1OUxQNWVFUzllRklORGlWSjRWVkJiV2xvMUNpa1NRekxMSzZVVjM5MExJb0VpZUlJT242MEZFN1dVcEhaRzZSWG5sV3JzM29uZUZNc0stR0o3OXE0UjhrVDN6Q1NfZlZBWlBpT2NfTUVPSk1sWmdGcTVIVTNGWDZ0VXpqWHdpN3JHeEVsdGlZRWh5ODJrRVNFZWJMNkxUa2FzdDR4OFNTSkJydGxDNA?oc=5)</small>
-- `[08:00]` **【首发】原启生物宣布累计完成1.1亿美元Pre-IPO轮融资，加速实体肿瘤CAR-T全球开发进程** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXc1lGTHluMllPZkRqbDRSbklHMS03N3E1OV85cHctOFI3RTJyazFwVC00c1VDYmNPRGNkTHlCaWlmN05TWE9j?oc=5)
-- `[07:16]` **临床新希望：细胞疗法如何帮助帕金森患者走出困局** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5HQ0tRY194ZlRWX3VPWGl0UlF3WkxfcVM1LXpCb0ZkVTlhVkpYU0dfSGd1aHVUNVFKbWhRSktidDZqN3B6VWRIeWd6T0gycGlmUC1feVZ6VGdIRFphUGxKSUlrM2lIbmYzcHBjdG03bVo2S0RXYTc4V19RaVZJZw?oc=5)
+- `[14:09]` **【Mol Cancer】华西医院牛挺/赵艾琳/吴奕君等：生物标志物赋能CAR-T疗法的精准管理-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrSWpPbldiNHhWVEJTekJaZXpsem5hQkRCTVc4T1o1dno1bU8wck84MG5tVE1sTVFSQmhleUh2RWwtV3p1Y2duYWFHMHFWMC03OXkzUW44ZllXbDFsNWtjT1RGdUdTMmYwc3k4T3JB?oc=5)
+- `[09:00]` **总编辑圈点丨一次治疗三种顽疾，CAR-T疗法成功救治自身免疫重症患者** [🔗阅读原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE5ISVAxRkQ3ZmpadlhUaVg0c1pWZTZFMmFWdjl3SDFGUDFIaVc4ZjMyUnRMaUNmWi13QTMyR2FzLUJjalhWWlBUeXc2RUJrVnZmRkczSmEtTmVKNFN6bHBuZjhnYjFna0VNOVBOb05NUlg?oc=5)
+- `[07:20]` **全球首例+ Nature 头条！CAR-T 一次性治疗患 3 种自免疾病患者，7 天脱离输血依赖** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZml4TExTUFlUc0o3NEV3ZlpXSnhHSEJnbEQxYi1lZ0VMU2JrT2t0QUdXMFc2WC1rMFpGLTU5OFM2U0ZUZUVneWNCakFnSGZraTlrMGlmcU5YY1ZFNGdnWTVJcUJUOEVGZ2RPWHJtVlFEU1ZIdm9EMm1PdFgtTUVCbXgzeHRYQ0h4cWk5MA?oc=5)
