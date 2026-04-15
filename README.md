@@ -1,22 +1,26 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-04-15 | **更新时间**: 07:07 (北京时间)
+> **日期**: 2026-04-16 | **更新时间**: 07:06 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[01:41]` **🏛️监管 | 警告信 Solr 索引 - FDA**
-  <br><small>🇬🇧 *Warning Letter Solr Index - FDA* [🔗Source](https://news.google.com/rss/articles/CBMijgJBVV95cUxPa0dkYTJBSkVzWVhoNFczOUFNQWxvNm9EN3JjWndoR1RVVjQ2djB1RkxNNVd0NF9qWGF4SEdXWEw1RVdRUUExQUZQOU5CREpVRHhORTR3ZTU2LTlHbmE5SzFUZ2dJdW85ckhjY25RMzNUbjMxRmZZWFJ2YVo1YkhFVUVQUWtabG1MbUtDRFg3RkpGUXYtY0hraWx0MGFrVl9MVHA2MTllZFNCdndJOXV3a2FoYkoxWEd2eW5GeTBuSVMzVTYwaV93Q3NmQzVRZVA5QVZRVzNsc2pkMXMtUTQzaHA3V19tNTZnZXMxdzFhMXZOSGx4RlR6Y1VBb0xacXN0ZS1id3VZNmYtV0pLV3c?oc=5)</small>
-- `[22:00]` **帕金森病细胞疗法的进展：继令人鼓舞的 I 期结果后，XellSmart 启动多中心 II 期临床试验**
-  <br><small>🇬🇧 *Advances in Parkinson's Disease Cell Therapy: XellSmart Launches a Multicenter Phase II Clinical Trial Following Encouraging Phase I Results* [🔗Source](https://news.google.com/rss/articles/CBMinwJBVV95cUxPUEY2TExzTXZweUdSTlZhVk4xb0VzUmhFUnkzMTg2THB3blVlcy1oZVNvV2ppdDVEVEN3dzNGcnhIZ3BsMmhOVng3RkdiS1NOTTJOUG0wN19ZLUN1Ylh4UEUyZWRaWWNmSkpSVENpX0xKbzBrRVpXNlJZTkMwWmJ6bXR4WXB3VzJDWTd3NDcxV3FJVnBqQ09iWVM4c3FfMFIwbll3UFY4VE1oOE5CSFBENWlxWVRCTHFXZ0N1T1Y1RlM2V09EV0ZlbkhvV09rR1kyZXIwQjZScUdNSGdZZnJkOEVnTDVPN3pzMHpqRFFjcEsxUUM3X3hpQUVvSXNVUEVlRFJzaGVVMTZRam1FZFFBQnA4MFFuem5waEMtZXVndw?oc=5)</small>
-- `[18:05]` **Jeito Capital 在 Adcendo ApS 中领投超额认购的 7500 万美元 C 轮融资，以推进其肿瘤学领域首个且一流的临床 ADC1 管道**
-  <br><small>🇬🇧 *Jeito Capital leads oversubscribed $75 million Series C in Adcendo ApS to Advance its First- and Best-in-class Clinical ADC1 Pipeline in Oncology* [🔗Source](https://news.google.com/rss/articles/CBMirAJBVV95cUxNQTc2WlIydEZHTDlDeUIyRHp5Y3ZEZUpVUWlVSnFiODEyWDMxWTM5SXJSend0SWhLSnhMRXRnZVFPeDZCdFAwVXM3dU1qcWtmLXU0NV96WDdNSmJhV01YRmF6VlZncnlmcHpTbkx1VzE3WGNSOUlaMWx0cFU0MmpjWWtkX2VpT3dmTzk2cTJnbmtvWHRKQlctWjBhNEF4SFRZcDZWSWZDZGhpdGlfMHBXS2pkR1JQbExOOEQ2XzQwNk9WZGFEXzBodjI3WUNMbF91VGZ0OVktcjhDSlBmSkxlY2tmY3BtNlh3SVZzcE5jTEoxaHNfcXJ2U3laMFlYQWpWYXZ5YmMzc1V3Y2dRazN0OW9zQklzWWxsMDZRT08xRE52WURNNVQ2QnR2WDM?oc=5)</small>
+- `[00:03]` **Adimab 合作伙伴 GSK 获得 Depemokimab 的额外营销批准**
+  <br><small>🇬🇧 *Adimab Collaborator GSK Receives Additional Marketing Approval for Depemokimab* [🔗Source](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQm9XOWhrSEtCS3IydTRaZUZDWVAwN1k1UGZOanJ6VmZ1azJRSHhLUmtZbU5pMmVZbkxFLVdVUE1rYWpybmpNdFBLLTJYM1BfREE1SWlPZFRzZDZyWTdzdmROdG40SHhySlNNWG9leGJsc1dfYzNBY3BvaWNVMUpXcnBQSVhQWU1KSEhJakhvSko2MzE4clEwWWoxN2g3aG5aakxBVG16aWQtelBGenZNOTBXVFhoVkxqYlhHWnlackZ6OFBSWWZrT0t0ZlVneEE?oc=5)</small>
+- `[20:21]` **琼斯任命 Soumit Roy 博士为投资银行部董事总经理**
+  <br><small>🇬🇧 *Jones Appoints Soumit Roy, PhD, as Managing Director, Investment Banking* [🔗Source](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkhaZXE2Vzl3d2k3VTk5TVhuUkEyRUlLR0lhWUVKdGN3T0lCQWYzaXVncVZiRkpJMFN3TGNqTjYzUTQ4dGNISnZWSEc3VnNITGlYbzBleVhsbDRQak5uU2I4OGdZaHVKN3FUcWIyWmhMcXJ1N0ZwOTRJNVItVjluQlV6eDdYdGRkdFU1encydFJVUll1a2RqOGsxaVM1TEN6MzROdE5Db1AyMUltUU1jcHh4cHFQS0FoZjlldzl2R2xiRVU?oc=5)</small>
+- `[20:00]` **Verismo Therapeutics 宣布 HLB Innovation 投资 2800 万美元，以加速 KIR-CAR 临床开发**
+  <br><small>🇬🇧 *Verismo Therapeutics Announces $28 Million Investment from HLB Innovation to Accelerate KIR-CAR Clinical Development* [🔗Source](https://news.google.com/rss/articles/CBMigAJBVV95cUxONzlqbERIQ1pZR0pUNkFmNGItcEoxb0syZHl1YXpWaGE2TmFvMzViVkQ3X013MHRhYXhqWkgtTk9hNlJZai1SbmN2UENUcTkyNGhtYkdPTmFSOC1WZHUyV3FKTnp3eHhsOU85cFJxWDlGRW50S19yd2FjVE5ZUEplRmxya0ZDT2ZNYU9Cc3BfaUFia0tMZlBvU0tPeC10Mm5lOGFtMXFkckNYeko1WldOcXZNbVlFaU4xR3RST3pzS0kxYUlGRVcxdkduZXkyMFU0TW9FWUZNQTRBXzYxVTdLd09tWkJEZHZvVnZQVHkyQU85YVFpNUFRU3dOcUZYZEJ3?oc=5)</small>
+- `[19:01]` **Precision BioSciences 在两个欧洲国家获得临床试验申请批准后扩大 ELIMINATE-B 试验**
+  <br><small>🇬🇧 *Precision BioSciences Expands ELIMINATE-B Trial Following Clinical Trial Application Approval in Two European Countries* [🔗Source](https://news.google.com/rss/articles/CBMihwJBVV95cUxOYmJYelU1ekhoMHc3eTUwVjFrMjZ5cUEtOXYyRnJJOUZFOFAydHc2TDlfR2dxcEhzang1QWFEanZhS3l0QnVrOWt2Y3BHY1pmV2ZSVVU5SjA0MERLb2JsVVVkT2ZfcmY2cWE5czlPbHFTNEpXY3BFWGR6YXhPNXZDZTJ0dnJ4OTg2U0ZpZmdqbnN2blJNQzNmTHNSLWljMjRTb2hWN21oQWR1UXhXbFZhd1hHdUREMVVUeWh2LTRZX1J0MklGam5ucHUwQnJnazE3UUlTYmlUVFhpYnJxeXJTNzhqV3psZjJsd2RDU3ZGOUpWNkZ1VFg0VThodFRsVEo5LW5fcWlNZw?oc=5)</small>
+- `[19:01]` **🏛️监管 | FDA 公告、突发新闻和新闻稿**
+  <br><small>🇬🇧 *FDA Announcements, Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adXlvd3M4Z1ZmWVZ4N0tydmQwSzVFZlptczlDN1M5NnpxX0V6NTlkS2sydnhDcE1YOV83NFF1NnJsMjU4Uk0zT0xoQ1gwSlhFUkVwVDBVNGw1Q3ZqUHQ4TUUwdXVhM0NG?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[18:13]` **🏛️监管 | 复星医药子公司双靶点CAR-T试验获NMPA批准**
-  <br><small>🇬🇧 *Fosun Pharma Subsidiary Wins NMPA Nod for Dual-Target CAR-T Trial* [🔗Source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3lfSHlzQWJnaFVMNzFXUzNwSUR0OTlxOGFXSTVmZ0p2cGR3SEdlSWJCZ2E3QU9aQl84aEIwNXpyXzlFTklpMmhfZWZ5VEgzVDdHYTgyVGtGYjZHNEVCbDZxcUVfdGh0Wm9PU0pUbkRTNDVoeG1DQzJPUTZjcVJzYjBnb0pkSW9OZkhWbmROLVBpbmtBeW1NeGdoOUJuRmVtbzNES19vVDVvTHNTOG03aGpNNG02Uk5p?oc=5)</small>
-- `[12:09]` **读书报告|体内“智造”CAR-T：靶向脂质纳米颗粒开启细胞治疗新纪元-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE1HU01Mb2hacGhlYnB4TmNvX1g1eFdJYlc2Unk4QVFPRk1WNW5hbGxzWjd5WVZnS1VXRC0tV1NXcU1lZ0g3d1lLb2pKS1dxeHV3YWlnOU1RNmZEYWpEeGNrZ29XVkNxVlJXUGltRVpn?oc=5)
-- `[07:43]` **🔥In-vivo | 【2026-4-24活动邀请】In vivo CAR-T递送技术的创新方向及其专利策略考量** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE0zb1hrSzFLeTlEODBvMjJoT2RKdi1ybVhFcXB2T0dKNDNodjVXNERWOExieW5jR3J4WVVabkNtNkxwbUU5TGFSNlhHZ05CYWgwU09TTGhTTHNPRVVqNmpwdU1aaXpIUUVmVHFETnh5WHNXTkpWM2F5aE9lQVJZZw?oc=5)
-- `[07:20]` **8 款管线 IND 获受理，现货型细胞疗法/干细胞/溶瘤细菌亮点凸显** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPWktiOGZJcUVITVhQU2p0VDJBN1VYTFZfZm5mLVEwQjBKTDVIa1liODY0T2NtQk5YNm4td3BXaVNRbXgxWTBjTlFvRGMwUjBXckVsSUVvdWhDekJVUlJNRmJvQmN4a2hMN1lONVNNS0hyQWd1YzB1bktvc3hGMnZUc0IzNEJ4anJCRWRwOQ?oc=5)
+- `[00:03]` **Adimab 合作伙伴 GSK 获得 Depemokimab 的额外营销批准**
+  <br><small>🇬🇧 *Adimab Collaborator GSK Receives Additional Marketing Approval for Depemokimab* [🔗Source](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUZ2a0MxQ01IdzR1eFB2ajF3WjcteFdmWEZCbjZ6RzRXOXczczJ3Slo0WlZvNjVKcUZmZS1wdktVRzRmODJUTUlkV1BVYVhrVzVLM1RwQVZVOVFlTVlNbEwwNl8tN2xKR3RzM1IyMVZFRGZGVnB4Z3JCcWhUM3EtTUtrOVM3bHp4dGxIblVIaWtnTkFoX0xOeXc4aXM3WWtXSGpNaVhTTUl5RXk3QlRtdjBPdWpoX0FsSW03SW55QkV4WktTZ2RQTXRJQXV4dw?oc=5)</small>
+- `[19:30]` **甘李药业GLR1062注射液获国家药监局《药物临床试验批准通知书》** [🔗阅读原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUkVBMUkwVWh3bmt5T3BRQlVEZXljNkpkLTFRT2ZIRFhpVkdXWXhORGR4cEFrazNaMmtnNERHa0RocHhYRlpGb0V2a2FCdi00bzBTa3JzbXdWd2Z0ZmZPTERmcUYxcW52di0wdlBYTjNOb190Nmc?oc=5)
+- `[10:30]` **破解CAR-T损害认知谜团！《Cell》发现，CAR-T细胞会诱发小胶质细胞反应性和少突胶质细胞稳态障碍** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlV0d4ZmpER3ptd2RKVjlVaHpsZDN2NFZuZjNiVTJmUWhqSkJHTUJBTjN6UTVTVW9KMDRxaXAxc2R3b2RRUG9GeG9PUjhOZklzRWU0MHNIdHNkakM3?oc=5)
+- `[09:05]` **44岁确诊帕金森病，细胞治疗后迎来“无药开期”** [🔗阅读原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE1zenpIbk4wQjJNN1hudW53U3h5U0FoUHlJeldqUjctV1ZoT0FxeVpWelR0OEhiS3pacVZBZmtNRVRaNzdUZlVRNDRNY0ZUelBlQjk4MTVRay1QLUdnQkJKaHI2WWhQZy16XzhZ?oc=5)
