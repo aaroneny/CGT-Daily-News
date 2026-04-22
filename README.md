@@ -1,25 +1,22 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-04-22 | **更新时间**: 07:02 (北京时间)
+> **日期**: 2026-04-23 | **更新时间**: 07:09 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[02:11]` **🏛️监管 | FDA 公告、突发新闻和新闻稿**
-  <br><small>🇬🇧 *FDA Announcements, Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adXlvd3M4Z1ZmWVZ4N0tydmQwSzVFZlptczlDN1M5NnpxX0V6NTlkS2sydnhDcE1YOV83NFF1NnJsMjU4Uk0zT0xoQ1gwSlhFUkVwVDBVNGw1Q3ZqUHQ4TUUwdXVhM0NG?oc=5)</small>
-- `[00:03]` **Verismo Therapeutics 在 AACR 2026 上展示 SynKIR™-310 KIR-CAR 的临床前数据，表明在 B 细胞恶性肿瘤中具有卓越的临床前活性和早期临床疗效**
-  <br><small>🇬🇧 *Verismo Therapeutics Presents Preclinical Data at AACR 2026 for SynKIR™-310 KIR-CAR Indicating Superior Preclinical Activity in B Cell Malignancies and Early Clinical Efficacy* [🔗Source](https://news.google.com/rss/articles/CBMizwJBVV95cUxNUDg1X0pYV2FqV1UtWHFObXkxc1pNdDBlWDZDeGFZX0RZdFNxNFlTeHcwYTJaODMyc1U2ekptUGdPSE0yTzc4Nko4ZTNUZFBTQWZQNEZpMlB3c3VMNDZRd3dteHNKM3JobEF6QlJzbzdwREt4dnJDSlF1X2pTTC03ZUFzSEhGUmF5OEVHOXE3SWwtY1VyeFA2VmF4UVRxdm1rR2JqdlBVZVluSDJCUEtlUjBMZnFGbU9hMTFKZGJHWklEU0hqbmtlRTl1bFpRT205bXczQ1hBZTdkMUVQZlZSMDVSR0d4QnE4bUt1elNGS2g1YVhYVHMtc096OU1hOHNtQjlZczg1YjJ5dlJFbEtkZHVVUWdYaGJQQVU1WjhQaldiTGRKMXQyY253clIxa0hPWGIxNDlwZmJubHR0ZmJjUUZCQ1VVN3hNTHF1U2xqVQ?oc=5)</small>
-- `[22:00]` **Obsidian Therapeutics 将在 2026 年 ASCO 年会上以口头形式展示 OBX-115 治疗晚期黑色素瘤的 2 期临床数据**
-  <br><small>🇬🇧 *Obsidian Therapeutics to Present OBX-115 Phase 2 Clinical Data in Advanced Melanoma in Oral Presentation at 2026 ASCO Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMimAJBVV95cUxQUXg0S0FLaEpTamlMaURXYXV5cGo0M0FtSWUyV2hIWWg1U3pnampoTVY4YUcxSklGMnZpUURJUjNWME9xc2FXR3FzcHlPZXRtcjF2QzF5SkExQnVfNHc3M19ENU0yWm1HZkhSRDN3YnFLZkppZ2x3aWJiWEVoS21tbHhGUFhoUDNXQnlyU2tGTm1SMS1zSHNPZGtMVTdGZENXWVBUTExrWS1UWGVxWm1sZ2o0czlsN2ZhZ2lvbURNcjNFRzJIdl9SVXJ5Nm5nLXdYTXNEWWxzekVCMloxTmU4YzZqeWllcnNhUnE4MFhSM3R0QnpQNXExc0JPNVM1RGg3MnZvN0xKWTFITjlWMjF2dU1NcFZqbHQx?oc=5)</small>
-- `[13:00]` **🏛️监管 | FDA 接受基因泰克 Gazyva 治疗最常见狼疮的申请**
-  <br><small>🇬🇧 *FDA Accepts Application for Genentech’s Gazyva for the Treatment of the Most Common Form of Lupus* [🔗Source](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONWFHWGx1MkFtSXFLOGFreWUtb2lpeWNHWkJ5T0c4R3NqSGF4SG1jMF8tZWozNkFKWXJOUFRpVUVfanVGQVNWV0U4ajBDbEJ0dHpxeEo3R052VW5uRTVYY1BtUjd4LV84QlFXdTVZUWdVODAxWHltcjN6QWV5RHhOMVhEbWpFYzgyajFodmsxd1FDY0o3TnVETFRRTXg3dVcyeFd0eER2SV9raVZLbFdSNW5UdHc0SGRCRHpxV0FfUUNZTWw1WjJGUWo5TlIzRll6dGhfUEhLUEREaEk0YlNVY2ZUWW1EcFBP?oc=5)</small>
+- `[22:00]` **A2 Biotherapeutics 将在美国临床肿瘤学会 (ASCO) 2026 年年会期间通过三张海报展示强调 CAR T 细胞临床项目的进展**
+  <br><small>🇬🇧 *A2 Biotherapeutics to Highlight Progress of CAR T-Cell Clinical Programs in Three Poster Presentations During the American Society of Clinical Oncology (ASCO) 2026 Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMUNYVXAzaEtMOXVuT3lqTm9QdlhCUXJtUDR2cGhDY1U3U1dVd3IzSGp2eVlWMUo3WHNHS1BUcno3YkJXcTd5bzVwcnltYzc4ak5qVmdqS1JGRExpYWlTSmJPQ1RCdC1kUkE5Nk9jbDEzbzR5UnhuWXZLdDdPcTl6SS1oLXZyMHhFejdvRExQQzk4VlpuWmNMY0hVendZTGlaeWh6NG1vV0ZFblBOY29MYXA3emZITHFfMkhualZuUk5URHhOYV9fSEVDR3FvRGU2LV9mb1FvS3JaV2F6b0tFd1czX3RqVm5WeWR1amdzN1JxdUcwM0VzbWQzWmF2UjJtMVpGVmh0Vm1CcE9fY0RMRXpSR0RfY1hhYVUtVVZYVG81T0FveVRDYUhRYUthVXRTXzloalZyWVVEUlRoU1VxTG96Rkh0WURjbE5OdWc3TENNUU0?oc=5)</small>
+- `[21:30]` **🏛️监管 | Made Scientific 与 Regenicin 宣布建立生产合作关系，推动 NovaDerm 获得 FDA 产品批准**
+  <br><small>🇬🇧 *Made Scientific and Regenicin Announce Manufacturing Relationship to Advance NovaDerm Toward FDA Product Approval* [🔗Source](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb3V6UnAwb1hYVDdQTVRtLXhLM2JKYmtyYjBuRWVsWjN3Yk9YdjhIcjFyWnhvYTZidzl3VTQ0MllDNnlrakFra2dTZXlvWmZVNjVDaGZRZmtrZm9DOV8weVZ2am9ieVpXcUZjbEdteVBXM1NvaU1leHFjaFVXSXFvZE1EdDdXTC0zY1AzdWFMQU5tWW1TMk1JWmpBZFhpckxFdzg1MUNLbkhuSDc3OGdXQ2VpOXhOeDh2Z1FWeldNVVdBVkpXR2VqX0RNV0V5YlVvbGtMWFZkcFlNd290RHlCeHRJUzdTWm56TTN4Uld5RlJNYnRxdzNnOG9LTHhXQQ?oc=5)</small>
+- `[20:45]` **Anixa Biosciences 宣布在国际细胞与基因治疗学会 2026 年年会上展示其卵巢癌 CAR-T 疗法**
+  <br><small>🇬🇧 *Anixa Biosciences Announces Presentation of its Ovarian Cancer CAR-T Therapy at the International Society for Cell & Gene Therapy 2026 Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMirAJBVV95cUxNSkFyQlFuSWVxUzh5N0JudnlpNmtKNUFsV1NJTTBUWXNSSmR2eE82MGJ6MWxDWUNYY2NEc240U0lQUTk5aUF3TFpzaFNXTzdvU0ZKSGZWamNzQ2pmc1YwOURBdzVFVjN4YUl5MjVaVXJIZnRRLVdSbm5lYWdPSTQ4b2tYUlo0eEpDSVNLOHlDQWYzLW5SOW5TWFJGY2pONHZCSWd1MnlNa3FDX2NpcEJaTGMxWEotenE1Ni05dWl4Rm5zb1BDbHNyTlh6SEhTT3hxVWlFVzNXSmhRaS1Wcy01UW1HVUZ4NVNMaTJwTFZRWmtab0NYSnpNR1ltb1l0VXEtSDRydk9Yb3B0bGNITENRMVNUaVRSemFxRjhzUlVPd3VKQzVRVmpFNlNzVWQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[01:37]` **监管追踪：葛兰素史克的多发性骨髓瘤 ADC Blenrep 扩展到中国**
-  <br><small>🇬🇧 *Regulatory tracker: GSK's multiple myeloma ADC Blenrep expands to China* [🔗Source](https://news.google.com/rss/articles/CBMifkFVX3lxTE1HR2pJQXJsR0JMdGpBX2JINnZaLTk0S3JUd1dsWDVWTVp1WlpDSUs5ZFlzNC03ZTQySzJ4cTZOelRQM2JqUHJiUkxac3llMUE0Tlo0Mlk2ZmZqeXRVSEJ4aUg0TVlYRUFmT2pNVUhsVFQ3MURPelB0amtNNnZBUQ?oc=5)</small>
-- `[23:50]` **🏛️监管 | Belantamab Mafodotin Plus Vd 在中国获批用于治疗 R/R 骨髓瘤**
-  <br><small>🇬🇧 *Belantamab Mafodotin Plus Vd Wins Approval in China for R/R Myeloma* [🔗Source](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUN2bnJiRXNuTlBubmxXa1hFVGVTQ0hiSFZzdGlMa1RZbVZuaUFMMTlvVlpVUC0xY2h5c3NjSi1SSl9tQ1ppNDdId1pSTldENW1zVi16QnZ5T0gxaEdEVFZLUnFEQlBNWk96WDhPUS0zNHdjcUd2UDAtS2I2TmdSd29mZWxCOVppYnc4MVBKUnoteUN4WDVyZ0JsMDk?oc=5)</small>
-- `[14:24]` **礼来再砸20亿美元！体内CAR-T赛道杀疯了...** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzhTcUlRZ0s0ejRwWm9XZ1JTZXVlYnFUUkZSNl9RWjd6WkNrdmo5Z1FYM3pVZzIxWTlFWHZWTkZVYU5JYlZVU25NdVppdlZmMzRQbGdMYnRVNVJwNFVFNUJzRWp4ekhmS3pVS1pDRUtfRElLVWhfcnZmZFVQN2dkUldyRUFyc09Z?oc=5)
-- `[08:15]` **突破实体瘤CAR-T限制，SynKIR-110展现潜力** [🔗阅读原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTFhTVW5pbXQwaC1UWmp1YTVZeFNEcGIwTndXX0VrTGc2NWVnVXZqMWZXSEJaeE5Tb01RZlMtS01RNXZfdnFLT3NBUkljQnVkSmdsVUZuaEFmdmc?oc=5)
+- `[18:20]` **CAR-T疗法破局高龄肿瘤诊疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlyQ2VqaUpzalM3V3p0S21MbFhuUkUtU1pRTzV1Umh4ZmFLazA5eWxQZXJQZUJsQ2pDVU1qdDlTdEM4ZWpiTXpob0JuR1IwSGMyQlJFVk9LUHQyYVFVWFdMaFRJaVdmN3dGUk5WSzVMc3FsbUhDVFN4RUhDOGd1QW5EWlhOdWFRMm44aw?oc=5)
+- `[14:18]` **Haematologica丨王建祥/邱少伟团队报道CD19 CAR-T联合第三代TKI实现Ph⁺ ALAL患者无移植长期分子生物学缓解新策略** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEcUZ3ZE1uRTB6eWlGX0dEMXlRRWNiUHNwdjJiekJLQ05tQTloT1ZDeEZCcE9NT0JOMGp4ODl0U196VTA2UkNFOWVB?oc=5)
+- `[11:35]` **礼来70亿美元收购Kelonia，借iGPS®平台与KLN-1010加速布局体内CAR-T赛道** [🔗阅读原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtU0lWZkxfZFREX3ppeWl5NUd3NFVPRzdyUHZFSzNSS1JPbXJScVNnbng1NWd4Wlo1ajFZT1pxTHg4WjZ0aXNDYlRMN3FUZ0pLNXVrdi1KYw?oc=5)
+- `[09:14]` **全球制药公司与中国生物技术公司合作，提高成本和速度**
+  <br><small>🇬🇧 *Global Pharma Partners Chinese Biotech for Cost, Speed* [🔗Source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXF5S3hDck9oMXdjd002NFlKSDFteDVMQVp2SzRmSWs4aEFIRHN6UU1zV2dPNzRTWHpCWmthYkdXUGVoUXdyTjNuTGlIQkd1aGxGSVhMMWs3WjB3LW9ybElUdmgtdkh5QmkwT0RHRTgtUjhhY0xBWkxpcXZxR093aXVQSnZ0SWlH?oc=5)</small>
