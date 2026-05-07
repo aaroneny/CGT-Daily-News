@@ -1,25 +1,25 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-05-07 | **更新时间**: 07:10 (北京时间)
+> **日期**: 2026-05-08 | **更新时间**: 07:15 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[02:11]` **随着人工智能改写药物开发，业界齐聚费城制定规则**
-  <br><small>🇬🇧 *As AI Rewrites Drug Development, the Industry Gathers in Philadelphia to Work Out the Rules* [🔗Source](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0dsNnF0TmFLSElSME9Bbl9tZVBCNm5RcTJEOXRyZVhtOHpfem53Q3JDU3huUVYzN0IwTzh3OVJ5TG1RZTY0UTcwMGt0bzVKMkdKQlU0Y2JOb196LU0xV1NHMXppdmFoYjkwTU5LbkgzenJrNFJvdzNVNTlTSEJPaDl0VXpPNXVtak9WV2U5MXZpcDh0Wm1XanBWNWtVQWFDRmhiQ0pJZm1LTnFZVllVNjBXVEtMb3pjRU1KUzE2OWQyVVJlS3FpXzVTUk5zX1hVT0FjVUlSaGxQa19EeXlz?oc=5)</small>
-- `[21:00]` **🏛️监管 | Diakonos Oncology 的 DOC1021 (dubodencel) 获得 FDA 快速通道指定，用于治疗不可切除或转移性皮肤黑色素瘤**
-  <br><small>🇬🇧 *Diakonos Oncology Awarded Fast Track Designation by FDA for DOC1021 (dubodencel) in Unresectable or Metastatic Cutaneous Melanoma* [🔗Source](https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ0VndDFvb2MtN2d3SnZrWU9UV1V3dzMzbm5KNERwZkgxYnFoQk9UZ2JhZ3lZRGlmd0ZJZExud3dDYTFEVnc5ZEYzSjIxLWFFd3k5enI1bkExTk04Um5maWZKeFVNQ2pCODlUWUdHTVVVRHp5M2Q0b3dZVUYyYzRrZzBrLXBtSWc3YWI4NkZ0SHgzcDN3cWVsQVNuNlFkd2w2N0Vpc3VyRnB3d05iVi1QcWViNmVxV1M5VjZDaGR1eUZra25TdTJvejl1aGlscUJpU2xuZXppbE1tRmpVNllMY01nRDB4TUxRV0d0X1RpWUVuTi0zR2huOWszTlRndnU1N3NjRHBobDVKdGxjU1BGSQ?oc=5)</small>
-- `[20:52]` **🏛️监管 | Gallant 凭借有希望的试点数据和扩大的 FDA 有条件批准途径资格，推进犬骨关节炎 IV 干细胞疗法**
-  <br><small>🇬🇧 *Gallant Advances Canine Osteoarthritis IV-Delivered Stem Cell Therapy with Promising Pilot Data and Expanded FDA Conditional Approval Pathway Eligibility* [🔗Source](https://news.google.com/rss/articles/CBMiswJBVV95cUxPVHBIVVVzU24ycW83a3g0LTVKVmlTXzFUQ2tUQmVuNWloc1hGYWxLTXc0MldkRDNmYmt3SzB4bGdUa0FGOUpuR3Ytc09UdXBfbERZOGpneEp4SUFqa1l4VFZsZERiNFNXQW05NlBwRmNSQXFEUTNFMjBGZEhlalBXMllCV0N2VXNjcm9icXlNYUU1YWZURTNCX05qMFdDLUtYY1lZc2JiZGREWlF5UzRRNV93dXA1aGpKRFlJcFZBMlVkNTNQZlZzbUtjZloxWU1ZazJpck9Qckt1elNmNmFQODRQTFZHZ0xBYmxGTDB2NG12WXFPc0NqeDNuck0wdG42a0cyMUJvcGJQdldqVmI3OUE1b3B1YzZSOTQyT1NQWkhBU0IzMVZwRW1nX3V6SGdUbFM0?oc=5)</small>
-- `[13:46]` **议程|雷迪2026**
-  <br><small>🇬🇧 *Agenda | REdI 2026* [🔗Source](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PcWExUmZnanYycXlRaUtWcjhTSFc3TVdzUmJZSXFrOHEwYkgxVkZSNVZ0TWE5UGFISUMtT2tpWkZlZC1LWTJvcU5MSkVMbzIzZ0Yw?oc=5)</small>
+- `[20:00]` **🏛️监管 | 皮尔法伯制药公司在与美国食品和药物管理局 (FDA) 就 Tabelecleucel 生物制剂许可申请 (BLA) 举行 A 类会议后宣布监管更新**
+  <br><small>🇬🇧 *Pierre Fabre Pharmaceuticals Announces Regulatory Update Following Type A Meeting with U.S. Food and Drug Administration (FDA) on Tabelecleucel Biologic License Application (BLA)* [🔗Source](https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ3BkbXcxVGxhWFgwRHNOV3dmSmQwRHJFeUxzZFJrR2p3c2RkR0tLNnlsR2w4SGZoamxEZzdaV3BpQTh2eHFXekR6RVp1TVJWOEJobXNkeE5QMHNuODcyeDhKVHVoTUpNMWJkbFFFa1NWOGtab3ZEQ0pqZlh0MVg2VXI3ODV0MkFfMTNUS3pEYi1pRWhuMTVJNkZneFMtWG9MLUFMOGNsU0hrSVFKQV9tSUt4Uk9FdzB0RkdkTjNRQ2hDdktZenQtNVViQ2NZZEdOSXZXdmVFY2t1UjljdlZMTTdodENnZC0xajEyS2hwOVdJNTVLX09lRzhCWkNhS3Y5TGZfenZ4TzU1YjhDMGRzeXZrQm5NTzZLLXdMSExfS2U4LTVqWHJuamx1em8ycENaV0twNWpiSUFURmFfTmN6YllCX0hxUFh6NGRwVQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[18:18]` **【新闻】聚焦细胞治疗前沿共促科研能力提升深化临床学术交流肝胆外科中心成功举办“CAR-NK治疗自身免疫性疾病”学术沙龙_上观新闻** [🔗阅读原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyWTY0WTRtTGVsQzZGMXRIc2NqNGxsVmprdVZZRFJ1UnFFZXgtZkduSUVGdzRhMHhwdTRPNVFmNUtNTGpoV29GR2pKRTZiLXhRdWtVUG02RTM?oc=5)
-- `[14:31]` **香雪制药抗癌新药确证性临床试验正式启动！国内实体瘤细胞治疗领域迎来新突破** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGFJRENxeFlrby1TSk5OOEkyS2tZVk5LbDBSWmx6Mk1mUDUxQndwcWJTZjlta2Rka3pFOGg3S0FZZHN6dTI2M25vem05ZlNWd1Y2MHVfZC1sY3dvdEhNT095VTczSzViNWRtUWttM3Fub0hfTFBLcFdrbU5LT3cyblJZdmRXLV9IU0hjUg?oc=5)
-- `[11:38]` **🏛️监管 | 先声再明靶向LRRC15 ADC药物SIM0613获NMPA临床试验许可** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBCNGhlMXcyNVJnYjBzYmxyZmdBOVpEU1JVdVg5cVNQZzJUUGFKTTFXeXRqak9MZERUM29udmNTVzJEZE1YOVFDUzF6NkpKRExHdUN5OUFGZkhwMXNQN2FuaWwtdHU0UFNNNlUwcmhKcWYwcW9Od1hDZlE3U2hKZw?oc=5)
-- `[10:16]` **GC Cell 获得日本细胞疗法生产设施认证**
-  <br><small>🇬🇧 *GC Cell wins Japanese certification for cell therapy manufacturing facility* [🔗Source](https://news.google.com/rss/articles/CBMickFVX3lxTE1HUlZfMlFuYjRpM19uNTlwUi1XVldVN01XT0RRLU9Sc3JrZ21uRnFuNUIzYW5GVlgwTmkyR2NxZGYyUTFlcE9GT295cFhTWDYwU2dmelJUQ3JGbVNPOW1tQi1KTkx0ZW5MaEk4enVyaEdpUdIBckFVX3lxTE1HUlZfMlFuYjRpM19uNTlwUi1XVldVN01XT0RRLU9Sc3JrZ21uRnFuNUIzYW5GVlgwTmkyR2NxZGYyUTFlcE9GT295cFhTWDYwU2dmelJUQ3JGbVNPOW1tQi1KTkx0ZW5MaEk4enVyaEdpUQ?oc=5)</small>
-- `[07:21]` **🔥In-vivo | 快与久之间：in vivo CAR-T 真正的问题是什么？** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZF9YNUM1Uy1jMmxHN3NibVEyb1dpR2hfdTlxQTk1bkxYYlhIR2MtcUh0eE9tT2dLRkxmMGNraExuM0ZEdEV3MjY1ZHFYU2pIcXAtLURST1hsblYzaFZ2NGQzQW1ZUS1Bc29xa3VjeEhBUGVYWVFlbVJQVVhVQjhtcXNhT1c5T1Fna1VMeQ?oc=5)
+- `[23:36]` **无需化疗预处理、低剂量即强效起效！《Cell》重磅：干细胞记忆 CAR-T 破解传统疗法核心瓶颈** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oRW1mbUUtMHRpcUh1N1cyVUw5Nkp2NXU4X0ZEYmwta1BSNmdObUZ3dUVQVTI0aFByNWNzR3pIZmFHaUU1MFBUQ3FqMGNqd0VvWHN2VHVzbE5TNFRl?oc=5)
+- `[23:31]` **GlobalData 表示，中国处于下一次肿瘤学革命的前沿**
+  <br><small>🇬🇧 *China at forefront of next oncology revolution, says GlobalData* [🔗Source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDZSY1J5d1E4ZUZmTmxfRTdER0VaZEt2TkNEVm8xTHRQTVdCeFFPUW9fV18tdFFEM0pmVmd3U0thV1ZLenphMTlXYmhMbTRSWVBDd04wTXY0SUNJb0FVTUMyTzFneGFoMDdkeGxhcDVnRzZrWDJvVE52RmRaZXo3QjhwWjRtSHpqMzNLc2N2cXdxei1XUlNjWi1xa2VlQkFjVGE0U2hvdXM4WXM?oc=5)</small>
+- `[23:07]` **诺诚健华ICP-B208在中国获得IND批准**
+  <br><small>🇬🇧 *Innocare Pharma’s ICP-B208 gains IND clearance in China* [🔗Source](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVczd0pxZHZQbnFmVHl1cWZBT00yRUFZT0p1Q0FsdGVkZXNvcTFZQnAtUkRBcHR1d21faF9oYXNGYmp0a1NkeE1UMlBQM3VMeEE0TkNzNmE5REdIZWRsZmF6djNVUndXX1doM0hNeXlwb0xWQjItd1Y4c013YTkwSHB1VnB4QXA2SE5mTUhfOGNjdHl5UUNDbmNucw?oc=5)</small>
+- `[21:17]` **🏛️监管 | 普拉萨德离职一周后，Atara 和 Pierre Fabre 将再次获得 FDA 批准**
+  <br><small>🇬🇧 *Atara, Pierre Fabre will get another shot at FDA approval, a week after Prasad's departure* [🔗Source](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDlrYkRQTmhhRmtPV3NfN1dnZG1HT25JeWs4SU1uczQtOVg0SklmZHd2TjVBUzJVUXU2RGFXUi1rc3JBbTNNT2Z0OVBxd2VCSFhXVldqWUhpZ2tvMmw4LTJUSE5KLWJwR2lNTjA5RUY2Nl9raHVtTDRMWXhKV2E5UjN2WHItUTU3Nk5VU210RWJpTnItNWhB?oc=5)</small>
+- `[20:51]` **中国准备推出全球首个胃癌CAR-T疗法**
+  <br><small>🇬🇧 *China poised to launch world’s first CAR-T therapy for gastric cancer* [🔗Source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQTVMdFRBaHVUOUVlMXk3UDZhTXNHMHBMVllfN1hPY1JLYTdLMjFoTHRReEZhaF9yV1JJXy1FeVJlREM3bFdZeFAyZnZjOFhCMzQtSkNoTFVadWJkQjlFd1J5UGNBN1BScXNVWTY5VGllNTU0SjZpRWVkOW92aFpkMDg2MktwVVp3WmRjWGNtNkxyMmkzLTgyUnpYakxKYUZMd19RZUFNS0k5d3hUTDBvbnpUVGhpLUJm0gG_AUFVX3lxTE5MY1pZQTZTZlRwWEFobERZWE42NjdaSWpxdnlrMVhXR2hheUVqdm1aMG9mcy1zTDVHeGQyQUNxcGFHWVJKeWlEX3lMYmhYZEhvdHFoaVkzVHVpNkM0dlBCVFp4UDFKMzVjT00wUlYzSFJxYWhiM1BfdkxwT3ZyczhHaTViUHprWXY5TlFIdVl6YTJjU281MXVPTTdvWUhUN1Q5ZExscFpWSjJBeFFPX1Yza1ZiSFNEYVBFSEtrZm9Z?oc=5)</small>
+- `[16:09]` **90%恢复听力！中国团队实现耳聋基因疗法的临床突破** [🔗阅读原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBfdFV6OTdUUzAtRVBmLW00ZFZFdVUwV3RLMUhEM1dvRGp4aGc1WUxYMS0xUy1Demhhbm5mQ0NYdHc0aHlwWXZaSi1HMU1rRk15Z1RTd0hhY1JUUC1ra29HTnFCbEF1RE1KcTZySVFQdl9FU00x?oc=5)
+- `[15:25]` **ASGCT 2026 ｜宜明生物即将重磅发布创新的uVivo™体内CAR-T平台，破解递送精准化难题** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9UUHlsWVpaUkxpb1RycmdVU3ZrX3B3VUtNYkw2aExLVXNHMGJXdS1uWmp3cWNrS2Y2NnVUNERrTHMyNWQ2MEJIU0xtV19MUGRWc3pzcmo5UkJuTmo5ZEtzZ1RTQ3BHd1F5RmhnbU9qbTZSbHhkaVZIb3hTTHk5dw?oc=5)
+- `[11:10]` **【TCT】大B细胞淋巴瘤早期CD19 CAR-T治疗失败后的挽救治疗结局-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyRVBXNUdrQWdheklUQlZtbkZOYUhpNXRQclRGbGZRNHhRWl85UHkwUzNiVGZSVU9hSTBHdnhGSmlsa09mMzNqd2RoblF2eTBkdnlsN1Z6S3l1TnliTDdiUDQzSmF2UVdBZnl4SDhB?oc=5)
