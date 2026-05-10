@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-05-10 | **更新时间**: 07:09 (北京时间)
+> **日期**: 2026-05-11 | **更新时间**: 07:12 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,4 +10,4 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[17:07]` **北京大学第三医院张伟龙团队与合作者在AJH发表成果系统分析CAR-T细胞治疗相关噬血综合征高危因素与风险分层** [🔗阅读原文](https://news.google.com/rss/articles/CBMifEFVX3lxTFB3ZW5QTWlaQVhxWklVaXczRDNsX05GODBLRVVtc2UyZFJSLXYxS0o2OWhEVFVnMjdXVVpfbTREbzdfSjh6TGxyemZvZGtQLUt4Q3B2Tk5yS3ZJTklSV01YbmZhbmZlOW82XzdHZnVXTTdqUGc5M0ZGTmFDR3Q?oc=5)
+- `[21:34]` **我国帕金森病患者超500万，细胞治疗距离临床应用有多远？** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95TmtZSWJhWWplU1daWlVIVWVwMHhiZy1ZaDlsdmtwYUd2NWdWR1N1cGg0YXVfTTVUMFAyV3pXbHU4b25oM2lOOWlicEdzRWl6SjNjemlnb0hlMVkyTjZ0NDZ0Vk8?oc=5)
