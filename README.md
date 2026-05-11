@@ -1,13 +1,32 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-05-11 | **更新时间**: 07:12 (北京时间)
+> **日期**: 2026-05-12 | **更新时间**: 07:27 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[20:30]` **人工智能原生 TechBio Cellular Intelligence 与诺和诺德达成协议，推进临床阶段帕金森细胞疗法**
+  <br><small>🇬🇧 *Cellular Intelligence, an AI-native TechBio, Enters Agreement with Novo Nordisk to Advance Clinical-Stage Parkinson's Cell Therapy* [🔗Source](https://news.google.com/rss/articles/CBMimgJBVV95cUxORUVhZW9nRTFjV1B1SDUxWU9LRmFKTHZ2QVdaNnFONXk3d3dsakRDRjR4YUNoMWFURjNOZWpKTkVWRVVxb3BzcVltaFp5R080eE83ZTVlX2xpLTRXTDF0UzZET0R1czFrX0FnR2xpRkctcVRUeXBuLU93NzZOaUpyeHctemZFZVJmdV91NjZLWFZ3VWExWDNqVXZHeHpaWTBpc2hLR3I5UTFaU2tVRWIzMjcwcEFTQ1JBRUQ0S2xENU5LZGtlcURYSmlOS1JfSFV6ZGtrX0ZxUlotRUEydUNPUlNlbldQNzJQTTFYRlZkZUQ3dnN1ZmZTSXprX0gxTnVOM0FuMndQc3lQZFdSazJFYWgtelVZd1BDWWc?oc=5)</small>
+- `[20:14]` **Myrtelle 将在 ASGCT 2026 上展示 MYR-101 基因治疗项目的临床数据和监管进展**
+  <br><small>🇬🇧 *Myrtelle to Present Clinical Data and Regulatory Progress for MYR-101 Gene Therapy Program at ASGCT 2026* [🔗Source](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdFZTSi1QNUN6UURjTDQ4ZnF3QWlPdkZmTzFIcENTd1RDeU00OGx3NERJdnhhX3I1RWlGWFdBQW9qVWp1Qml4bW42Tk5sMEJSb2Joc2g1dTU0WThpZTI1cnljeFlZWEIwNVRMb0l3ZjVJeWQ1clhxU0FsZW92WGFBemEwOTFYYmFYYlRWOVpsUVdndVdyN2ZycHdvTlRvcnUyLThFRnk3MEQ2b0tYaDA2WmF3YU9XQ1hqNGpDUFp5WTJMV1oxTEEzcndub1pSTFp6QXhsdGdQaHZld2pfR2hqRXFROHZYOU9YTXNYYm91R1JCdw?oc=5)</small>
+- `[19:51]` **ProBio 和 Curocell 获得 BLA 监管批准并做好商业准备，实现 CAR-T 关键里程碑**
+  <br><small>🇬🇧 *ProBio and Curocell Achieve Key CAR-T Milestone with BLA Regulatory Approval and Commercial Readiness* [🔗Source](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVI1djByZ2Y3bjNoMnRhUmJHUDFkZlIzNGFPekVFdkxDWlh5a2VvM2sxSUlzcFpVMHhYQjFGWG1vaGs4UjhpUmQyYnhwSjRneDI5Zmg0bjdTWkxXTHA3c3JkV2hpMmFlMkFmTkpLVmE0VUdUMlJvNUowTzg3LUo1V2pUU3I0X29mQThiSTdtZFZxdG1fT2Z2X3RGLWRyNkU3THJEaXRZNmJuT1lPQVhYTl85TTlFclJKbWxDYWt2dFZLd0pNa1RkMlF2SWlEb3o0ZEUxWTJaQlVVNXp5VjlqNFMyQldxb0hjVG4taHZn?oc=5)</small>
+- `[19:50]` **Therorna 将在 2026 年美国基因与细胞治疗学会 (ASGCT) 年会上展示临床就绪的 CircRNA 体内 CAR-T 和 CircRNA 管道**
+  <br><small>🇬🇧 *Therorna to Showcase Clinical-Ready Circular RNA in vivo CAR-T and CircRNA Pipeline at the 2026 American Society of Gene & Cell Therapy (ASGCT) Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMitgJBVV95cUxOdDlEd0Q5MHJJWENlbEYwcEZBQi0zX1N4QjRfd0RhZ2hDN2NuNWhiay14akdHMHhaOFJ1M093NXdkVDBMbG81T2lOQVhseFZqTlFzVWJTNUU5OTNYRFU2RkVsd0JLbGtidmJxNjAyVnZzWFdqTHVDY2c5MjF1TklvQW9CVnppcU9pN3VPN0RnbHhORS02SHBfTkNwQ0swOXFBdXJzUlg0aHc5U1RNVG8zbDVMVkFjQ0hkR2lwUUV5UGRDZDRqNDlKRmQ3VExHcEhJeHdrQlFGa2dSQzI4SkRwV0thWkJ2SUsxYnZoMGNvUXF6bHVwWV9xUERFWjk2TVN6MHZZN1hLWlNxM3h4UldpaFJydlk3V0dyNXdHTFVpOE5UTVFyOERPYTlvVVY3ZEtCR0hkVWJR?oc=5)</small>
+- `[19:00]` **Nanoscope Therapeutics 将在 ASGCT 2026 年会上展示先进的临床和制造发现**
+  <br><small>🇬🇧 *Nanoscope Therapeutics to Present Advanced Clinical and Manufacturing Findings at ASGCT 2026 Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPT1VzVmhnbVYwdUhNei1XYkQxcnZIVnFwbWM2NkVaWnRhWGoyWXhYQzdIeEEyb0Zwekl6TWxoaWJ2MVVya0ZfVmc0SElHMlFuMThPZFozMFBBdi1ONHdOVkNqaHJTWkhRdmNILVR4OFZtbWdWN1NFRUlzbmZQN3dNemNJdUlRVzhROU5uRnNQdEpuOXJZdS1yQ2l4ZlFZaVgtTmZkRnlzZnFrUkNWb05ndUg5b2VZb29YMmJHMFFQS3RuY1BZMnlUeWdmNmFQTnF3T01uc1JyMVpRcWVVamhaRmJFbmh0SzdOSjR1bDlZZGhOM3JoMWc?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[21:34]` **我国帕金森病患者超500万，细胞治疗距离临床应用有多远？** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95TmtZSWJhWWplU1daWlVIVWVwMHhiZy1ZaDlsdmtwYUd2NWdWR1N1cGg0YXVfTTVUMFAyV3pXbHU4b25oM2lOOWlicEdzRWl6SjNjemlnb0hlMVkyTjZ0NDZ0Vk8?oc=5)
+- `[23:11]` **Novo 帕金森细胞疗法的新家；葛兰素史克 (GSK) 签署在中国销售乙肝药物的协议**
+  <br><small>🇬🇧 *New home for Novo's Parkinson's cell therapy; GSK's deal to sell hep B drug in China* [🔗Source](https://news.google.com/rss/articles/CBMiogFBVV95cUxNem1LbXBLV0VIQmVUdXRBS3RoZkNPdl9aWk9GV3Vqck1sb1pqV3NsOGdpRXhOcWFEX3BFY0ZfTGllbFNNc2lRUnR2czh2UVNXemdZdU5fVENZcGVSbjAwU1FyU2wyN1labE4wUjVSWlA3NWNaM3U4S1BwRlNJYndEd1FGeDJMUWw4bWtfODFZeENFUlY2TzNEa0VDUnVHRlVXb0E?oc=5)</small>
+- `[22:37]` **🏛️监管 | FDA 批准 Brexu-Cel 治疗 R/R MCL 呼吁提高对 CAR T 细胞治疗安全注意事项的认识**
+  <br><small>🇬🇧 *FDA Approval of Brexu-Cel for R/R MCL Calls for Raised Awareness of CAR T-Cell Therapy Safety Considerations* [🔗Source](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjEzMFVMb0NoaTdJMmtESTB1ZG0yYmNJbTlsRkFRM1IzYW9WSFFFTTlFREc3VnpJczNqX1ZYY3ZSVmFseEtDOFg1WHItR3phblFBSjU2OG1VOUl4RFpMX2JuVGZ4SXE0aC1QOWoyNXo3azR5a0JYQVJxN1hpOWZ3Szg3LS1zVXJvcEdTWnJ2UUNmMV9USXdOV3N4ZzBEWV96SU55dENiOWlQMUhRSzlTT0ViUGdTV3dRTEZtb2o3Z3ZibW5waWVybjJQUEJucXU3blBv?oc=5)</small>
+- `[21:21]` **Therorna 将在 2026 年美国基因与细胞治疗学会 (ASGCT) 年会上展示临床就绪的 CircRNA 体内 CAR-T 和 CircRNA 管道**
+  <br><small>🇬🇧 *Therorna to Showcase Clinical-Ready Circular RNA in vivo CAR-T and CircRNA Pipeline at the 2026 American Society of Gene & Cell Therapy (ASGCT) Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMinwJBVV95cUxNbGRUUDlvX2JwNmxaR2c0TVpTenBKelJXQldnbFFVS1pzWDF6WnBlWlVNRmg5NVZtYkxaaFVwLTRva0liZlJqdndtYzI3aXhNYlpHWS0zR1g5TEtsS0t0eEtENzdEenhidDFoV2xZb3Joa1ZyZzVxUUYtcFBwMUhxaGNWVDJvVUtZTF84UTdfYzFpSUNtdnhGNVNUTUlyX1otVDVaOEd0eDJRVFN2WE9TMDF5MVRjd0pnSzdSS19xbUFOcFFRN1lPT1JRcXVjWWJ0QXZ5b2lUWUlFdHJNMEJzS041SUhtVzR0QlpvcmlITTZTVkdKUDJMcGZsYXZVdWpKY1pqeHc2aTFuaW5jeGg5V3ZIVWZ1d0dWUl9IMW1nVQ?oc=5)</small>
+- `[19:51]` **ProBio 和 Curocell 获得 BLA 监管批准并做好商业准备，实现 CAR-T 关键里程碑**
+  <br><small>🇬🇧 *ProBio and Curocell Achieve Key CAR-T Milestone with BLA Regulatory Approval and Commercial Readiness* [🔗Source](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVI1djByZ2Y3bjNoMnRhUmJHUDFkZlIzNGFPekVFdkxDWlh5a2VvM2sxSUlzcFpVMHhYQjFGWG1vaGs4UjhpUmQyYnhwSjRneDI5Zmg0bjdTWkxXTHA3c3JkV2hpMmFlMkFmTkpLVmE0VUdUMlJvNUowTzg3LUo1V2pUU3I0X29mQThiSTdtZFZxdG1fT2Z2X3RGLWRyNkU3THJEaXRZNmJuT1lPQVhYTl85TTlFclJKbWxDYWt2dFZLd0pNa1RkMlF2SWlEb3o0ZEUxWTJaQlVVNXp5VjlqNFMyQldxb0hjVG4taHZn?oc=5)</small>
+- `[13:57]` **体内CAR-T火爆！苏州一家biotech再融资近4000万美元** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PSlRKMTRjUzJ0T0dpZC1YX25IWUY2YnZiaFQycXZCQk85cHQ1TWlQbDlmd2d1ZXVJa0ZwbGs4Q2pjTVRmY2pzN3lZZEpmNThaLWtobXlSeTRXTDV6YkFMenJybFNmaG95SGFDU1NYQ2liLUltQkJ6NmFjdjY0QQ?oc=5)
+- `[13:45]` **Jin Yang-gon董事长追加买入HLB Innovation股票：“看好Verismo CAR-T成果”** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GS0x6dGdPSFBXRHNaZ2JLZjdYNEpkblUwZDhLZVBST0N1VlFpT0dWclRKRHhQT0tiRHdFai16cldYazVOT0t5T3FrR1g3dWl3Sy1NQURlNTd3NFJWa2JuU2U0S0Q?oc=5)
+- `[09:04]` **体内CAR-T再吸金！星锐医药完成近4000万美元B+轮融资** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE90amdoRmplQ0FEUnM0WHJCbkJyUWVhaEJNS1RpQUpKRkU4Q0Z4OHRVaUdTaDJBN0I1eEEzWTBScGxqaWd2Q2hPQ3lIc2txd3Q2M0oxYTN4U0RmdFJuMnIyemFJUmtCb1F5dlY3bDBDSEplVFdXeVdPNHhOZHM0Zw?oc=5)
