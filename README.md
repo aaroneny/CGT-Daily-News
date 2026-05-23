@@ -1,16 +1,17 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-05-23 | **更新时间**: 07:36 (北京时间)
+> **日期**: 2026-05-24 | **更新时间**: 07:14 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[22:00]` **认识 Clicklinks：原创药物发现的创新中心**
+  <br><small>🇬🇧 *Meet Clicklinks: The Innovation Hub for Original Drug Discovery* [🔗Source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVJMcWRNbmdPYkYyVWtjdUlIYmlEdDluOUN6TlJldUFtQkxrNXFEelpIaVlJeEdnRnAzNFF3RWpjRnJXN2ZHbjBPQzFPbXpPQW1qUVl2VnFkd1hGcEFLYWY4eDdJbk8xWkx3ODItS3RDdXktMEY0amE3TW5zVzVDMGlRZUdGUGdIcXZ4WEJGZWhsckdxX1hUakFhME0wZUN4NWJvaHUzU3pMSGg1c19USUU2Z2VqRUFyRVE?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[19:21]` **一针抗癌药上百万元，半数受益患者靠保险托底！国内首款CAR-T产品落地五年背后，创新药械商保支付规模已攀升至152亿元** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fZ2ROQUc0RXBwcnNFcVlmN0diU3VjN0NvRUprUldmb0p6MFNPRVloWk9aZ1luQV9rbzI0ei1IU25ZOE00ZkYwVU1YYjBCV2hMTnJ6emk3UGVjaWpadjJTT3NjRWx1QQ?oc=5)
-- `[15:48]` **🏛️监管 | 重磅获批！国内首个克罗恩病适应症乌司奴单抗类似药问世** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVjlRWXBzclB0ZEVIRFRzYl9zSEhCZG9LNTBGSXc0RG5LZXZ4MzJDdlB5U0U4N19hdjU4bmhtQ0tzVGZhY1l2WlN4Z1BIUUFlaG1UekNoVEZ1bHRqTk55YkxSZF9JeV9ZeVZ2Z09LRmNWX1FKN1FxS0Y0VU43QQ?oc=5)
-- `[11:22]` **【MedComm】CAR-T的现状、挑战、未来前景以及AI的结合-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE83allLSkg4VGRPM1ZqMTQyRmlOaXFOclJUVk45MDFJeUdVcHhKdGNIUHlsY085anUyX1FzV1dTelVFRHpDU1lCQTcyRDFVS3IydkdUYklDWktHeWc1eXNyWngwaE5za2RjVi02c21n?oc=5)
-- `[09:42]` **突破IMID治疗瓶颈：双特异性抗体、CAR-T与纳米抗体引领精准免疫治疗新时代** [🔗阅读原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VazdDLWVRZGd0aEk5YVp2eEhuOVRUV2Z6b2FvU09QZ3hHQzFZQkVFYVo3NW5IQmtIcktaSEFWQTVGRk9TTnVlSlNHMzZISUlETWwyVzhQVQ?oc=5)
+- `[14:26]` **大B细胞淋巴瘤CAR-T治疗能否联合他汀？疗效、生存期与神经毒性关键解读** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NTTMwMGJWUzZkSXlOeDM3dzVITUVncnB2NllxYnFBR09fMDJzc0pzZ1U3eDFOemN5MTNkUHlhdlBCTDZWZnc?oc=5)
+- `[13:30]` **金斯瑞生物科技(01548.HK)：传奇在2026年美国临床肿瘤学会年会上发布多项研究成果** [🔗阅读原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGdBNVh2X0xoODVlS0pKVTFZYi1KSzliVGxLZnMwenpORUllQXhldm5TQXY1Y3dSRUtaeVhVYjM5WDZ2ZnBkZGxCRV94NEJ1Wk5EMmYwYWI0T2JIc0ZLOEc0MFpnTzU5WUw4aXR6NExNUFhIWkc2c0lZUG9OUnlmOXRad2JMdmV0YUU4V05pRUdGWGVrTkdHSVVGRnU1VFNLRE1NeFllRTNGZWRWWlEyWm1hdw?oc=5)
+- `[11:30]` **2026ASCO系列特辑 | 热门管线临床数据拆解+早研思路提示 (附摘要内容下载)** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1DNU5TTzVTblNQWUFCMWl5dHo1RTJTUGloNV9fQmxTV3Bua0tWeHhOYUdXRzhaY0FPNDlNbDMxb2VMd1c2SUdyRmxxRG1zOVhRNzN5RFNYOVdfU2pwSEh1OE4zSnloX2t2MWFDV3FCWEdfcFJ3b3FuMUdLUlpfdw?oc=5)
+- `[10:00]` **BioQual 2026 | 同金干细胞副总经理贾文文：临床级安全性检测 : 支原体与病毒污染的全流程监管** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFB3T1dwT1Z2M1BaTmRpa1pVX2FSY29KVHZsREhJeGo0TUtmTzhZcko3QUVoYnJ4d2lpNF9rekRFZWpSckpzWGlPZmxSb1JJemgzaHlBX0Y3ZlhjSjdReVdDcUJrbVM3UnFQVmhxZUxNN01aR0RHYWlVZFUwdjROUQ?oc=5)
