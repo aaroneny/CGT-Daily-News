@@ -1,22 +1,21 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-05-26 | **更新时间**: 07:35 (北京时间)
+> **日期**: 2026-05-27 | **更新时间**: 07:36 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[08:41]` **从巴基斯坦到上海：抗击复发淋巴瘤的 CAR-T 之旅**
-  <br><small>🇬🇧 *From Pakistan to Shanghai: A CAR-T Journey Fighting Relapsed Lymphoma* [🔗Source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFF5WVpwQ2VJRmN1Q2hZU1llcGY3UDVBTzVnbFUwajVLZXIzODhnSGtsX25VTEFsaXVCQ09lT1p6TW51VU5YYk5HakVMSDhlZkwxTk9sRTZsUERqRHJhajJob21Gckx3WHlHc3BOTm4takE4YmstVjB6ZUhPdnpwMVJZUU5iWmFSbFhzTWhpTFRtbXJLdHhLRnprTVNURFhndmlGbGtEc3hJMnlsenFHTW1GcnAyUzliTkpqdXBWQ2JfZy1mR3hiQw?oc=5)</small>
+- `[21:00]` **通过人工智能驱动的 CareQueue 工作流程增强长期护理解决方案，以推动实时临床优先级排序**
+  <br><small>🇬🇧 *Enhances Long-Term Care Solution With Its AI-Powered CareQueue Workflow to Drive Real-time Clinical Prioritization* [🔗Source](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeWNlV2MzSk1PVnJBY2ctQ3hSYVVnR0o3Z09FR005UlRpRWctLUpJNjN4Z1pBYnJ4S19yaTNjWUFrdER2bkJXVWllaFBPbl9LdEdOVlRvYlhKSmVVeEs2UW1BUEs5OUYtMlNXRnlyaVAtTjJzMTVZWFJESDhWbG12NXVYd1NQNWdoYVFnQ3JSM3lIbloxWlkxWll0X1ZCTGpOa2hEV3JIUEM2bTRjUzRlRlprTFNQU1lMeVBYQ1F2cy02Tk5TYVZlcG1KLVUxWXJieHJlblZ5QXhKOVRaTU5OclBlSVJnWjdZcXNGWk5Ib0lLZS10bE5xakRGZzJvUEpoMk94Unkzd1UwZ0E?oc=5)</small>
+- `[20:00]` **BreezeBio 宣布成立科学顾问委员会，支持下一阶段精准基因医学管道开发**
+  <br><small>🇬🇧 *BreezeBio Announces Scientific Advisory Board to Support Next Stage of Precision Genetic Medicine Pipeline Development* [🔗Source](https://news.google.com/rss/articles/CBMihgJBVV95cUxQV3p5Q2dvaU5YcFNhSzktbnZZbnBwMF95MW1vVy12LWZxUkhNLWV6Ulk2Z2ZQUnJueWpwcjJTeXJ6cS0tMnBiVGwzejZ3aTduWGRxVzY3RV9sOTNzNVd4NDA3VXF0V3VUTVRkbFVGUHZ3RUNKQVRBekRCSnZDVWZHY2RKWkVBd1dmQ3JlN3Joc29LOE1PWUZTaVhkMmZiX2E0TUNqNm0xYVZ5cmpVck9hUVNpZ1RTQ3lOVW1RblNIR3drNTlSUjBYSkdub244V09NNGhWcEw0WEh0TVh5Nk1IR0QyNllVa2o4WkstZzRYdm9GVEhjNG03Ulhmd0RublNFQjVqZUhn?oc=5)</small>
+- `[20:00]` **百奥赛图推出人工智能驱动的 RenSuper™ 平台和业界首个全自动抗体发现基础设施**
+  <br><small>🇬🇧 *Biocytogen Launches AI-Powered RenSuper™ Platform and Industry-First Fully Automated Antibody Discovery Infrastructure* [🔗Source](https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDQ4aWFfNXlTaGxFMUQ3ODM5bXNaMDJfOXJLT2hjdUZSRHFGR1RmTkdmWUZDaFhtRU1YdmlVYW5qYUhWY0pTWm52M2F0Z2JMN190akU2NV8tQWMtS1VEQnJsX2VuNTlJc0pLcklxSlVFV3poSEtGNU9OTzlZU0R5WE1aQ20yOS13eERIbjYwNlBQZTFtZE5pYU1oRTFFaC1oc19CanFZeERCSnVwZkJJdWdCQm1jUkRNQTFtUmZGeVFWUUVyVV9ZME5SOGpvVGFXTDBicGJBNjB2d08yTHlWa0s5V1oybVlMZEt1aEhkMEdQdktHY1Yxa09Ya21HczhIWVkyZA?oc=5)</small>
+- `[20:00]` **接受 Reqorsa® 基因治疗的患者生物标志物的积极临床数据在 2026 年 ASCO 年会上发布**
+  <br><small>🇬🇧 *Positive Clinical Data on Biomarkers in Patients Receiving Reqorsa® Gene Therapy Published at the 2026 ASCO Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNclVNRnpndGZQUGRCcmFMNURqSlJOcWRXUW9OLUFKTzZZMVV4aGpobXFHdElsMFA3aUJVaGUwdnJFTHVhRjY4TjB0QXFzY0xPVnJGenhXVlpablFyTDFZUDQxcU9uR1lRamR6V04tanVtM2lvNExzSzlKSmFNYWJrcVR2N3dCS2R5dnZ4WDRpdDh4SjlTbTRIeDdaS3lRNmFRQ0JvNWxKOWluQndxb0ZCU1lVbzBybmFkckdmcnZNWURZV3VmUjc3UElRdm9OWGRGV2RFdElOSDZiLWhiaDBKLVFDalRiMUxzVFR5NVpvSEtNeDdhdTNXQWNuVmZMSmJCSlVFdG04UDc?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[22:26]` **《生物医学新技术临床研究和临床转化应用管理条例》施行，临床研究监管体系进入三足鼎立时代** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ENUdNaWZZdkZlLWhidHBtb21FT0VobWx0eWtSMVpYejlna0tlUjN5WjJyaTVwRS1NSmZSeEdsSVYzOUtVbnFsV0w2dDBBQVlpaE15aA?oc=5)
-- `[18:02]` **海尔生物医疗发布AI+自动化细胞治疗场景解决方案，助力干细胞临床研究与应用转化** [🔗阅读原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdE9BLXN0OE91eDNPNC1PbXJGSkJlN1M4bDRFaEFFTi1rY01LUkpmNjRpdUZUUDNDdlFQMUxVZTh1eE4xcTlrcVExRUZsLVZ5dlpNZzJTNTA2YjhTZ3JBNGV4TQ?oc=5)
-- `[18:00]` **中国原研CAR-T再迎重要进展：合源生物儿童急淋适应症上市申请获受理｜丹麓Portfolios** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5odXpWdkFqNE5JX0RYNkJIY2hBaG5fdWdWWkx4MFdfTzA3TTBGRi13dGNFdHNZYi1zRlZLTWs2bE1BZXZlVm1KOVl3NEZWNVVZTGdmZDNGNE1pdnJzV1B5clFMaE4zSXNPbVp4UEdDdkpzeWlyTHdGZXdJdWZjQQ?oc=5)
-- `[17:57]` **【科普工作室】CAR-T临床试验：绝境之下的“续命”希望，还可减免治疗开支** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EY2hTSHJfUTlrSWdzMEg4Vks4a3M4aDhyLWZUbkt5a0tOZXlGM09VdnNnbXJGcURSdERrMk5BR0RZV3F2QkFBQ2x1WkpuM1VnanY5V0g5cmxXTjdqdFlpWVdDZVR1SFBlUDdiMUpUdERWX2VrNHJ4alJXMUpCZw?oc=5)
-- `[16:38]` **羽扇豆磷酸奥司他韦口服混悬剂获得中国批准**
-  <br><small>🇬🇧 *Lupin receives China approval for Oseltamivir Phosphate oral suspension* [🔗Source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUk9uUjFfY01ENGI0TzZwekhxZlNXLXAxU2pCM2NxWFg0TTctS0pFQ3RseWtsbWdUdEJ6eE9sUGdfNEdYSW43Sk5xZm1qZlhOY0RHWElDT0U3endqVktPcGFNVmhJc2w2NnQ0cmdGVDNtLXRjc2pSSGJ6bHhvNjBFMThOemNwdjliNnlYSVBRYUdtTnZzcEJWSWtKUEpETlVXMDZqSlM1TjLSAagBQVVfeXFMUFJPblIxX2NNRDRiNE82cHpIcWZTVy1wMVNqQjNjcVhYNE03LUtKRUN0bHlrbG1nVHRCenhPbFBnXzRHWEluN0pOcWZtamZYTmNER1hJQ09FN3p3alZLT3BhTVZoSXNsNjZ0NHJnRlQzbS10Y3NqUkhiemx4bzYwRTE4TnpjcHY5YjZ5WElQUWFHbU52c3BCVklrSlBKRE5VVzA2akpTNU4y?oc=5)</small>
-- `[16:19]` **🏛️监管 | 艾曲莫德韩国获批上市，中重度溃疡性结肠炎再添口服新选择** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5nWEhxSXBHUGNiZk8zSzRtd3FhZ0FfV09VNWdrVlY3OV9kV2pYSlFoOWoxeGRjemJyajVTbGVDLXdLSzg3ZVk5eTZMTEZqRXBUZDlzNEEtczMtQlJ4cFhRZTkxVTJyT3VBaW55WDl0VlExUmppaDNFU2VRdlJhUQ?oc=5)
-- `[14:04]` **TFG-001 是一种新型 3D 神经微组织细胞疗法，在治疗帕金森病方面表现出卓越的功能和神经再生**
-  <br><small>🇬🇧 *TFG-001, A Novel 3D Neural Microtissue Cell Therapy, Demonstrates Superior Functionality and Reinnervation for Parkinson’s Disease* [🔗Source](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQkJ5NXZKX3Q1R0tvQXV3dkZMdWQ2ekdpN1p3dHBZUEptM0J4MUVLeWtnVHFzVjNJbU5maWhEWURBQUJMdjEtaXI4NmZ0elRQc2M4RW9EVWJQRzZLR0JlMjdQb2dpaEdjOU0wNVJqTEN1TnhpSHdKU0lleVFEVkl5bjZzR0FxU210TnJodDd2cWlhVGZ1VERpZFdpbjk5a29rTDFGcmFIRVdYVW1TbGpkWklKcm02WVlzNEU5aTNKUHhPdGlUSEtrRU5NTDhkMkZNMzBIZU5OTlN3MDRsZ3U0UldVdU1PbmM?oc=5)</small>
+- `[22:22]` **通用型双靶CAR-T步入临床，FKC389完成首例受试者输注** [🔗阅读原文](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQU1lDU3Rqejc5aWRRRGtleWdMX0E2Ykh3bkQ1QW11ay0tSHlHZ0ZjS0FsTGxrMUNzWF95T1VxM2RxeGNaUEMtVjBLSGtRblgwZWVYb1NZRHJTa2JNWkxkMl90TWtEVVNNZk1WMW55Tkt1X2xQT1F3Z1Y3cnpjSmlHS0JiRlJSbFkxU1NTbDJRZ182OU81Nmw5OFFwcTVBc1VYTTZ4eF82NkFzSGRoV3B0ZjVGM2FGQXNIWk9ld1dBdFRMTUNqMEtXaHZsSDR3Y0RncEp2a2lMVXQ0M0d2d2dQLXFYZFFZSlc0VXl3V1BUVHN0dzFQUGtkclF4cGZzWjlQWTZ2UmpFaXZTZFdiTXo1SWtiYjFvNzVYOERhVzZpZVNhOV9hMkVGMlhKZjZMWFZTUWZvWjZCT2ZsSHJkWkljdUdFSUh2eUI3RU9QNnRLUWVyS25veElvXzRBRmhNYVpleThrMUhMZEUyb0VCTFRn?oc=5)
+- `[17:46]` **天津血研所王迎教授：综述CAR-T治疗B-ALL的挑战与最新进展-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE03b093VThMNTdzMms3dERUNFk5dkJwblZzckxacHl2WWZmcXdUWkJ4NnotN0ROSHlaS2xZSWxlYk1fTzBBemFtOTZKd2dTVjlUc1d2U0pNLWRadzFwa0J5WVh4S1IxQk1IUEZZeUVR?oc=5)
