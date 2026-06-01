@@ -1,19 +1,19 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-06-01 | **更新时间**: 07:35 (北京时间)
+> **日期**: 2026-06-02 | **更新时间**: 07:47 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[21:06]` **临床试验突发新闻和新闻稿**
-  <br><small>🇬🇧 *Clinical Trials Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMieEFVX3lxTE54d2FYVmlYbE8wSC1MWjJnNHRhMEtiYU9Ua25DOTNIRjVBMGtlWkRJcGxQWGk2dmMtTmFkUmo3STNlUmtRaVQ5Q2hnQXY3WXd6bDB4eE5ndEVrMzVtZVAyYlZKamxaZkwzelVwY0dEN1NxT3pCN0t3QQ?oc=5)</small>
-- `[20:00]` **Kelonia Therapeutics 在 2026 年美国临床肿瘤学会 (ASCO) 年会上展示 KLN-1010 体内 BCMA CAR-T 疗法 1 期 inMMyCAR 研究的最新人体首次数据**
-  <br><small>🇬🇧 *Kelonia Therapeutics Presents Updated First-in-Human Data from Phase 1 inMMyCAR Study of KLN-1010 in vivo BCMA CAR-T Therapy at the 2026 American Society of Clinical Oncology (ASCO) Annual Meeting* [🔗Source](https://news.google.com/rss/articles/CBMi6wJBVV95cUxNQmJEN0F3QkxfcHdzWXRuSXJfLWtJQ0N6RW1MWFpuUnB4NW1WYkZfSTk0QTlJckZTb1JfMDduU0JPOTVJVl9TVk5XMDVDSVBpNDlpMHNEeTJ1QkFBbU1aeWNHRXNpTlR3VUhUZExaQUdsaGJQY016S1RZbk1DZXhXSlM3d05lOEtUWEJHcl9FVGNYQV8zWmVjYnlXRjNaMnliOVltV2t2bnVwSUFVMm9naVZDY1J4azBidkJ1N0VCc0xESlhQUFVoNUhITTdINkRVTFpzSkN0WC1oMGw2YzVJalFOUVpPMG5xVjFVZ1d4U0NBYnBjdXVqNUpEbHRGX2EwUzBrWV9MMGx5S2RMLUdaLVlZWmxGMG1BMTF0aGY3d2ZrOHlMcGxXRXZTTm1fN0Z5YVRjbE1zcktXVG5nY0NqclFSTGMzNDFMbG1peHRzWDlsRWZnNlRmT2ZMLVA0ck00NWpfWGg3dDlGVVk?oc=5)</small>
+- `[18:59]` **光学行业突发新闻和新闻稿**
+  <br><small>🇬🇧 *Optical Industry Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMibkFVX3lxTE5rakNER2F2bGxSSnZHREt3TDI5V2U2Smp1UkdoQlVtVllWQmxpTmhxTWxWXzNrcHlSMDhFVDBQUFR4a3dzT1pJOFZFbjBnNUdYQjVTR0E5eEdxRjdEMURpMFludnk0U0licnVJZ1d3?oc=5)</small>
+- `[10:37]` **ASCO 2026 | Oricell 的 GPC3 CAR-T Ori-C101 在晚期 HCC 中达到 66.7% 的 ORR，标志着同类最佳的潜力**
+  <br><small>🇬🇧 *ASCO 2026 | Oricell's GPC3 CAR-T Ori-C101 Hits 66.7% ORR in Late-Line HCC, Signaling Best-in-Class Potential* [🔗Source](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOWlvMy1IcGtITExCQ2ZONTRrQW5ScmpxZkphQmRPTU1UZ2lmUHo0NUV6ZFp0RjZpQkdHMmxtbzJTRWN0VFBON09ZSFlCU3JWQmpGVEd5ck9HYUEzT2wyODdsbjFhUktyV2hzOVY5NmlDY0JBYzdhdDdad18tZG1sNHNMbHVJNndaTGZVSkxubkFtNnNvZ2FpTzNkd1hpanktQktNUmdrcVI4c25FWEhKNjhWY1VpLTlmRVh2UGNQZ0JYQndUY3VRMHg0anNSZXdCUjdMejFOQlFCY1hPRjBZdnp3QlZsN1FQMjVzTHNQNVV4UQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[22:04]` **Orca-T治疗血液肿瘤移植：降低GVHD风险的新希望** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nb0FCZnRDODNCTDNCQWFReTc3cWc4SUlhR1JKRXVHc2VDUExuUzI4bGNrQkVQSF9vMDd6X1JzRlhyRFVydEE?oc=5)
-- `[22:04]` **伊布替尼联合CAR-T治疗复发难治大B细胞淋巴瘤：疗效与风险解读** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTLUQyel9MRm41TFBWcWlZWENsVmJhbU80X2VvcUZaQjRoOHZGZEVnZm1sckxTMjVvSjFRTGRDX1BEcFJ1NUE?oc=5)
-- `[19:09]` **ChinaBio™生物医药产业国际合作大会圆满闭幕：链接全球创新，打造创新药BD合作关键枢纽** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2c0lPdWhQbUl6TWVhb2dDSVRRMk15UUVHdTNCQlVjeHFCUTZQeWQwcFBybUF6ekN1Uk0yeHhfN3FON0FjcXltaURhM1dHSGpmZk1WUUNUZzFFRVlWMFE?oc=5)
-- `[15:05]` **🏛️监管 | 喜报！南通益诺思“高品质非临床创新药物综合评价平台扩建项目”通过NMPA GLP认证** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdnVIc0xQX09DeEN1WC1mT3d1MGp1bHlUWkVhNFdqZmpMOWNTcjVXbDM3ZjVXZkRUcnlCbU84MWltdTVjajFhWmZJeGM1REh2UVFPakVXWmNUSElYNmQwd3NDX2Y4Z09UM1RtLUtDUjFvSms0T01VS1B1ZXVYdw?oc=5)
+- `[19:26]` **健达九州GA002注射液获CDE临床许可，引领神经基因治疗迈入精准时代** [🔗阅读原文](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDlzYnA1YmtYcmV2RHd4THg2ZzFmTHlEM2ZlbnhWZmlHUEJmU0w2dUFRY1FpU3Z3bUltZkdJcHp4alNDdkttckZUOVdzRkt6WWRUU1k2bWg4Slg2YTJ0cmlfQk9vWjB6QUM1eVMwUXE4QzI1M2JKMG9MZVZuYVU?oc=5)
+- `[16:00]` **《自然•通讯》| 科学岛团队发现增强CAR-T疗法新策略** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBoMzZBZFltRGFIOGhqZWRZemNUWTBOZmQ4Yk80LWlDdUY3ZkxBUy1nNmtNalJMSlZhTjVwUExmZjY1SHd2c2NmMDE5WHNCalcxRXAyLVdpSDcwWGdBSVFsSWpLTW1UY3lKaVk3QTFYVERlZ2VOS3Rvb3NnQjd5QQ?oc=5)
+- `[13:48]` **🏛️监管 | 诺思兰德：首款基因治疗药物获批上市** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBTdDZwTHJzQmxYUXVoY09Vb3l2TDI3SzBmU2pzUTN2b25Rdmlickt5eHFtcDRrcHFaVXY0R0EwVVA5R1oxOEVVaDhJTU5Jak1mRGpyc2M4TEpLb3RPU21vTi1xRUllWGpZWEEtektRbklLSENwVkc0NV8zS0VCZw?oc=5)
+- `[10:36]` **🏛️监管 | 一日三款1类新药获批！恒瑞医药鲁兹诺雷钠片、诺思兰德的塞多明基、石药HER2双抗安尼妥单抗齐上市** [🔗阅读原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kQVJSd0xJS19nUWw3TTJUSG42dngtQmcyRWhtOWNHenVhZDlyWkF3Z05rUlVldTNZbDhhY3pBV2pjLVduUHE5MUhFWkExMGI0VVlZUkxIT3FDQQ?oc=5)
