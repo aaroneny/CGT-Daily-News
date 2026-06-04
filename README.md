@@ -1,29 +1,26 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-06-04 | **更新时间**: 08:10 (北京时间)
+> **日期**: 2026-06-05 | **更新时间**: 07:41 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[22:17]` **兽医行业突发新闻和新闻稿**
-  <br><small>🇬🇧 *Veterinary Industry Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMickFVX3lxTE85UW9oTXpPbDJnbGFHd3F4NVprbUd2UVdPekx6eW1FdFI0Y19EOG9HTHoyVzdXcUpwQ0NjZjBwczNaUWdjQVRlS3Q1dERYVjFkTDhlUVBwNkdoWHc4U19rMDlnYlJzal9ORDVCdUg3RktCQQ?oc=5)</small>
-- `[22:11]` **光学行业突发新闻和新闻稿**
-  <br><small>🇬🇧 *Optical Industry Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMibkFVX3lxTE5rakNER2F2bGxSSnZHREt3TDI5V2U2Smp1UkdoQlVtVllWQmxpTmhxTWxWXzNrcHlSMDhFVDBQUFR4a3dzT1pJOFZFbjBnNUdYQjVTR0E5eEdxRjdEMURpMFludnk0U0licnVJZ1d3?oc=5)</small>
-- `[21:23]` **ProBio 与 GCP ClinPlus 合作加速中国临床试验**
-  <br><small>🇬🇧 *ProBio and GCP ClinPlus Partner to Accelerate Clinical Trials in China* [🔗Source](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVdvbENEaEpWTHVkMVQwZ1oyRlN6aEZURExzMU5JMkhGUy1EaExOUmREVEQ3M0pEeXNCQmFzbHlhMUoyZ09oaEp5bDFhSlpOby1ZbXFrTlQ5Q2U0dVhDbExzQUpSTEZpUDVnVzdSZTEtaE5LTExfV1VRRGxsZUFMVmhRTWJTeU5vc08wV3ZaVTFJU0R2VkJBdFFfZGtSYk9FRFFvMTRuNlpCYmRreEJPcUFlX05mUVZ0ZG5NaWM1ZUp4bTRD?oc=5)</small>
-- `[18:00]` **ElpasBio 完成 AlloJoin® III 期关键临床试验的患者入组**
-  <br><small>🇬🇧 *ElpasBio Completes Patient Enrollment in Phase III Pivotal Clinical Trial of AlloJoin®* [🔗Source](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkpPd2VaSTlQZ0l1akVLOVVMWlNTZ1c0azVlSjdqYjk5aHpfbFBtTkp2Z3hwaTNOUU15cXRMYjEtTjQwNFc1TnpYTDdxMHNDQ1N5RVh4eTF6bnpBSHBUZ0NrQ3FZWFg5Rm5oNUFNTjlCZlVKREYtSWVjS2VkQksyNDgzY0o3dUc4Wk0yZEFiRW5nNXd6MkxvLWRYX01TQ3M1aWhfZVNhQ21fc0k3VVY5SjhYa2h6T25ReWJrcF94ZUZ5OEhOTUotdjdoTHF1ZHNGV3FleElNUko?oc=5)</small>
+- `[04:15]` **吉利德科学公司和 Lakefront 完成对 Ouro Medicines 的收购，进一步扩大炎症产品线**
+  <br><small>🇬🇧 *Gilead Sciences and Lakefront Complete Acquisition of Ouro Medicines to Further Expand Inflammation Pipeline* [🔗Source](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUjlvWkJIRGx5WEdZdXpGdmM4SGtPZ0hwbXhGOUJiemZoM0JDQVd1VUtYbUltcE00OC00VGttd1hRZ2hxLWF0c0xYdEZUeFE2cnZ6V25rTGxwMjV6elFBbFRVSmlxZmhSVmg0T3NCb0dMMDY2UG5jdXBOQVJ1OVF6OXp2TXkyZHY5cEZURjhQUWNTbm44UmZiRS1NcUNaNGw0anBkeUU4bFU0eWQxb3dzUTZfSGtFNnRVY3RiNW52Y2l1dWhoRG5CWExycHhFak8xN2lKSVVzMlpZYldHQ2x4LTRDdGlFVzZINi10emlZV3p1UG94aFhONw?oc=5)</small>
+- `[02:32]` **🏛️监管 | FDA 公告、突发新闻和新闻稿**
+  <br><small>🇬🇧 *FDA Announcements, Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adXlvd3M4Z1ZmWVZ4N0tydmQwSzVFZlptczlDN1M5NnpxX0V6NTlkS2sydnhDcE1YOV83NFF1NnJsMjU4Uk0zT0xoQ1gwSlhFUkVwVDBVNGw1Q3ZqUHQ4TUUwdXVhM0NG?oc=5)</small>
+- `[11:39]` **🏛️监管 | MEDIPOST 获得 FDA 就 CARTISTEM® 在美国的单项关键 3 期研究与确证性证据 BLA 备案策略达成一致**
+  <br><small>🇬🇧 *MEDIPOST Secures FDA Agreement on Single Pivotal Phase 3 Study with Confirmatory Evidence BLA Filing Strategy for CARTISTEM® in the U.S.* [🔗Source](https://news.google.com/rss/articles/CBMinwJBVV95cUxPZ3RkTkN0Z3dkbnUyeDdadUNHb0pzTEt0T2JESXI4dy1nb1JuYWs4MHpvSUhJOS1ZVENPNGRESEd4QXdCZXJ0VnlpNEE0T21RU0h3eTA2LUVDVUlaZnpoWW9HZ0xzLXY5d1ZJcDdiM1lja3NRbkJzSzhteWJXcHhnN05XN2N2ZDBqWjVXQ0ZjRTlXQVJRUUZOdHpBU0NtcC1BVWpjamw0TWtaZlY1MGY2d2RtNVZCTUNLVktJYTgtLVVhdFFzZTFuWVI1SW00RVViZS02OVpRenY3cXZpZXowTDc0SllDM0VWS3FTSUVUSkhrdUdlSzdpUnQ2Ynk0eEU4ODBVVVh4MUR0NzY5Wml0M3FUS0QwNmFnRVJDTElHNA?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[20:50]` **康方生物在 ASCO 上占据中心舞台，中国生物技术产业的成熟之路更加稳固**
-  <br><small>🇬🇧 *As Akeso takes center stage at ASCO, China biotech industry cements its coming of age* [🔗Source](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlVvejN2clN4TFJMUGgydEhxTE5LZHRiZ3lvV1pMR1Fqa25GWG9PYXJIdm1Oc21CcVpDRnh3dkJZZ2tQSjAtc3RUUUpvVXBNSHhCQkJhbzhld0tuenpoX2hmdEhmVFk5RUtYZTFUMlJqaVhQR1VfQnZyaExVVVBEVlVOV3lXN3l5TGpja2dOV29Lbk84MmxQeUdlOE5SVnh1bVdtNFFSNTFOdTVxOENXSQ?oc=5)</small>
-- `[19:24]` **🏛️监管 | 新华健康丨石药集团双靶点CAR-T获批临床 适应症为红斑狼疮** [🔗阅读原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWlUenUyRV9HcXZhcFYtSERnamFlbFFVbGlLV2hpLVZLckRCVnFwaGphbkxvejl4cjllMjVIUW1BTUExbnZqUmE4S3NFa1NaajRrTU1mZTBfVEJub1JBaDFhWXVuM2lrYml5TzVpNW8wdmc3Y2hFbklOamtTbk56cA?oc=5)
-- `[15:29]` **ASCO中国之声丨从“CAR-T后复发”到“再设计治疗路径”：张亚晶主任团队报告序贯多抗原CAR-T治疗B细胞淋巴瘤探索结果** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IOTE4N0lpX2RnYWE4UGZCalcxWXgzX0N6VWJ1di1JTkI3WTAzNHJzdzRESjR6ZUtSRzIybDJMMVNRNkliMmRRSkRn?oc=5)
-- `[15:20]` **🏛️监管 | 石药集团双靶点CAR-T获批临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE1STlFuVjlRcXUyUGJWSnFTM1JNSnIzelBlRnM3a05wYzVDcmQ5cjZENHFsNUZCb2gyNkh1d0k2WnZ1aVVfQXliODQwT3NJZnFPaFBPZ2h1OWduRDRtVUU4ZC1WTk8zRHd5aFZ3dV9oTjJiVEZiNmc?oc=5)
-- `[15:07]` **🏛️监管 | 石药集团：首款基于mRNA-LNP的双靶点CAR-T产品国内获批临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE93RWQyMzVaZDZiOTQ0NjZweHprbEFlanFPOGdpbVdKVWFsYzBCeThpcDRPa05rRXc5angwQTZ2dF9hWU4zY3VGRTdlU0JyMFhWaXNldXdhM3hCa0s2OXVpZDR5c3B5d21sS2s4WHBHdS1Jb1FOVHNUWVhPamJ0Zw?oc=5)
-- `[13:13]` **大B细胞淋巴瘤MRD阳性复发风险：现货型CAR-T新证据** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xZHZsYXRSY3VxdHZKamc4cEdWVnFSd3ZwT29IYzJmSWlfRzloMDdwNjRFQUE1TmRFVGdxVk4zZDRzM0JSWlE?oc=5)
-- `[13:13]` **CAR-T治疗自身免疫病：癌症细胞疗法的获益、风险与就医路径** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UdmwxT3ZtU2tRWVlFMG15OUphMGFwZ01lbC1hS3h5djZVcWVFQm10eVVjNXBnc1NYc3ZGaVdyaUJnWG8tUHc?oc=5)
-- `[10:15]` **改写难治性癫痫治疗格局，全球首个iPSC来源异体细胞药物获中美IND双批** [🔗阅读原文](https://news.google.com/rss/articles/CBMixwJBVV95cUxOQXE2UURlRkw1QUx4eTRqem5lLWxyMW5fVE9ySDBDdVpFLVZCVDdVclM2UjVWVTVsMkwtOXVfS0JUTVd5Q0dCUEF2ZTA0RXdLM3BOd3JFdWF2cjlLWjdVUjVIcTNzc1k0RGUwRGJaaENsLWtMaC1LODkyaEtETGZ0dll1MUY4dE12U1N1UXFRX0c4bGNmdkp5NnpNNVppMFE1MVg5eUVGamNFTTlYSlpfMjRGa3RhZ2RvQjJiWUdaQ3J4U3QyNHg1SzdwcEZfNHNDXy1YWVFNOWdVeWxLQm9kNENnVDNtRFlvMVJpeDZrLWh2cVlzZElnNmpuOE82WS1mOVhlU1o1cl9acHJQOVFQRFpvNWVWZURQYnJaYk1WOGIzV1RXOHpXbS1JSEY5b0lBeHROWFhWUGtCN0JTdjFDeTNPN0NiYWM?oc=5)
-- `[09:28]` **金斯瑞生物科技高开近15% 传奇生物披露治疗淋巴瘤初步临床数据显示积极信号** [🔗阅读原文](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRERBdE5OWTNHdUNDNHk4bnloSG9HQm1mY1BNU0dUc1JMQ3BvYndWWVoyZHYxXzlSOUlXdTI3RWJWNjBaQ1JqVVNtQlNrV3FlRFRMaFQ1RTFzTlRwdExWamllVUUxRUd3NzgyY1dfUnV5bnFFcFFHYXhLdURDVHJvbzY3TGRhNzdXWUZkOXNvUmZQQ042RG1SY0tsdnE5bTdjSF8xS2lNQ1V0ZVJQNnBMLVlkNmlGTV9UdkZnNHV6X2ctMnI3Tm1oRGFzX0FyckNwbnBKMG4wWDVrNEdhZ3pTTVVqdUJvODNzelRSVGR3?oc=5)
+- `[01:31]` **🔥In-vivo | 天勤生物@2026药未来峰会：解析 In vivo CAR-T非临床安全性评价** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE14M1MtNG5GV2pjMHJHZDQxN3FGWnlreUd0ZDV2cDFIc1Rya3lQem8xZmR6WmwtOXJGeWNXXzhGWkFzcUQzZVBYMmtZVmVlcHFzZ09GUmFjd2tRaVVuS2Y1aHBB?oc=5)
+- `[20:07]` **Abeona 推进 ABO-701 T 细胞疗法走向 IND**
+  <br><small>🇬🇧 *Abeona Advances ABO-701 T-Cell Therapy Toward IND* [🔗Source](https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFgzVHVvWG9zWENmMVNJMlIteFdlaE1nN253bVpDTkVTamRGYUhCM3BSZGlkMFlwV0hXRkxXRUtYNXlUY0x6V0lta2h4bXIteGFlbHdzY3BQWWRleEJTLWNFeWtzb3J6NTlKVHp4V2J3SlVWMjZGeTVFWFMtR1d3Rm80Nkc5SDRqTDBVRUp5ZXJVdEJyREYwclN5RTh2cGFzMGJz?oc=5)</small>
+- `[18:05]` **早安广州｜广州药企启动中国首个TCR-T细胞治疗产品确证性临床试验** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Sd2lJQ3VtcFZGRHZKR3F5WUo3R1VQTWdVSUVIWVFoMVhyZFRYWDExcm9Ib29Sb1ZBbTg1Q2xtTTJjcmlWRHEyQ1FFS1dKZUNDMVJJU0RrbHRHXy1CUlE?oc=5)
+- `[17:30]` **【ADC分贝】为CAR-T护航：INO桥接不影响T细胞扩增，显著降低患者肿瘤负荷，减少CRS风险** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1xR0M2RHgtVVRsak1UZU95SHRkb0FTRS04dWIwS1Z4RFFOMzFhMENjeUhLZi1DckZpRTV0Q3RCXzRvV2Y5NENKbzZmdXJWaXBxd0s2VUVnUGc5YlBlN1oyU2twLW1RRG5zWnlVWFNCclpXNjJKWmdyb24zMGFNQQ?oc=5)
+- `[17:00]` **🏛️监管 | 国内首款丨昭衍新药助力诺思兰德创新基因治疗药物塞多明基注射液获批上市** [🔗阅读原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE1abTU1cm56UmVkNXMteHBTOTJMOWtpVjVaTXFXWlYwYXZnSVJCYndQalJFVUdpZkpkVnVrT2hYRnpsNnlOVWVUOEFka3Q4MldVclFHSV92N0wtbDJwRVIxNVN3MFk4ajFpNDVfNl9lRWxWTS1wMnc?oc=5)
+- `[10:22]` **ENCell 赢得 Ingenium NK 细胞疗法的美国临床制造合同**
+  <br><small>🇬🇧 *ENCell wins US clinical manufacturing contract for Ingenium’s NK cell therapy* [🔗Source](https://news.google.com/rss/articles/CBMickFVX3lxTE4tRWd3Tm9QdlVTTEduV1dxX013V0dOTjMyaVBmX0JwZ0I4cW9mWE5lSEUtS2lwb2lnWEI1dy1QcFVmd3YzeDUzN19hdXJuZGg2VERjUkRYWUZMUWF0Z1ZjeVgyXzNSeFl2cUc0Q2NkQXpNd9IBckFVX3lxTE4tRWd3Tm9QdlVTTEduV1dxX013V0dOTjMyaVBmX0JwZ0I4cW9mWE5lSEUtS2lwb2lnWEI1dy1QcFVmd3YzeDUzN19hdXJuZGg2VERjUkRYWUZMUWF0Z1ZjeVgyXzNSeFl2cUc0Q2NkQXpNdw?oc=5)</small>
+- `[10:09]` **体内CAR-T治疗白血病与B细胞疾病：原理、安全性和临床进展** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kUGllQ2paamtzZFR0UU1jUzNTUjdsS0ptRkxyZ0dmcXhwekR2aTN0emo4V093T1BCVFN2SnBfb0Z3b0NsT1E?oc=5)
