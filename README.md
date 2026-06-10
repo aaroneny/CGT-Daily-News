@@ -1,20 +1,24 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-06-10 | **更新时间**: 07:47 (北京时间)
+> **日期**: 2026-06-11 | **更新时间**: 07:52 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[04:15]` **马肯依玛士推出 CoLOS 版本 7，这是一款用于工业喷码操作的安全且全面的软件套件**
+  <br><small>🇬🇧 *Markem-Imaje Launches CoLOS Version 7, a Secure and Comprehensive Software Suite for Industrial Coding Operations* [🔗Source](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzFmdFVhSENrLUJyc2VMUGlMTmVoVEpKMzBNN0RhOVZRT0k5b3pzSFVTU1FWUUlLY1hRZlVVaU5GRFE3aDI1VC1mLUZ6OWNoOFdSd0kxVjFFS0xXcHBlOEdfWmpGVUlsUHVwdnl3YlBEYmRIZkQ5UzVjWnp4blA4OTBfbHVlQWJ6STAxRzlxR1pSbE14T3VhRGl0MnJGYmE1Wm53LWhKWlRZWTQ3OGpWa0E5U2MxT2ZwRmx0Y3J6YjVPcnpkV3NaVjdlSS1lZ3lKd3BrU1V5WHh5WGtoY2NxNll4Vm1KcWR2eXZLdG1vczdGYlNOWm1Cc2JPZjI?oc=5)</small>
+- `[21:00]` **Cellares 加入新美国工业联盟，推进美国生物制药制造独立**
+  <br><small>🇬🇧 *Cellares Joins New American Industrial Alliance, Advancing U.S. Biopharmaceutical Manufacturing Independence* [🔗Source](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSjNHUEg0SlFOTWp0VS02c0UyazIwbWFYZzVzYUV3Q0tBam10OEc4XzZHQ3ozbHBvNVNjM0NJdm45SE1LZUh3VndSdTI0SjhSRm5FbElMYmFLczBLSEs1b1I4YUZWVkgyeC1GTWVOR2hjNmJKajVSWnZUekdFaGhWTEliX0lDMExJNjJsVjJDYXFEckY3QmMzRjczaXdUXy1fREhwZ0tGTWY5YTl4c1NxOUVkYjNZMFFhZ0dhb3Nna0g4MkhiTWNsbGMzdnFfbHB6dDBkbEpGQkhfa1FxeUpjb3FPUFpKT2hpRjdxOGFORGRMak1jZlln?oc=5)</small>
+- `[19:30]` **Organon 获得美国食品和药物管理局批准扩大 TOFIDENCE 的适应症**
+  <br><small>🇬🇧 *Organon Secures US Food and Drug Administration Approval Expanding Indications for TOFIDENCE* [🔗Source](https://news.google.com/rss/articles/CBMixAJBVV95cUxOeFJNa18zNWg2RkhkVUlsMjBkU2hyVFRTX1JxdF9kY000M0NkQzB4N2xqZDduYTNzRldzdVNtRElHeUtjMlR5WGpTRktidDZ4cGdIZXdSZWIxaTFTbF9MNWVKRmd0UFBHdWJFSVRLSldwbENVdFZKRlZ3ME9MVWVJY0ZCa3NPN3o1MGhDN2NwbUcyVXl2dWtiOFpDX0hZbjhNUEdLM0lmYVRVY292VjV4UGI5eTAxUzF1eEpPWEkyTWs0aTQ1WnNOSnB4X2pTMG5HX2dIaVJVWkFOOEFuaDNnT2NNdG5QYjhCTGdnbldZSnYwa2FJY0VVMG43d2djYlhhN05TTDRIODFJVHI4aE5DZjRYM2taUVlsblBmNUhJTFEzMlNzNWpjSkR6WU5LRmt1SlJnNFpBaXRwckF4QVQ1MDZSbUE?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[03:54]` **🏛️监管 | FDA 授予 Imviva 的 CTA313 同种异体 CAR-T 疗法用于自身免疫性疾病治疗的 IND 许可**
-  <br><small>🇬🇧 *FDA Grants IND Clearance for Imviva’s CTA313 Allogeneic CAR-T Therapy in Autoimmune Disease Treatment* [🔗Source](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOODhNRnVicTUwOTMwcEdOaTNKU0Y5d3QyODd5Mm1jY3FQVWZaVWhlai1WVXdMRGdNdHRiUVlFcHNjd0ZtSVNaa3NyOUhNWWZNMnhRY000THVCckd0RG5GZUZXRVQ2bGZjUFBWcjdNZUotVGNzcFJVNXRVSmJDZ1EwQ2p4cHlRaDZ5U1N3YWVLVjFRUEtrTGhKUkYyeGx2aHljZndTV3lnbkJWaEFmd0VTaS00VjI3LW9EbDhqbW9uODEzMnZrelk1VmNtbG93SWFhd3V4RUxB?oc=5)</small>
-- `[20:39]` **🏛️监管 | Imviva Biotech 获得 FDA 对 CTA313 新药研究批准，CTA313 是一种治疗自身免疫性疾病的双靶点 CD19/BCMA 同种异体 CAR-T 细胞疗法**
-  <br><small>🇬🇧 *Imviva Biotech Receives FDA Investigational New Drug Approval for CTA313, a Dual-Targeted CD19/BCMA Allogeneic CAR-T Cell Therapy for Autoimmune Diseases* [🔗Source](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQcmRMMTJHNlV2T252aS1YaFdtODVFamlZc3dsSnBsdzVxNUFpVTEzaURMV3lXWlFiTURFMHhXc0hVTGh1ak5uX1lybzhwNjNNY3dRNmdoWF9IRUNvWDM0b1AxR1BLOGJPaTFnaXVPbWJ3WjlBTFp6VkxjZjZEWE01NHZjejNMTzNtUWxXZWlwUXpzbnN0MUpFelBGZ2NRd0JqYUwzOTMwbHh4dnFJUEVFMGt3MVIyYUFnMVkzbWZfa3dieXlja1kwMkZvVXI0YVRBa0MtNEtuNHd1WVVuRUU1LUw2dllFQWROVkhYQVdUOF9tNkFyY3lhLUZza1ZldnBTdkMyUnJnOVJmM0RxN0FhYTZNcEhQdUFKVmNxaXNwb3UyRjgtbk5ZcndBTFJGbktmRDl2TndINFJYdkxLM3FTUFNoQWN4bXVm0gHOAkFVX3lxTE1iM2N1Rkp5d0x6N0VHNFZFblJTUjY0M2k5VEdEUUZsQWY1Y1BXSTZ5TVpBNlFUSkVtWlNrNkdPY0o3dGx6Qk9aWi1TTnpaZHpSc2JreTFyNDJtVDEzeWpURkNLMlBKdTFobTNDMElZZDJRbTc5TEJ3OFg0ZjU5eXRHVHBjdkg4RmxkUzJaOUlIS0hRWWF2QWhuQzZXdmdac3JOOWNjdU5XRVg0d1k4cS03ZXFIUGFweENlNVZYTV84dWp0YXZfTnhRcmNqamFfTFhOQXlhXzlRMlhtQ1JnbDdDb2JiOWNiS012VG1FaERlYjlTS0lZVmFWUE50Ymo3UDlSTW1ocklQOHE3WXFTTzgzYWV6MWZ3M2hmYXMybkRIZXJLV3dRUkh6SDF2R2g3ZTM0NjFueWhWNzJKR0ItcFZZMFhKb0V4V2FZM05YOEE?oc=5)</small>
-- `[17:45]` **🏛️监管 | 博腾生物热烈祝贺启函生物第二款通用型双靶点CAR-T产品QT-019C获美国FDA IND批准** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5xQTczMlBhOVBRS1NJYUI4NVBFVDdhX1BrVWZpaVJzNWtzSU9kZVVfQ2tZZlBvdkRBYkdrZGpoX3pTSEQ2b0tKQ3d1UjhCTXp0V3JFdE5ieDFfT2ozQlhPYTZHUS1zUW5kQU4yLWdJd1J6cnB4RkNlRG4taEtIQQ?oc=5)
-- `[17:38]` **Front Immunol丨胡凯教授团队：CAR-T细胞治疗可“抵消”TP53突变对大B细胞淋巴瘤（LBCL）带来的不良影响** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HdlozTWFWUDZld2luMXRIdXpTOHcyU2NHaFhEQmFJUGJOcW9WOFVqRXMzU09fS1RRdWp2VHB6OVdfbUd3eTcxcXRB?oc=5)
-- `[11:46]` **🏛️监管 | 北大医院再获批5个北京市重点实验室** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFAtamJMTW5fM1FWVVNUU0x1alozUHhDbmNLcVNyWDd4b01ZMFhaUGJqMnNydEVzUEQtbHJqMV9XLUhxTFpMWEIyeHNiMGY0cHZSYzB1Ulp4a0tmb29nTTVtb0lPeFo2TXEteGNYejY3SGw1aE1DUkhTeDV3SEtrZw?oc=5)
-- `[09:31]` **青岛市妇女儿童医院血液科成功采用CAR-T细胞疗法救治白血病复发患儿** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9mR0o2dlYyVzFoRzhZSUYzZnBpVTlqaWh2VVZ2a0pzcW1meFZrMXZZZUpEUEMtMGhPYXBaekZLNTMyNjBnMVNLUVJKR0lJODFOSDltZG9VUGNqZlUyaHVRSE9QdDZzZmpwaXlTVA?oc=5)
+- `[21:00]` **德琪医药 ATG-201 在中国获得 IND 批准**
+  <br><small>🇬🇧 *Antengene’s ATG-201 gains IND clearance in China* [🔗Source](https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3o2djl5SXRIa0htWWpnSGF3THppRTBDdFhtV3hvQmlWYk1lalBLYkh6OWR5RG4zQlJ2eXNMeWlxRFNiNnBRaFJPM0lNQldCOHNJRDFabHZtVHpNdXRucDNZZklNbTVURTZwcnRqRGx3T2FqN3l6LU5sOGZPTjRsX1M3REx1b01leE52bVBKazJfZw?oc=5)</small>
+- `[17:30]` **“返老还童”迈入人体试验：首位患者已接受基因治疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE50OU5MWXllaTl3SXRUNnFFOVRYVFR6am80QnRWUldSUnNHbGl1YV9NY0FOckExZ0Z3LXkzSUZOX0UtTk03Vm1wQ2Zxd3FJai0zT2hiaDRXalFLZUhINl8wYlZiVzdSdGxZNnBOWjhTTW9RQ3p3TmpvNHhBYnNVeUk?oc=5)
+- `[14:34]` **🔥In-vivo | in vivo CAR-T行业蓝皮书-沙利文** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTUc4VVdFR2szWXJLLVoyMTZ3ODdzTjB5WlFCWkRwMm1qaUFpUmd5UUVzTUlxc21IYnRKcEtPR3owZWdLeE5KUmhOc0ZxVlJic0F0NGZxdGg1WFFFZVRXd1ZnVE5PWU9XemxfWWJSVFpFS2p2S0NVS203QlNPMEtpTnFPeXlKMU92S3IwWA?oc=5)
+- `[09:46]` **J Clin Oncol：后线结直肠癌迎新突破！GUCY2C 靶向CAR-T 临床数据出炉，安全疗效双达标-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBia2NvY1dUOWJGMkwwWUcwWkZ1dy02bXdzSEh2V0FsYU9sUHlRekRWLTZad3JBbFkybFF2RDFHNkN3QnNRenRUWXAzdUlXREZGakxuOFl2RlhlX04zNFJReGkwZHVDb2swZXRrNXNB?oc=5)
+- `[09:17]` **德琪医药 ATG-201 (CD19 × CD3 TCE) 治疗自身免疫性疾病在中国获得 IND 批准**
+  <br><small>🇬🇧 *Antengene Receives IND Approval for ATG-201 (CD19 × CD3 TCE) in Autoimmune Disease in China* [🔗Source](https://news.google.com/rss/articles/CBMitgFBVV95cUxORXAtTkxIZGREa3lxSWhoZ2VnRk5oSXd2N3ptalEzVkZ4VmNrMnMxMk5DdlN5Wng1UjNJZHY3Y0xCbHJ2UnE1SW1IaEd4R0R1N0o0QnJnR2hMY0RRd1haZzB2bjZBWXVzamtLTWR4a2JsbUlNY3JVVHFvSWYyX0lQeEZNNC1MeWlaTHBZczlQU25uZE9tSlh1YWZJaDZGN2RscGotV1dIWm9UdHJ5bUpicTFYWE1Xdw?oc=5)</small>
