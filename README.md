@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-06-14 | **更新时间**: 07:36 (北京时间)
+> **日期**: 2026-06-15 | **更新时间**: 07:42 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,5 +10,8 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[09:07]` **活力中国调研行｜从原始研究到临床突破，北京医药健康产业高地加速崛起** [🔗阅读原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUlLcHZZa0VWUnkta3FyX1ZPSEctTm1NX19tUWhBNEhsdUd6eWVIaVNhdG1JbElPQVUwdHJYd0EtSTF0WXRqSEFlMDczS1F6V1hHci1ZT25YcWE1WXZxVlZ2QnF1R09yem0zTXRtRE54ODcwQzh2UVRqa0RaWE5WUEFqd1hsT3ZOYTg0LUVLZE9SUQ?oc=5)
-- `[07:59]` **Nature Medicine》发表刘军教授团队关于帕金森病的双靶点基因治疗：一项多中心I期临床试验医药新闻** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5qOGM3VXVsQmtJalh2LXdqUTVOU1hqZUNZTHd1Qm55dnY2NHdER0hXSWNvdmtQV2tiVE5QZ0ZMa25xLWVJcVdxMmVPZHJQU2lYRWMzUVZ1ZzlCYUVZZ1VLUTA4RUgwRmZSNm5MakNKWWlpaXkybG4wLUZqdEJxUQ?oc=5)
+- `[19:57]` **晚期实体瘤难治怎么办？新型间皮素CAR-T疗法SynKIR-110临床数据发布，肿瘤缩小达47%** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VZDR3dzhuV3hLV19FdVFVd2MxeTlIWVJHQzYwWXBtcWlFUC0xVDV4aHFvT18wbi04ME1jaDRid3A3VGZaVGc?oc=5)
+- `[18:20]` **金斯瑞生物科技(01548.HK)：传奇潜在“同类首创”体内CD19/CD20双靶点CAR-T疗法LB2501在复发/难治性B细胞非霍奇金淋巴瘤中获得临床概念验证** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1oxR3ZOMEpXUF93bHpJTGJCTEJjMzVqODBFd1cxN0lJOVlJWWhUaDhnaU5Td0NJRFJCRmRUM3BxSlRjRVJoTTA2eWtfOGZJQzR4ZzNnbmJfdnFiNjRoZFBLOUttbmRQRFhFb1V5NHkwaTlwQ09EYzd0OWZPb185Z2duTmtwZkI3RGJ3ZA?oc=5)
+- `[17:30]` **2026 EHA好声音｜钱文斌教授团队：达雷妥尤单抗诱导后序贯全口服IRd 方案治疗不适合移植初治多发性骨髓瘤患者的临床研究医药新闻-ByDrug-一站式医药资源共享中心-医药魔方** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQmhMQWtGbVpFLXd6TVllWUdpS085b2xPenRzVDBtU3JxLW03NXlfVmNLdmZYWUFJc3FzWFRyQkpaZTVvbV9sdWkyQ01teVpRR0I5dkNDUUNwRGFfWXlPM3NmZ1FBU3o4a0tGb0REdUlWRTZmSS1aZUVTaUNiQQ?oc=5)
+- `[16:33]` **【TCT】桥接治疗反应影响CD19 CAR-T治疗大B细胞淋巴瘤的结局-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVnlTWFd5bDNqcVAtM0dWU09OWjBOc1hHQXFqQk10VUpxS1ZqRzQ2TDZNY3pJRnBfNnFPejk2LVBRYjhvdzhnVHBPSlp1V3F0dE80SmttMFZlc3pIZ1AweHpkck9paXg0aXJIVE9B?oc=5)
+- `[15:35]` **传奇生物宣布其潜在“同类首创”体内CD19/CD20双靶点CAR-T疗法LB2501，在复发/难治性B细胞非霍奇金淋巴瘤中获得临床概念验证医药新闻-ByDrug-一站式医药资源共享中心-医药魔方** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE43QklwQnBpRVNVaDVnZkw0aDl4bVpjUkkzX29aZUxDQ2hOUUVJUFM3MlpfU0NsVmo2UVpibTJjN0Z0TktLZmdfMGZUZUFtcVdHZ184ajFxUW5MeFBueGVYcnJHZTBpWGFDd2EzeTMzUVJWdktHaEdxY3lGZ1VXUQ?oc=5)
