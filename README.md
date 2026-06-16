@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-06-15 | **更新时间**: 07:42 (北京时间)
+> **日期**: 2026-06-16 | **更新时间**: 08:06 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,8 +10,8 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[19:57]` **晚期实体瘤难治怎么办？新型间皮素CAR-T疗法SynKIR-110临床数据发布，肿瘤缩小达47%** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VZDR3dzhuV3hLV19FdVFVd2MxeTlIWVJHQzYwWXBtcWlFUC0xVDV4aHFvT18wbi04ME1jaDRid3A3VGZaVGc?oc=5)
-- `[18:20]` **金斯瑞生物科技(01548.HK)：传奇潜在“同类首创”体内CD19/CD20双靶点CAR-T疗法LB2501在复发/难治性B细胞非霍奇金淋巴瘤中获得临床概念验证** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1oxR3ZOMEpXUF93bHpJTGJCTEJjMzVqODBFd1cxN0lJOVlJWWhUaDhnaU5Td0NJRFJCRmRUM3BxSlRjRVJoTTA2eWtfOGZJQzR4ZzNnbmJfdnFiNjRoZFBLOUttbmRQRFhFb1V5NHkwaTlwQ09EYzd0OWZPb185Z2duTmtwZkI3RGJ3ZA?oc=5)
-- `[17:30]` **2026 EHA好声音｜钱文斌教授团队：达雷妥尤单抗诱导后序贯全口服IRd 方案治疗不适合移植初治多发性骨髓瘤患者的临床研究医药新闻-ByDrug-一站式医药资源共享中心-医药魔方** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQmhMQWtGbVpFLXd6TVllWUdpS085b2xPenRzVDBtU3JxLW03NXlfVmNLdmZYWUFJc3FzWFRyQkpaZTVvbV9sdWkyQ01teVpRR0I5dkNDUUNwRGFfWXlPM3NmZ1FBU3o4a0tGb0REdUlWRTZmSS1aZUVTaUNiQQ?oc=5)
-- `[16:33]` **【TCT】桥接治疗反应影响CD19 CAR-T治疗大B细胞淋巴瘤的结局-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVnlTWFd5bDNqcVAtM0dWU09OWjBOc1hHQXFqQk10VUpxS1ZqRzQ2TDZNY3pJRnBfNnFPejk2LVBRYjhvdzhnVHBPSlp1V3F0dE80SmttMFZlc3pIZ1AweHpkck9paXg0aXJIVE9B?oc=5)
-- `[15:35]` **传奇生物宣布其潜在“同类首创”体内CD19/CD20双靶点CAR-T疗法LB2501，在复发/难治性B细胞非霍奇金淋巴瘤中获得临床概念验证医药新闻-ByDrug-一站式医药资源共享中心-医药魔方** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE43QklwQnBpRVNVaDVnZkw0aDl4bVpjUkkzX29aZUxDQ2hOUUVJUFM3MlpfU0NsVmo2UVpibTJjN0Z0TktLZmdfMGZUZUFtcVdHZ184ajFxUW5MeFBueGVYcnJHZTBpWGFDd2EzeTMzUVJWdktHaEdxY3lGZ1VXUQ?oc=5)
+- `[07:20]` **🏛️监管 | 从全球首款双抗 ADC 申报上市，到首创细胞疗法获批临床，国内创新药取得哪些新进展？** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVhnM3ZacFJzY2NEZVJnY0VMVi1FQ19rODFxU19fYTJpQ3RIMTRRV3hJcXowdWdzckRfTG4zaTFTcWpyVDlIVUdWcjQ4VW4tdnRGakRwN21BXy1vODkwRlg0YldGWUwyZW5iZ1dnNElXeWxhc1k1TUEyYUZ0MnU1cmlvVzFhY3RyclpHOQ?oc=5)
+- `[14:05]` **科济药业：两款创新CAR-T积极研究成果公布** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLThfS0F1TnZwcnZrRzhYZEVSRjlaSDVwdzlRdERmRXF1ekJKQTRuM3MwZzh0SXEtZS1Lc0xHRFNqN3FKaW9YT0J1QkkzM0lFYnhCV0lWOHg2Z09JeWhUcXVvQmpjNUU3OU94WTNiQ2pqRk4wb3ZyaHdhWXNqdw?oc=5)
+- `[13:36]` **几十万元的“不老针”，谁在打？** [🔗阅读原文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3LUJaaEJZR05lTEpHZWhnTEJlWlo2UFc4QW1wZFRXQ20yeVIxWTA5Qm1zLWJuNS1RQVNKTExtbVd3Ry1NUWZtZm9JQVRzOFhIMU5DdTl0dThQemU1THctc2JpRk9UMk5Z?oc=5)
+- `[10:03]` **早盘异动 | 金斯瑞生物科技跌超9%，CAR-T疗法获临床概念验证** [🔗阅读原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxNend4cHZySHlwUjlhbnZoR2VnSF9tczV0c2h4cFBrQ0hHSl9qd3FoeGxjN0hDcHgzWEw4R25ua3JVVWlmQm5fZkVwUE9EcHZHdDd4V1QwbzB0Z3RleEIybjlaSzBWd2NNREx2NzBoVVlVNU1UM2VDaUhPS0t6WldhZ3pNcUpMWFFzOE12OWhUcHdvRmtyMXNLYWlzcHIxZGhJUEE?oc=5)
+- `[08:50]` **科济药业-B(02171.HK)：通用型CAR-T疗法EHA数据更新，计划启动Ib期临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3A0S29rTEVpQTZiNnYtLTlTMi1iQU1ienpNRVgtTi03VFlzQm12Z0pGSkowNTFleTFaRlAyZ0tuUHdQbHA4V0w4eU1uMm1VT2JuQlQ3T28wSUhFb1paWkE3UDJLc0hlRkNPUXhRa3o1Z3VyeFhtUTdsZUx2bFBxdlNRZ2k?oc=5)
