@@ -1,20 +1,27 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-06-29 | **更新时间**: 07:35 (北京时间)
+> **日期**: 2026-06-30 | **更新时间**: 07:30 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[19:01]` **指数扩大机构投资者的市场知名度**
+  <br><small>🇬🇧 *Index Expanding Market Visibility with Institutional Investors* [🔗Source](https://news.google.com/rss/articles/CBMijgJBVV95cUxOV1RvSUo4S1pGSHk3ZlFpNEFWTGs1QVNPWnlLclY5MHFxQkJBUlVadjllb1g0OVh4enhXWVJwSEF4RGhOYUkxY2dfWW5wX19fNUMzM054ZHJOWi1VdG5zZHdxZDFvV3lNYjdEMm80LUM3T2RzLVgwTlltQzVxbFRqckRvSFNEbjFtbHk3aXp6THgtWkxRdlBJS0xFdVVLMUh5dGdrZzNoOGtUc2w4bUx6RTdOWTd4SDNHYW90RExlT2lRRHJpTjlSMkMyVkVDSEVrbG5uTzRkN1VSVzVDaFpBN25UcHB2RDRKcVVZX2RjVWdQWjJTb19SNGRQWXRvZDEzUmFkQmpwMmtsVkNsTFE?oc=5)</small>
+- `[16:47]` **恒至尊启动CAR001 IIa期临床试验，加速全球市场拓展**
+  <br><small>🇬🇧 *Ever Supreme Launches Phase IIa Clinical Trial for CAR001, Accelerating Global Market Expansion* [🔗Source](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTlpUSVUwMmJSdFpUYkdyZWtSNHNfd1VJQXNHS0pETUI3OVgwS0F5UjZwblNOVTZXN2NHcDJjaUpUVWRYeGVndkhHMmNlSjlvNXVNOTJKYXpWalFsQUZUc3NFMWt1WURiSXFPcnVJSFBNT3NQZ29BRHhJM3pUS0FhZ3BtUHo2bDlSWTFQOTlYektyc3dRMS1sSGM1WDZsY2tqRXVTNUxRMTlaRkNzSVMwT0RVZWNMR2ZhSWR4clRzUjhkeEt4MmkzdEZaUWN0ampiUVpQY1d4M0dMaE1idTl2S1FoQXQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[12:30]` **刚刚，皖北首家临床研究医院成立！** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXkyWWN5ei00eWUxcEVjTGp5WnRqdDk0QWpVb2ZjUllnWmZrQUx1NWZvU0JGb2lpYXQ1VFlRbVo1ZUVXNVNDT2VfWjZ3eU5CQ1B5ejZEQ1hLYmVsSGVnV0NMa1B3SHZYLThUWl9nSlp5TTJNVWM3NFRuRC1BRXhidXRJR2pYYUdIejNLLQ?oc=5)
-- `[07:57]` **新一代针对间皮素的CAR-T细胞，可分泌抗PD-L1 scFv，用于对患者来源的3D结直肠癌类器官进行高效免疫治疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbUlhRktqV3psUnJPTTJLTzMxWllFUV9HZXFibmNuaUxsU0h4d1lQT2xBanNlYTlBNjdXamNtYnZwcUw1Nnk5TGNwSTVnTDlybVBMNi1mZTN6MWdLLVFsb28tSlVVZw?oc=5)
-- `[07:57]` **弥漫大B细胞淋巴瘤CAR-T治疗后的迟发性免疫介导性毒性：免疫效应细胞相关噬血细胞综合征（IEC-HS）——一例病例报告** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lMVlIX0U4MTMzLUVKb3JTZkhMQlhMQ1M1X2pMNnQxODRaZFo1UGFOOEozbzNlOUpUdTRKU1lweUdCdXVjcGNkM29ydEJUR2NoYjB3VXhaeDNoZF9DNnZTU1M5WTg0QQ?oc=5)
-- `[07:57]` **突破局限：在双特异性抗体治疗失败后优化DLBCL的CAR-T测序方案** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V0w0YkRrcW13YzlydzZTbFpIbUh1RUY1V1dXTU9WZ1Q0eThfZDQxcnRqU0ZGMHJDTjA0RHlNYUo5S1VULUU4b21taVlLQ3JNVC1ESldDSkJnX01CR19Sb1ZHdUw4UQ?oc=5)
-- `[07:57]` **尽管临床负担沉重，严重三尖瓣反流病例仍被显著少转诊给结构性心脏病专家：一项调整后的登记分析** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YbXV6enZzQ3FGS1lyaGJ4NjZud0pzN0hFWDBTaUMtUjA3Nlk2d2JtQTUtWFRlRXVOeE9EM3pSQ1N4NWpEd2hSOHV3RnNEYWQ4TXNPNEszaUtWY3VDV3VTUkxfTzJ2dw?oc=5)
-- `[07:57]` **针对CCR7-KMT2D可抑制B细胞非霍奇金淋巴瘤中的治疗诱导性衰老，从而提升CAR-T细胞的疗效** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVek9OQjNlaHZXcDMwcTJ5d0NmbjcxbUM4cGxDSWZQT21velZTT21xd3pUM0hUNmZWdkFRek5Ra0JiTjlEaGNtN2pvTFRfX1doeXFLeUl0LURxUkxmREYtZ3kxWnROUQ?oc=5)
-- `[07:57]` **SURMOUNT-REAL UK：一项评估替尔泊肽在肥胖成人中有效性的实用性随机临床试验** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCR0xWaTZXenBXdVp2R2ZtQnkxUjdEY0dvdnphc1IxajFaQzBmVF9ocnAyOG45Z0kwZU1md0FSOVhFeFNFTWJyb29sVU0xSm9QM29BVDl5d251MUFPZkdSVjM3SGIyUQ?oc=5)
-- `[07:57]` **可视化呼吸训练对钆塞酸二钠增强肝脏MRI中患者配合度与图像质量的影响：一项随机对照试验** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mSFZ3S2hmdGd3MHBvUDRaYnBMbVl4M3l3YU5zQktWMGpRYUhlMnJVNU5iTFd3WHdNOXhEcG5MRHVrZEw3UmpOeExjc2t0amlJQno3LTh2VXFOZTBhUm5sbFRYYWh2dw?oc=5)
+- `[04:32]` **🏛️监管 | Satri Cel 获批后 CARsgen Therapeutics Holdings（SEHK：2171）是否已完全定价？**
+  <br><small>🇬🇧 *Following Satri Cel Approval Is CARsgen Therapeutics Holdings (SEHK:2171) Fully Priced?* [🔗Source](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZmRoZ3BsUl9XYUZtU0R6N2Zib2NGX29XRDRvdXNSWnM2dENuOFlRLU9aaW4xS2psRmF0SjlxTkZ1OXRablU1NGtOMEZBZ3NLTEp1OUtfZFoyaWN5SUNvX2NIZHdOc2hIeWZrX0dTX2lreTd4NUJNWFpUX0ZLOTNuaElvYlNwNWtDQVM3Q1pvcHlLRU9sb0JBVGdjdkt5djdhYW50QUVNdGhnOEJuQ0hnb3REVDVfOF9FMnZIaExIa2xzMXVZcTBJNzNHZW1NdWZEbTB6WlJHb1ZVYjdHUTEzem0yLWNhdVViYWhxZlFXSTlHRFZpTzN3cDNvc9IBgAJBVV95cUxPaVltenpFY2hSbkp6dWFYYUc1MzEyaXphYVBWUEJRS0I5blJIM3VFeTN5LVZ2bTBCWGl0Y2xqMl9xUmtESkZCSnZkaUJSa1ZSdXZLb1dOT2JqWFgwaHRzcE5xa0h1ZWxMTW5iSHE5TzdodDVRTlFwTGwzTVQycUxqTG5QWUt5cXpZV3h5NGl5bVNOaGJiekswWGhMVVBtaG15UEdvbnlpQ2xvZDd3dXFpME1xaWNVRi1FQVltZXZRZk5QbFB3WUUwMGMycC1pdzVjSEdqOWhKMVl0ZXhuMWZKRUg5Y2pUM1kyU2R2R3A2NHFCcklhbGJXQ3hDdllaVEZx?oc=5)</small>
+- `[21:16]` **我国原创CAR-T疗法让坐了多年轮椅的比利时小伙站了起来** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WSlEyVWdVX2xKOTFPXzJib2pKZFNCeFVhM2R1NzFsaDdzbmlEdFo5RHVEbkc5T3U3WmxVcXdlNUVUOVhLMUN4cDRyUGdGTjJnX2ZFbXFkOEZ0V0hMWEYzRHlWRzE?oc=5)
+- `[18:52]` **CAR-T细胞疗法研究进展（第55期）** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaHc0a3plV19YSXM4QV9OMXBnQ3c0em1tNHE4Q3drSWZpa2pSRWNtbWk3TDB1MWFMdndyQXZoTkdBR20xN2p5Skppb1kyMTJQQjJ0RDlhUVFiS0R2?oc=5)
+- `[17:34]` **以mRNA脂质纳米颗粒为基础的体内CAR-T细胞** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1rcUZKMk9PNUlxQnpUNTVmWHQxZVVfLURWYzVWUGFCOUFzOG9sb0VKMGVLdU1oQjNzM0xoQ25Zc0NPd0p3djBac1MyQm5VRHVTTTlUTWJETHRfOXZwUjJwckNRYVhHdDFsaXphWG5iM3FwVy14ZU9Kdkl0R09vUQ?oc=5)
+- `[17:05]` **专访沙砾生物刘雅容：从TIL到体内CAR-T，坚持做“难而正确的事”** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9uMVhKNVo2WGNxV3ZkVk5GQ0lQRy1MUUdhMl9MMnVvSTBKcHlqMDRucGNoR2RPUnFucGhqWWZHb3R3SWpUTTNla1luQzVTLWFvV2tMc2RpTlM0ZUZodnR1MDZFYVdnVXZ2UGdVUm15ZUJuWUJ5NmdwM3BqSmhEQQ?oc=5)
+- `[16:25]` **博生吉完成新一轮融资，核心管线已步入临床Ⅱ期** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE91VnRXczVScm96U083VUdjX2g3Wi1HMmR6TThFeHVvSnJ4LU1NckVyZGdaWm83M28teGFzbUNlYXlKNXBMRzN4Y2Y1S2hnT2Q3QUh2eFh2ZFZ4MEZyc01TUU9hOFh3bVJjV09zUnk4VGpyRnFNSnZRSEZkMmwtQQ?oc=5)
+- `[15:47]` **缺血性脑卒中干细胞治疗迎来本土新方案，茵冠WG103最新临床研究进展公布** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE5VaTBKT3Q0LWRVS0hwMVp5aXRjbkJ6eHhlY1JPRXU3TkgyQnVTaVlkN0xmY3FfbkZaUXl6dVFCaVprUW5PZjNKTTJhcm1XR09kd1BGNDAtUXRXM3ZuMHYyQ2N3b0Q4N25qOTdsRw?oc=5)
+- `[15:20]` **Cell | AI驱动发现GPNMB CAR-T细胞作为多癌种治疗方案** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE56OUFHYlNnNVpVOTBtOFBuWTd4ekVESzVpdnI3NDZaMlVxWUtERDZxX0lOZ1VtdkdaekZnRWt3R2JJTzdsTEktXw?oc=5)
+- `[10:19]` **AbClon与土耳其TCT合作联合开发CAR-T** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xNUZnOExSdDBDRUYyS1ZjeFhNdldNLTU3TUhPLUhsdzltaktfM0FsbE12d2RoT3ZPak1yV2xKcXpmNTBDeGpxdVpUdzNXYmdCZHoyTENBQURTSWR0dU5vXy1jYjd6dw?oc=5)
+- `[10:12]` **媒体聚焦｜《浦东观察》中国首款CAR-T细胞治疗产品交出五年成绩单** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcW5lajIxakU3dHE4dVZUeUVlTmFNXzVfaXQ1elJDMGtjajdIOGZwQmdlYUN1RDBidlVwNzV2YzFZUnJBVC1wWEdXb2lRWTN4ZFZNMXhmSjdISVZQNEVhWjlDbzBEcHRmOEJsZjJLbHl1dWVnRlAtV0VlYm9LZw?oc=5)
+- `[10:01]` **Front Immunol：CAR-T“短命复发”难题破局！糖工程给免疫细胞穿上抗抑“糖防护盾”** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ENFR6N3EwUDRnYjYxcENaeW1JZVBTQ2lqY1FfVWJ6QzI2N1ZvSnl2UmRwaUpDMFZqcDZyd1JtZ1RZWnpMVDJjNGtYQjZUcHhzSjdWcVZ6enVrbHU3?oc=5)
