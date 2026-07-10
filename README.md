@@ -1,21 +1,23 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-07-10 | **更新时间**: 07:41 (北京时间)
+> **日期**: 2026-07-11 | **更新时间**: 07:25 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[19:01]` **Precision BioSciences 宣布根据纳斯达克上市规则 5635(c)(4) 授予诱导奖励**
+  <br><small>🇬🇧 *Precision BioSciences Announces Grant of Inducement Awards Under Nasdaq Listing Rule 5635(c)(4)* [🔗Source](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdDlmSGRZQUZwTWxrVkJUd20yS2F3NjE3UHFLV1dLRk8tc0doSk9QeWxIUHdBYjFFX09zNFBlNmp1UHNGNTRfQkdIcHM1MTFrTGoxc2pmNG0zVUdnc1dMc3RkRmJ2NWZYdGtyODFTU1Q0cG03cEtHWjhBQWx1UzFPTU94RjVZaG1ZRlB1OUdKb3RZTEMtUTdXdGRoSk9ZeE1kYlVpejRwbk95WFBVR3g4ZmxlOGdGVm55VXBFazJYRnN6VEl5QTRVY3EtOWNOOV9hNTZCcWZzcF9Wekt0WlJyY3lR?oc=5)</small>
+- `[18:00]` **脐带血委员会获得 501(c)(3) 非营利组织地位并开放公众捐赠以加强国家公共脐带血库**
+  <br><small>🇬🇧 *Cord Blood Council Earns 501(c)(3) Nonprofit Status and Opens Public Donations to Strengthen the Nation’s Public Cord Blood Banks* [🔗Source](https://news.google.com/rss/articles/CBMijgJBVV95cUxOOXFzVzFKSjk5VWZRdDhsam9OSXZPRWxGUzJCYVI2ZXMxZTlxdDBmdEUwaVBEY29MR0M4ZzRPQ1BUdHJsbV9KcUQ2TkN2NmtNSV9OeVFnS3lpdkxwRktnUG9nZFVtT2tUWHVYRzRBTnh4QTJwSVJqOUQ3Q0ZmZ0NNNzJWUkFUWGVRTXlxU2RudFF1R254b3RkaElNSE5wTzZ0UHdvX0FaZWQ5Vk1BNURYSDlZVW51aDVCaE42a2F3TEZiZ1dHNVZ2SEN4b3VTaXhRWnBpNlVpbHVkc0R2X3F0eG1sRE9BdVBUdHlQMFRWT1NjaWNVZngyZDhXeTVBM040OTlJbXlBWG1WdFlJMHc?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[22:34]` **🏛️监管 | 从中国首个获批干细胞疗法到首个外泌体 IND：CytoNiche 实现双行业第一**
-  <br><small>🇬🇧 *From China's First Approved Stem Cell Therapy to Its First Exosome IND: CytoNiche Enables Dual Industry Firsts* [🔗Source](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQak5iVE5RU3E2WUlfcHk3b2tOV1dvVnhBMDZwZVBWbXRja3lOR2RXZ0ItMVBIck1zSzBCdllLaUhfUk80ampDNU54N3FjY09yeEphc3pCRURIMjFMQjlFRU1PLWNjTG0tVEh3RTB2bWF6U1VPcDBadWMyOGxLck5TMnoyUC1YcEU3QVBOOS16eGR5UW9RbmpQbFFKbjVYd2JFMURWdTlBVS1HZXQ3SG04ZWFKemFrM3ZhTUd5ekhzUFdhQVYyM3NRWGh1NkxMRVduVzkzUDM3aFZDNHV3NzdpNHFhaldndw?oc=5)</small>
-- `[19:00]` **🏛️监管 | 国产创新药从跟跑到领跑：6月三波获批共14款新药、4项全球首创** [🔗阅读原文](https://news.google.com/rss/articles/CBMirgNBVV95cUxOYm43d2dsQmVOYS1GcFJ6MXRDNFdVaURVd0dSRHpqMXVjZk5ZTVZ0V1k4QmhZelJ0RHpKNzRFcE5vZS02ZVpMNnZTcTNVZFNrY2Y0dEtPUXRsa1hBeEVDOU1RSlZsaGdtNzN4OGRIMW5TcGhyWjBPVk9qS2pzWjJsUi1DTlVJaF9KQmU2eEFnUlZlektUQmlMajFSSjFWTWhPUlYzcW9KUG9TbUxCM3NZZDNqZlRhNC1SUVNzblkzMWN0ZHUzWElfVDdPUU1BSHByUUpKRVRMSVlfbUJzSXFOejV4MlNYbVM2dF8zOTZBZHhjdzNVYzBoRjVyTkpyR0xlNmhzczZMODhUY3dnWUxnU0FNUm9lb1FlNGVpMXBfNEtkZzYxQzZaRlBWVW1JR3kwN3FYRDlCSU1kTGg2QnNtZmRhX0JKdElGcXpBb2JFWFJZTnRidXdJR0RhbFlQbzdySjllQU5lalNWc2V3TklBYm5NY013TGF5UWFsSGN1RWlQSkFKM0llTjZBU0kzQzJmREZLRm8wYnhwSUpQdXc5V3RESk9hdDF6eGF2bE93?oc=5)
-- `[16:45]` **CDE"先锋计划"正式启动：NAMs进入药物研发快车道，来818大会看类器官如何接招** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE16Q05TZWlxREZTcHRVTkstaTB0c0RpdmZMNlk4WmlUSGxRREFZcEF0X1MxT2FlQ1JZdVF3eVJaVU9fT2dFRXl3?oc=5)
-- `[14:43]` **十二年熬出一款全球首创，对话科济药业李宗海：最担心患者用不起，未来all in通用和体内CAR-T** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VXzBuZHpzaFNTa201V2ZoVkFhVk5QMHdoNFlwNVhLWEMtTC1vUjRDaGlidlN6NEstXzhPYVh2cFNpTWFhQkRuZEdkOTFtTXhIN2tiWExxUUdHTllYenBYS0xKeE55dw?oc=5)
-- `[14:37]` **CAR-T等前沿疗法频传捷报，你25岁时的免疫细胞“备份”了吗** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEMxb0JqaFBtd1oxSlcxdDRRN19peVVpLXJhTko5R0ZwTlR1UTJ2eGVnSm1ZZ2taSWJSNjNPYXI0SEZyWGhaaEpLUzIzTzhkQU0tMnl5TWVuNm1PSkRNRUtReUc5RDV3YnlBVHZkMEU2UWZJYlNJamhuenhLTEVLbnc1TDRkVVd0N2ZB?oc=5)
-- `[10:28]` **Cell：AI 驱动发现广谱CAR-T 新靶点，多癌种小鼠模型验证强效- 癌症研究专区** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vS3RGUDVBV0ZmbkhnalptbkJ1N2luVHFDOFNERUZvcFZGZGRkZnBfMXBkbU5aXzN3SU5UaUw1a2hfN3JLQUVFSDJ4VGNzS0o5TDN1aFhCZUZURF9N?oc=5)
-- `[10:09]` **Nature和Nature Cancer两篇论文双管齐下：新型CAR-T细胞疗法同时剿灭脑瘤和“帮凶”免疫细胞** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpU1VrVVNyWXFxSTB5UFBrQXdRMW1JQWdPWmhlSzlTWV9rRjJQd3NkR1BWeVVSZEU5WURZNmFhZnE0SERKRUdiNkRxSUJiSnlWQXBuRkFwMzJ3UEsy?oc=5)
-- `[08:15]` **JCI Insight：可穿戴设备提前7小时预警CAR-T“炎症风暴”，多发性骨髓瘤治疗安全升级- 癌症研究专区** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aS1haOU1RNjlfRXVwbU5kMWF5ZTRHUE16bzcyYV9OUWlaa05mR1JmUE5LbDkwQnNHMWlvMndPZGg2OEhlcHdBLVdRWVlrWUlVYTAyVk1uRHVGUFo2?oc=5)
+- `[17:59]` **多发性骨髓瘤CAR-T前桥接治疗新突破：塞利尼索与塔奎妥单抗如何助力长效缓解** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PNWx3UzFDNnZXdW9Sc3F3X2FDeVBZS0ItY3dUbnV5bE9MN0V4b1FoWlNzMFpXSFRqaG81cWt4Q1RzTVZhLXc?oc=5)
+- `[17:53]` **GPNMB成为CAR-T细胞疗法治疗实体肿瘤的新兴靶点-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQN2lCX1NHQ3dhMFBJelBQcmlvd25oZnFVZTFjRGVYVV9EdGQzMjU3RFFTQzdVcnlZN3FRM1pnVDdjeVVmNzF4Y2Nic0VUTTJVZFBvMVZxVko0UWphMEp5dE1Qcm5Ma2Q1VDRob2dB?oc=5)
+- `[14:28]` **多发性骨髓瘤前沿疗法：CAR-T与双抗治疗如何突破耐药与实现长期临床治愈** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEejZNM0I4Z0FQLS1Pd0Y5TDFDdDdqZTdaVmM4T0UtNlV3U21KbW5kQWdFVnpNZWJXV1E2VTNNSW9ISmY3VHc?oc=5)
+- `[11:47]` **🏛️监管 | 单剂约290万！全球首款Treg细胞疗法获批** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1LU1p6UkZQODNLMmxTb2t3czNsZ2RyNDU1THM3Zm5EZFdkSExTeGFRbDJ4bF9NcF9jQ3loNzFOZnNnbWRYdWtFaTJ3SURiRnFHS295QkktNjFlSWEtYUdWMjZJazVja2pVUG9Cd3lyWkJLdFYxMWE0RDJZN3V5UQ?oc=5)
+- `[11:32]` **淋巴瘤最新治疗共识：套细胞淋巴瘤、慢淋与弥漫大B治疗方案与靶向药选择指南** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE01Wm5EX3ZZUVFuNXJkU0JPYlRiVTJEZjhqd1pibElDdlJvS21lS0Y1VzF1RmwtMWU2TnNoWktCOW5BT2Fubmc?oc=5)
+- `[08:13]` **帕金森病创新药进入Ⅱ期临床** [🔗阅读原文](https://news.google.com/rss/articles/CBMib0FVX3lxTFA5SHQ1cURtaW5OMEdxSzdVT05VbUluYmVBVF94LUVpV2MwNUh3QVI2SlYzc0Fid21BbFRuSmYxWWxZNDljRkFNOWt1Z25BRjU4OEVwb050aC1hZ2RMam55UF9JanI1Rjd4T1g5cnlWdw?oc=5)
+- `[07:59]` **优化CAR-T细胞治疗的临床研究设计：通过最优实验设计开发高效采样策略** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTFBacElzcmFJYXRkOWdnLW1pNnpLVjg2NUF1NHk2RTdSQzF1YXkycGRLcDN1YTF5ZGdnZjgxbmo1QkhnUXZVYnYyaWQyRVVxTDJxbHZ6eHBfSmJYMnZoX0hKQ3RIVEZCSmVlQ0FDQw?oc=5)
+- `[07:55]` **连接临床前研究与临床生产：一种用于学术界CAR T细胞疗法中慢病毒载体生产的转化型GMP平台** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9yalkyaVNkNzZDcjdwMVh4RDl0NjlNbG1pSGdtSFliSGV0RldQN3dua1YyYXVOMVZxMnotSnJQd1JXdlJ3Ymhfelpfem9SVms2NWpzZ0d4MzdQeXJENVhfOEpCU1BKUmcwSzRiSw?oc=5)
