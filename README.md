@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-07-12 | **更新时间**: 07:14 (北京时间)
+> **日期**: 2026-07-13 | **更新时间**: 07:12 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,5 +10,4 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[20:57]` **🏛️监管 | MSI-H晚期结直肠癌迎来新希望！创新细胞疗法Suplexa获FDA快速通道认定** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtY2VqX3JVZ2t1QWlndmRjLWZyVGEyYnNJQjZ0SF9iUHVfZFBnWm8zRWlHSlczdk9lak9VLXNtcnVWZmw3dFE?oc=5)
-- `[17:30]` **【2026 EHA】KLN-1010 可在RRMM患者体内成功生成CAR-T细胞并清除MRD，且适用于各类基线T细胞表型人群** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE91U3UteUNoV1RjQXgyMGFzdW96eFYwV0ZicmhFSlhiNVNGWlRabHlxYVpENkRDOFJtSnZEbGZ4bkRmNENERXZjd1pVYUdEczlwMVpxbzVOdGFwdlphR0xIblhWNGFwZjEyU2JURS1WbVZDWHYyd0NfRFVQMUphdw?oc=5)
+- `[14:05]` **【BCJ】在AML中寻找安全有效的CAR-T靶点-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBZcWRHd2ViX2taQ1lxaUI0OUoydVczOEtPQ1ZQdUZERkVXQmtYQnlTa1A3amttNWRNVW0ybG1BN245Sk1xdWZzRzNZSmhBQVFpU05BZ3RxNTgyMkJhcHV0N2xabjVkRXJTYTcxRWFn?oc=5)
