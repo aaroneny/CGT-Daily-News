@@ -1,27 +1,30 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-07-14 | **更新时间**: 07:23 (北京时间)
+> **日期**: 2026-07-15 | **更新时间**: 07:22 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[02:42]` **🏛️监管 | FDA 公告、突发新闻和新闻稿**
-  <br><small>🇬🇧 *FDA Announcements, Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adXlvd3M4Z1ZmWVZ4N0tydmQwSzVFZlptczlDN1M5NnpxX0V6NTlkS2sydnhDcE1YOV83NFF1NnJsMjU4Uk0zT0xoQ1gwSlhFUkVwVDBVNGw1Q3ZqUHQ4TUUwdXVhM0NG?oc=5)</small>
-- `[20:00]` **美国视网膜顾问网络的医生将在 ASRS 2026 上展示关键试验数据和临床见解**
-  <br><small>🇬🇧 *Physicians Across Retina Consultants of America Network to Present Key Trial Data and Clinical Insights at ASRS 2026* [🔗Source](https://news.google.com/rss/articles/CBMigwJBVV95cUxNVXJ4NHAxZHlXUkpEbUFlSTVoOVY4V0d4R0J0SkY3cnhtMFl6eFpseERVb3NfQVJneXdlc21MTlJPSFp3bWJKYjV6dGdSY29Ya3JreW9iaXlwbjZFVWxKclhJRjMxMDV5ZU9ZOEtOUUR1c0Y1LU95MmlsSkY5Z3M0d1N0OHM5eHJFNDlXdXpETy1nVWtXSE9nR3RVajRfU01rcHp3VWhzakRpVFoxajdnanZtM2dHNEpsUUNGUEtxZUNFM2JoWnVpUEk1WWh5amUzTnZHQnYyQTlvZHpDYjZGa1RXT3ZYX0ZvTU5KbkJYZDcteG1TYUptT1Qta3pfbEdXZDA0?oc=5)</small>
-- `[18:53]` **CancerFax 为先进癌症治疗建立值得信赖的印度-中国途径**
-  <br><small>🇬🇧 *CancerFax Builds Trusted India-China Pathway for Advanced Cancer Treatment Access* [🔗Source](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT21WWE05WHozb1BoMkVyOEhmd2NWMTRYN3Mzb2ZhTUprVk1EN0V0cGhvRWlfcVRwcnYwTGs3NGUzaTRHQjBrRjhtUGVjajd5S1BTeFFNRFpoRzA5TUlEbm5vUTY5Zjg1eS04ODF0anVmbjQzZU9FUmVmelM0MVVDUmhEYVl3U0xjSjlhVHV3UEF6MmZvUUJuN21nOGh4MzFiU1lRMS15VE5ibzV4Z2swdFNlOVVPUmxBbE9lbjRjYnBoQzVCTm1oRXFNZlptU2lMdlR1QlRR?oc=5)</small>
+- `[00:00]` **ACROBiosystems 获得 GMP 级 IL-15 的 PMDA 材料适用性确认，确保可靠的质量并加强生物制药审批流程**
+  <br><small>🇬🇧 *ACROBiosystems Obtains PMDA Material Suitability Confirmation for GMP-grade IL-15, Ensuring Reliable Quality and Strengthening the Biopharmaceutical Approval Process* [🔗Source](https://news.google.com/rss/articles/CBMiwgJBVV95cUxONGplRVFiWTNqRm9ZY1R0ZzI4SlQtcDJoV3BpcGdEcTRDUDhmU0FaTzhpVXBaZ2lQVllGV3RneEpsZXJfRV9jMEt5UHRQS1lqQlRsREZGeG9RemlHeERQNWJvSk1HVzFFTFNWdkR4MTBSTHhwZ3MwZlpyM2ZfQjZCU21jRlNGRWctcHZnNTFodDZvZ3NoT1V2emRpaktReFNEQ2tyOHFzejBtTVJZc05OV2ZEdWJYcWVVZlVQTVBsU3RyWjJlV2pfb1dubjBfZEZCbWk1c0h4Y256cTAtQURNV213UFBzcnpnRENFU3BhRmo2Y0FwMlpOaUZYeW9tQlVGbkg1dk5BZDNtSFZNXzlrQXZiSEhNcTBZdGl2WFZwYk5QX0xVU194dDgxdk5TbmduUGhhS1FZdWFiOG1iZkY0cFFB?oc=5)</small>
+- `[22:10]` **光学行业突发新闻和新闻稿**
+  <br><small>🇬🇧 *Optical Industry Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMibkFVX3lxTE5rakNER2F2bGxSSnZHREt3TDI5V2U2Smp1UkdoQlVtVllWQmxpTmhxTWxWXzNrcHlSMDhFVDBQUFR4a3dzT1pJOFZFbjBnNUdYQjVTR0E5eEdxRjdEMURpMFludnk0U0licnVJZ1d3?oc=5)</small>
+- `[22:00]` **美国狼疮基金会资助针对狼疮儿童的 CAR-Tr​​eg 疗法的创新研究**
+  <br><small>🇬🇧 *Lupus Foundation of America Funds Innovative Research Studying CAR-Treg Therapy for Children with Lupus* [🔗Source](https://news.google.com/rss/articles/CBMi8AFBVV95cUxON1kyYnQ2SjZrdFlqbTAxTEYwRTFUVEVoTGJEOXF3dEVRaVpBVTFXVGFFOGNYTUJXbGNwQ1FsWURDazdNWFhTMWxkcVZ6OFdZRDJ5d1BRS1NpQ3Fja2pQcFY3eVE0VGE5aGdRVGIzWS1rR1J0SkRKTWFOeW41WVBhVWttXzJFZUVHQWJMMk41bGlUTWd0VFdlcS1FY0E5bm5OaHhOdkRYTUhmS0VWMEdUd1UwZmZ2T0dwWno1T0xheGlUVDFxcWI0N0N4LUZRUnVxYXRPTUY2Y0V4dzRBNFZHTGZWcXJNbTdoVDRaYlNtelc?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[23:28]` **全球首款实体瘤CAR-T落地，两名晚期胃癌患者在仁济医院成国内首批用药者** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaUlOVU1TdmNHck5qcUhtVTBLay1Sa1pvQnVleWc3Yk8yNDlCZVpXT3R6bGYzQ25aZjlkazBTdUY4QVhNaFhiakNsRjRIN3hSTTQ0em1oS1hJLUNCZFkyRnh3?oc=5)
-- `[21:32]` **🏛️监管 | 启函细胞疗法荣获FDA“三冠王”**
+- `[00:24]` **ACROBiosystems 获得 GMP 级 IL-15 的 PMDA 材料适用性确认，确保可靠的质量并加强生物制药审批流程**
+  <br><small>🇬🇧 *ACROBiosystems Obtains PMDA Material Suitability Confirmation for GMP-grade IL-15, Ensuring Reliable Quality and Strengthening the Biopharmaceutical Approval Process* [🔗Source](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVDhXbmRScjhpSER2VUFabkp6UDg3QmZ1eXpKNjRVTlZvV3czWW1ERVVGMi1HdXZud0lFWnMzSnpNa0REV25XM2xCMWcwQmgzZEdVdk05TlV1SS00R01mTDZCUTF1NElKOGtEOXdRcVJQWm5CSFpIOENXQlFYMGZyN1hzZ201cHJaZUNXb05abF9OOHQtZEFheHpPT3hhYm1pUnYwLUVQdG5SR0pMem5DZWpLRG5rYTNWX1lIbVVmbDJIaFMyZDFmVFVoU1RkU2k4WXBjZ2dlUno1TExvQ1p1UHhTMWxHeGVFUHBzcUU4WXprVVFjTlJIWXYzS0hnbEl4UzVZMEktMHBRd3I3Z0Jrdk1OSnUzZFRhSy13THpJYTdEWXVnTUF3eVJjX0pYaVVmMFNLUk81WUZib1AtQV84Nng0dGx0WlZqNVpOLVBMWnc4ZGpFZUpz?oc=5)</small>
+- `[22:37]` **全球首款实体瘤CAR-T细胞治疗走向临床，上海多家医院开展患者治疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTDBwVDkzLUtzMWxoMG5pRHp6TXBrdDZXc1ltYmpxYXFCRkNoYk5DLU8xMmttLU5KLTVYa2M5akFWZFk5TXNrbFpjcnd5UENacGVIR1dKZ2FONGRucjF0bQ?oc=5)
+- `[19:27]` **2026年上半年中国批准38个全球新创药**
+  <br><small>🇬🇧 *China approves 38 globally new innovative drugs in first half of 2026* [🔗Source](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjVweTNHR0ROd0hMbUxYbzByS2pKM0RxcFYycVROaVNZMjlKSHU4V3prNkxqVUZOSjdyZF9WTFF5c0k3SzhCT19RUnpwMWtXQW9vYXBzcGV1Q2Q3UVN1RDFrUGM2bjRZWGYyTmM4a0RybzVXanM3U2kxRWtrc3Fyc1JIQ0RNRFJIY0lxdENzNVhCLWxobGIzaXQ0aTJfb2VLa1hWSmYwQUlvOFp2NGtTRmwzTm9yWEFUOGp2ZFNB?oc=5)</small>
+- `[16:22]` **我国药物临床试验总量去年超5000项** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUnFBVVJyZFg0Z1F5Rll0bGJtdG9iMzhSazBETzhMalZKRzEtLVhPVTJKRVkyWjJXYzhnRUt5dGhkNFRwYmdwYXNwUzJwSnNCemlzVUtVVml6VXhMNl9sU0xxTy1ud0JlMkNjNERtUjZxY2NaWXVFM1pBVE9MeXlkTVROQXp3RFh6WGpSVmR4aHM3Uy1WWjgxU0ZqOE1YM1dLb0dnWjFZLWNvTlNlU2VobXZxX3hMdWt2VWhHVllXbkxZc09FZmZpdERaYlpGTW5hRENJT2hzQmpHNFFYdDRlSnE5UnBUdEMwUkxjY3lvVWJ6T0luWUd3YVpiOUJVb0kwam5KUGZUMm5SVm8?oc=5)
+- `[14:21]` **上海仁济医院：首款实体瘤 CAR-T 疗法落地** [🔗阅读原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE1xVVAxakRJRU5JakRvMEVEQlJHTGR0cjFPYWNJVVU0a0VyS25JQmR4MWpMZWc2ek5FUFI2RUNNUk11Q1B5Q3dxaWJOWUZIRG8tYjlzTnJLblpvdXhCaWpsTzUtQnQwY2x3U1hMWW1qZ0FMM1haZnNzaE9nU0tmZw?oc=5)
+- `[13:23]` **【Blood】大B细胞淋巴瘤一线试验设计尚存混乱，各参与方仍需努力-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE00NFloOTV6QmhzYkNpZGNlOWNoN2tPRXBCSzY4U2ZfXzFQX0ZQVHJKQTJWSnNTcExVNFZLakJYU2dMUko1YUJocDF6SHZlOGVrUTRsNDBEQ3RYb2lzTDRaNjhIOFFqekUwQm1GcXBB?oc=5)
+- `[13:06]` **[采访]“注射细胞疗法 speroQure 旨在为膝骨关节炎提供新的治疗选择”**
+  <br><small>🇬🇧 *[Interview] 'Injectable cell therapy, speroQure, aims to offer a new treatment option for knee osteoarthritis'* [🔗Source](https://news.google.com/rss/articles/CBMibkFVX3lxTE5OMF9ScWs2OTlPUTA3MVhzUWVVWG9PdFY3Rkp2X1dyWFRLVWkxTHVmVFVEN0k3eTFoSFVBX0gzTm5vVVBQV0QwNXRWSFV1d3hnbWF1eGJPdmUySlRLX2RSckl4TklObGtNVThlWFZR0gFyQVVfeXFMT05WdUh4MUtCemNEN0h3bkRYWGFMeTE4cEVScEZQa2xEaFAza0Zhejl1ZnZVZ2RHUVNlMk5yNEQxM1k4VGgyUjdlM05neVVyODZRRjdBbkFMNXJvRy1uRnhubTRwSVdFSy1paVlYUEJGZmRR?oc=5)</small>
+- `[09:12]` **弗隆生物启动干细胞脱发治疗药物安全性评估，计划明年申请IND** [🔗阅读原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UT3NtcG5WRGEtRllzTFZlWjg4U0wxbWxhOXJiVFdGTy1YS29qOUxiczRHRnFseGlRYy1QeGJOV0laVUlGb3VpUzdQMEtZWG9sMVctWkFlblJ0RlU?oc=5)
+- `[07:29]` **🏛️监管 | 启函细胞疗法荣获FDA“三冠王”**
   <br><small>🇬🇧 *Qihan scores FDA ‘triple crown’ for cell therapy* [🔗Source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTFBVXJwRHhlR3NGMThMZVhzbjAyaFZ0V3lGLUJfaFZwQXJMcHlERDlNcHN2UUtrbTJvdGNpcjUzR1RYd19MenpkZUNMRGxYS2pSTEI3V1pabHJYNnN6OVVVTnZIRS04bGJ0N3R3NC02dkhKbTRSLVBhU0x2cEczNVVYbENuel9N?oc=5)</small>
-- `[20:12]` **国内首批！仁济医院开展实体瘤CAR-T治疗，改写晚期胃癌患者治疗格局** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFXR2FranFUSU5lSXo5UUY2a1MwV0N0X3FsUGhjLTZ5aVU1WWhaS3pzLW9LSEJxbUItUXdWZGN2OG5wYktaMVR0aWZJQmk0cG9kWDdrOF9ab056WWRIekNsMHUweE1Ld2lZZEZYZ252aTh6cWNYZFhBeWZjRzRyUVljVHh2eWNiYmgyRg?oc=5)
-- `[15:24]` **三天暴涨近50%！中国生物(08037)价值重新发现**
-  <br><small>🇬🇧 *Surges Nearly 50% in Three Days! China Biotech Services (08037) Undergoes Value Rediscovery* [🔗Source](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHR4VW5BbXRLbXUtSENPb0pZNW1uWW0zSzMzSTU4UTBmUjlaOWRnQWVEeFg5TUs5d3hGdE5xeEotRFlVcEtMa20xS21ObzFfWV90QkhqdWlqb3lsTl9pZE95VHJobWdIcWNOT21jNUU5NFVSdk1faVpoOUhSZURQRm9vRHdVdUdVbDA4OGYyamNtYU0yUWswVXAwZGhGR3E3Y0E?oc=5)</small>
-- `[14:34]` **EHA 2026 | 专访欧洲血液与骨髓移植学会（EBMT）前任主席 Anna Sureda教授：CAR-T疗法重塑移植格局，细胞疗法普及仍存多重壁垒** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNkRkTlAtWk1PdnNaOURvbWJhbVNnbEI3cGdrbnQ4SkExQUNrblBucF9xZDU4dk1qLVhsMWdBcmQtUktQWjl5SHVZZTZzVHNhZnBTYldpWkJybURhU2tubkRJRHpfQXV5eW9KNWNn?oc=5)
-- `[12:57]` **Cell子刊：王皞鹏/朱光亚合作开发药物诱导的CAR相分离系统，精准控制CAR-T抗肿瘤功能** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE96UnZXZVVtbDBqSkw5SFVCWXFCcFUyR0VfbXVtN3JGMmlOSXpOSUl1b2JxSzJYQkVvRTE1WTBPUG0yaUZpV3MtT3locEVLbWNZYV93ZU4xUGZtVVdnNnNUUlF3?oc=5)
-- `[11:37]` **艺妙生物冲击IPO，专注于细胞治疗领域，一款产品已递交上市申请_股市直播_市场** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yaHpZbVI2WUFnZE5iU2NOX0U0RU5palg4dGhTSnlCcldoRmo2ZjNLenZWODVVLXNKX21jSlFseDNvQkdWMzZtOXpRRElPbWZsZXM2Y3BxZTNJRVF6b0ppdkJvOEQtTE9KQUhXNw?oc=5)
-- `[08:57]` **高善文淋巴瘤治疗争议：CAR-T时机与维布妥昔单抗缺位** [🔗阅读原文](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmN2hFTTUwbVRBNU96TDRCUG1GZWxaWjY1NDhtM1k3c0w0WFcxb2dJNEtKRHpkMkNRcFhqMVZyRnVVX3hWUU9QZklQNnhsX3VWMlE?oc=5)
