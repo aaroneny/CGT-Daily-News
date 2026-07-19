@@ -1,16 +1,17 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-07-19 | **更新时间**: 07:14 (北京时间)
+> **日期**: 2026-07-20 | **更新时间**: 07:23 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[07:00]` **Neuronata-R 在韩国保留有条件批准**
+  <br><small>🇬🇧 *Neuronata-R retains conditional approval in South Korea* [🔗Source](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzlBSzZUclZzczg3aFU1NHhSOHNXbTBoamZ6anlzdFJxT2FfdVl1Qk5iZkxPSWtFSWdfTW5DdUE3RHZ4UEFxdkFic0ExemxoNEFLOUVGbjVsLUt5STgzWEFabUZFYUlBYmd0WDVCVGNGTE1OQTNhTzc2aUswUXREdmk0ZXctOFBRZTh3bndPVlVqMDJEbUF6aW9NWDhHdkt5Uk42QWFQYXF5dk5xRGdzeg?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[11:28]` **🏛️监管 | 全球首款外泌体细胞疗法下月有望获批上市！** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1QkRWSGxEelhCMy03bWNZbkRQM1ZKSWo1NDJSSUd5d2xDRlhOakxlMU03bjVpWmc0aWdrUUZ0WnZPeFMxSjI0WVM2cjhiUGlCVjZIWkJ6ZWMtVmxLVmNGRUVB?oc=5)
-- `[10:47]` **意见 |如何阻止中国在生物技术领域超越美国**
-  <br><small>🇬🇧 *Opinion | How to stop China from leapfrogging the U.S. in biotech* [🔗Source](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVdJTWJleEV0OVA2SXJQYUJmZWVfQWo4MFRxUUZtdDZVbUo2VG8tVUVXcW1vekJPdHpPM0FPVWVvZk5faVFmb08zbkhDUVFsVmNuYU9vc0dUOFZKZlQxNmVNTDBudzdvVHpSbVc0QXJ4S0NSbkJwUlhndVFKcWFtSlBXbnBuN2Itb2hRTmg2ZFZ3dml0?oc=5)</small>
-- `[10:34]` **【Nature子刊】CAR-T 细胞疗法的发展、现状与未来展望-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE42QTNxdWFOOElfZVNsakpwVmladnFCdzI5YWUzVFBwU0xDSk9vMmV3RXQ3QVY0TDBpSUVYYzVDYWhQbUlpSkRTdVRDZmJoTmZDRV9IOU8wczh2d2ZSVFdWaXBSMXEzZEwzOXZBbXln?oc=5)
+- `[21:30]` **筑牢CGT安全防线！CDE发布《可复制型病毒风险控制研究与评价技术指导原则（征求意见稿）》** [🔗阅读原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE41Xzh0aFN5elFjazdwUEZObE9hendtOUllMkZuZTZZUXN6amZBejhIZ1BmU0U2VmFNRXNuYkNRQ2pSVDhYbnQtcWt5VVZLRnNuOXRMS0ozLUNabFFFYTV5dHZfS2Y3QzRaSDBfVi1DUHcxSE1jRG5naXpYUmk?oc=5)
+- `[14:31]` **墨尔本科学家研发癌症新疗法，动物实验治愈率近100%！即将临床试验** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aU20tNUtxMHktXzlrZzVieUVqMnU0LW12YTA5S3dhZm0yb0h4WDVHSm9rOWdUcjVteTRiX2pSajg0SXNjeDY5bzVYcW5xQkxsQUl5Wg?oc=5)
+- `[12:48]` **不确定潜能克隆性造血对接受CAR-T细胞治疗的多发性骨髓瘤患者治疗结局的影响** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE40dWktVTBBQjBieDBlMVNQOE93VjdVVVNFeVA2Rmw3bVcwSmpaX0MwV1dOSFRlZVY5TU1FQzQyWmtjMlhRU1h1dU1LTWtNeHNlcHZ0STBhQ3VFUUczMEttQnAxUFFTUzVSUjZJaw?oc=5)
+- `[10:52]` **99万元的全球首款实体瘤CAR-T疗法 仍陷天价可及性困局** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OMjZraVZyUTZIam9SYmxpZGlfX3B3NWRWN0YzNElwNkxxRTg2c1lPZWUxYnRZWjNJaVN5UWhYbThXZFpTWHdZTA?oc=5)
