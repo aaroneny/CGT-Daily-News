@@ -1,25 +1,29 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-07-21 | **更新时间**: 07:27 (北京时间)
+> **日期**: 2026-07-22 | **更新时间**: 07:24 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[20:30]` **实体瘤CAR-T第二战场：颅内竞技场的全球竞赛——谁领先？**
+  <br><small>🇬🇧 *The Second Battlefield for Solid Tumor CAR-T: A Global Race in the Intracranial Arena -- Who Is Leading?* [🔗Source](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZnhaZFF2X2RFSHNRcU1YZEFiYkM1NDBSbTBFdDh1WkhPNEtCUHlVT05oSVhtN0xMOWVXQ0g3TW1SVVdsM0JNNGZQVDFpZi1XOXI1Q002dzZ6Y2txNkxDVkt1Y2hkbFRHMGhaVzNmMUg3VmdLb0d3MGZLeXZRcGYza1BkUDJjdER2RmFucl9ROS1xNFJ6WnNaOGplbkN0YUdlV2cyS1F6d05fUGRIZzJHdHhYdTRqRjEwbXhVeFF4Tll3VWMzWGM0TnF4YURaazdBeTViZnhRTXdtQi0tWE5HcFkxUVRWZW5UeFU0Wg?oc=5)</small>
+- `[20:30]` **AllerGene AI Therapeutics 创始人兼首席执行官 Sid Kerkar 将在 Hanson Wade 峰会上展示体内肥大细胞靶向 CAR 技术**
+  <br><small>🇬🇧 *AllerGene AI Therapeutics Founder and CEO Sid Kerkar to Present In Vivo Mast Cell-Targeting CAR Technology at Hanson Wade Summit* [🔗Source](https://news.google.com/rss/articles/CBMikAJBVV95cUxPRVE3NnJnS0ZuSHhNRGpXVDdjSnFxTTczbldRQ0NYZC10Y0tPV1pCZjZFM255ZWFmSVgzVTVXTnAtVUpqMFZUNDBXdWh3UGhLTHh6OFpIQkdUUm9uSHlkNXVJN0pZZ0Q0dTV5eWMzVmw2a3Z5bmtqV1lnSWk4M09qNVBleGYtRW9Yb01ZNVc3a09VSW9FbDUxR19OV1diM2JzV0RGRUNKQ29MdWV1VmxLRS1fT0hwOWNNUzZyVGRYc0lHVm5aY1A3XzNlRHFrWnR1N1lYb0daOXFLd3phbUVRaFZWRjUzUGx3aG5Zc004c0JSdk0temhKMW5zM2dLakVvaUVNcEh0U3F0djV3cGJLYQ?oc=5)</small>
+- `[20:00]` **Verismo Therapeutics 利用宾夕法尼亚大学开发的针对 Claudin 6 (CLDN6) 的新型粘合剂扩展了 KIR-CAR 实体瘤治疗产品线**
+  <br><small>🇬🇧 *Verismo Therapeutics Expands KIR-CAR Solid Tumor Treatment Pipeline with Novel Binder Developed at Penn Targeting Claudin 6 (CLDN6)* [🔗Source](https://news.google.com/rss/articles/CBMikwJBVV95cUxON0J3MUliLTJPay1WWnVkSHAta3o5eEZLSG0wdEpyNW5VSjRoQkdOZXNWVXJXcHlmVmkzLUNhNDJqdC1aNGhqcTBXSXRVT1pGZUNUdmtpbzllbWFlaGhpWDM0T1dmblRuV0dXYnhHTnZjYVY1Y3hfRmlEQUFZdmYxakNvc2c5QUY0VFdPVXlpTXRkQ0NFX1BYelpSSjliclY2WXBUaDFueDNIQS01LTZuR281OFlvdFdWdlN4OWQwbGx2ZENITVlMaG5hSDhOdkp3OVZpWVBIemRWLXpSNmtoM0t5ZnlYampzdVhzYkFDX1Zzazc5Snp6dmJvN2tSQ0Y2ODFHVkZIMVR0dHlBYnpFbGR4TQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[21:51]` **官方：中国药物创新势头强劲**
-  <br><small>🇬🇧 *China's drug innovation gains strong momentum: official* [🔗Source](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzlpT2JPVUdreFlEUlhCR3hfOWpxQzk5NUtZelFGSEE0Tm5VOXBKN2NmMXNrVVlINW9PNHA2ZnlmVmVFWWhTTFEtOHlJOFdqWlR5dWQ0bzN3d05NXzRCcU5aSkVYZUNpQVlxNWVYUF9PUWF4OTRWU1NiM1BzMG02d1RCdlJ5MlZTMnFJczNWOEF1SzlZX3UwY3EzTjJOeHY1T1haUDFGU20?oc=5)</small>
-- `[18:32]` **梁廷波教授研究登Nature！实体瘤CAR-T治疗迎新突破** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE04Rkk0akxxbXJtTjM1ZUVKakZQcElXSC1iT0lVbkRDdklQTWQ1R1k4ZDI4b1VHRWNIRVFxdUYtRy01Y0RpSk5ZWllrT0ZaNlY2Vk9lREFyQ1ktVFZsVEVxRzY1Y1Qxa2FmbDU1aWxB?oc=5)
-- `[17:43]` **🏛️监管 | 工信部：上半年获批上市创新药中国产占比超80%** [🔗阅读原文](https://news.google.com/rss/articles/CBMiekFVX3lxTFBONW1tQnFQWkdOR2E1djhOSzA5ekdMTXhxTFNjRXBQdVBzTWdKd1BRTXMzWm53SmJ2bHpGeVpHelJ4MHZPSGNHM3VzZ2FucGtFbzI1ZmRLTFM4MGRDV1ZWY1BtcVFGN2VCVjRXb2h1MmlaRmVtTUt1Um53?oc=5)
-- `[16:44]` **🏛️监管 | 上半年38款创新药在中国获批上市，国产占比超八成** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12UVJjQkQ2WVRPbFVuZDlLVkI4UFA5Z0UwVHMzbHN2MzRmZG1KN0N4N1VhWHM0MzE5NjNnOWJDQnFwSkhZb21QRGNJcjFkVlZSeGFUOWIzVHVCOS1sODNQMzcxMHE2cnc?oc=5)
-- `[16:24]` **上海儿童医学中心自研双靶CAR-T成功救治儿童系统性红斑狼疮合并难治性血小板减少** [🔗阅读原文](https://news.google.com/rss/articles/CBMickFVX3lxTE5UeXUzYmI5a1V1QUJjYXlSOHByY2lJTVdUTi12Vm4tMVRBZk1EUjlOVmdJY0trcnpOaWpmS0dUX1FBVXFxYUNWbVFVc1pnejlBZkl1TmVmaEFrT1h2STZOQ0RQWDcyNC1yZlN1bjAzc2VCQQ?oc=5)
-- `[15:58]` **西比曼生物CAR-T疗法获欧洲药品管理局优先药品认定** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PMjBoTjgzcmxjczdzSjB6OGFsdmRUOWF2aHFLbzFCSFN5RTlxeUl2OTUtVnlkMnQ3akZlQks5RHM2UnlTN2J5YkJRX2V2UU4yaVBwbDlFaGNPMXp6VzgyakZ3?oc=5)
-- `[15:51]` **六大病种布局临床应用 日本 iPS 细胞疗法加速走向实用** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2WmUzUWVnYU1BR1pJcm04VlpURHAzUzM1c0RPMW53Szg0LTQxWXpuVEZEc2gtMkVidUc2a1BzUFF0djNRZ1AxRDBtam5mbUtyc19lSnByWk1ZSEp3SjJ5aG5B?oc=5)
-- `[15:08]` **🏛️监管 | CoRegen 的 CRG-150 获得 FDA IND 批准**
-  <br><small>🇬🇧 *CoRegen Wins FDA IND Clearance for CRG-150* [🔗Source](https://news.google.com/rss/articles/CBMiO0FVX3lxTE1hR3FObVhOSzdxcjBXWWxBa0JBb2EzdUJPZ2plQnZKU21QU1VMaGo1cWxibkFWaHlkVnN3?oc=5)</small>
-- `[11:05]` **登顶《Nature》正刊，西比曼与阿斯利康共同就针对晚期HCC的GPC3特异性装甲型CAR-T疗法重磅发文** [🔗阅读原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE5OSlkzTnlMNW5BYk1razU5RGFEZUFXN28zc1Q4bGRaQk9mTWtHUGhqbmw2SWxhanNRSTFLTUdMbExESjlQcGZCNXBXRV8xeVc5ZW41WnBHakR4RWtremhQY04tZnptVWtJOVpLNw?oc=5)
-- `[10:36]` **🏛️监管 | 工信部：今年上半年38款创新药获批上市 其中国产创新药31款** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Wjd3cFJhX3NLMTczMmdSV1c1V3hYLTlwT2tnSHhZaVBDTklUVXljZk8xMFpJaXFwaWR1QVRuMG1PODg1cUZvNWxJN0hkQlpiRC1CempNS29kVG1ta3Q2MGRfbTI?oc=5)
-- `[07:58]` **国产创新药临床、研发不断突破！前瞻市盈率有望回落的绩优潜力创新药公司出炉** [🔗阅读原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdldGX1ljN1pRLTF3bC1xMkN3Z2l0QW1YTFNnMERKUFNKTFFIeV9tUFM0ajB0WTF4Qjl3QVJXUW1vSXYtUU5tOU5xa25OR3JfQWsxNjBiU2xFUEo1ZnpMQVdQM3QzbENwcHhtRGFRRXRTY0V0MzhBbkQwWGpjbHNDWHNFRG1yZ1h3OWR4R29pNA?oc=5)
+- `[21:57]` **🏛️监管 | 天泽云泰IPO：尚无药品获批上市，实控人创立公司时尚未从央企离职** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9idkVwTVJRM2xpVV9OdXZQSkJFVTJrYWpRSENfNkNHb1FwTjFWRklGTGxXM1AyaWhZbDQtalRJa25DQkFCbFk4UWdjbjQwUUpjMTIxNGFwaDR5QVJOamcwSHRn?oc=5)
+- `[21:49]` **国家药监局新政，CGT赛道狂奔** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE90R0VrYXFXZWt2VU4yZS1uVHBQdklLOF9WNHRpT09PVGV0UEtCOVo4dWlBY0xwTHJ0Y0xndFFlVmM0VWNheFJqaGlvcm1hUkNBMldzZE1MMUZHMVlTN1Vlaml3?oc=5)
+- `[20:55]` **实体瘤CAR-T第二战场：颅内竞技场的全球竞赛——谁领先？**
+  <br><small>🇬🇧 *The Second Battlefield for Solid Tumor CAR-T: A Global Race in the Intracranial Arena -- Who Is Leading?* [🔗Source](https://news.google.com/rss/articles/CBMigAJBVV95cUxNY01xZjhrYkZtNXRYRDZMWjA0TDltVG13RDkzVk9tdWhCNXdMU011UlhCV2ZQME81d2JLVmdJajNOS09LS1FxT055Xzl2ajdnaEg4TGRURkVITkRyRFlDekdXWXY4bVNVenZfTEUzSGwzVzdJNHVtUE5RbEs4emsyVXc2XzF3YXZrVnVEVU1JWThlR2g5VlVFMDR0LThLMGpWeDFjVFZHNnc3bVk4aGZzSjV4TDM0clpaQkFEWTBtNnNrMWE5UUh2Z21BTlFtdXpmVmI5cXp3QmRSS3QtamVQVk1xM2phYlV5NXA5YlFDS19hTXMzY1dMM1ZPMEg3M0Va0gGGAkFVX3lxTE9UUnBjSGJES25wMHQ1aUpMak9ia214OEl0MUZzUy0tSk5mem5uVDlldUd6MnZ6MU5odGRqaE1zdWZQZUNqU3JvRGxEZEdiOWV4LW9fcUdJSHc4SXlMZ0RobGdOWmhacGF2MWlrX3hWRGZvWjZUZGJBdG54NndmS2lfakJLbElaZFBHdDg5NVNHVHVrS3QzcmFfZkhpa3RTWHRVNXRfUnFycmlwWGtNVnAyQk8zSGJ3VzV2Qmh6ZXFoc21jWjVPdTdOVFJ5VmpHcWh0R00yc0pHdGdDd09Mbm5WNTdRcnAwYmZGWWZuZDhqaEFmYVFVMnlkcU1WN09CS05vc2pyamc?oc=5)</small>
+- `[20:05]` **VivoSim 进入中国并首次商业销售 NAMkind™ 毒理学筛查和功效测试服务**
+  <br><small>🇬🇧 *VivoSim Enters China with First Commercial Sales of NAMkind™ Toxicology Screening and Efficacy Testing Services* [🔗Source](https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1VCVmhvWlZnOE9DN1FQbmxaTWtIVlMyRFVRM2dXWndQc3JzTzZzc1NoSkRSU0s4TENVX0hGT3lDWjJsOUR4a2c0YmVRWVJzQmpYVXNDcVRoaWhTeUxqTU5yaDQwZDFzQXFNTjVxaTVNTkRkdjNXR0ZDOWg0SHgtcU82YmFiaVh5OFN1a2JSVQ?oc=5)</small>
+- `[17:15]` **“先进再生医疗”扩大政府主导临床研究……降低罕见及难治性疾病治疗门槛- 阿视亚经济** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmWDhsOWFTQTdfX19HTExCS0hxQVJzMGVJaGUtQkpHcXFNanFQdzZJbzFIR2MwakFZT2V6MGlmbWhWMXRlSm9BdUNnNUVaUHNUYXMtRU1Ia2d5QWhtYU4tSllkc00?oc=5)
+- `[14:04]` **Kolon TissueGene代表全承浩解释。n"10月第二次临床结果很重要。n将在今年年底之前查明原因"** [🔗阅读原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tT05pYlV3U0hqTXlRbVpOYjB2RlA1Z3c0MVBJd1Zfb1NOLTNaOTFxOHk4cWZJVndoMlRFNkd4NGREMVRGc1dLbVdQOA?oc=5)
+- `[09:13]` **超越传统CAR-T！CAR-X细胞免疫疗法开启实体瘤与血液瘤治疗新纪元** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wbVl3bkJRZ1NGeDduRGk1ZVdFbFVBMVVhVzZsVHhXMWI3blpkYkNsUHZBQ3daXy1vVUxJYmpLOVB3T2w3bWc?oc=5)
+- `[08:40]` **WAIC 2026｜AI+量子切入百亿美元体内CAR-T市场：英矽智能参投元码智药，并携手沙丘量子达成三方合作** [🔗阅读原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWl9DTFhmNXFxbnU4OU45S0lvWlBScldHaTFsVnpZemR0YmZSRXNQV2R3Q3AyTEczRWRYdHVFaDBiQW9ydkowRmhTYWxSeXkweF9hZ1NIR2tJWHJmSzN4ZV9POXVmVjZ0d0pqZFlaTWlJNWtBZHFodER3YnBwcDA?oc=5)
+- `[08:12]` **HLB创新公司获得'CLDN6'靶点，推进实体瘤CAR-T扩展** [🔗阅读原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWN19XYkp1MGhCeGxwU0thS25NcmhXQ2w3U3IwVXg0YnhBeWJvNUxjODkxcnJEN1RybTdPaExzdWVwQ2lEZ3JPSE5WNkVIUmZpc3V1eXYzdDFqOEU?oc=5)
+- `[08:00]` **WAIC 2026｜AI+量子切入百亿美元体内CAR-T市场：英矽智能参投元码智药，并携手沙丘量子达成三方合作** [🔗阅读原文](https://news.google.com/rss/articles/CBMic0FVX3lxTE9kSXlBUWVzQ0xwa2xLekxFVHZHMktPSXZyZ3pnRVBUVklPVGdBSjJobXJ6Z2pRSkE2cnptX3g3OHJLWE11TnM2YnZWc3FCX0xsNjl6RjNKazdhUVlKWGZzZnc4V3ZzU1JXUmVZQ1RYdTlTdEU?oc=5)
