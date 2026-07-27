@@ -1,14 +1,31 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-07-27 | **更新时间**: 07:25 (北京时间)
+> **日期**: 2026-07-28 | **更新时间**: 07:31 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[06:34]` **🏛️监管 | 在咨询委员会会议之前进行 FDA 严格审查后，宣布对 Capricor Therapeutics, Inc. (CAPR) 进行证券欺诈调查 – 敦促遭受损失的股东联系 Frank R. Cruz 律师事务所**
+  <br><small>🇬🇧 *Securities Fraud Investigation Into Capricor Therapeutics, Inc. (CAPR) Announced Following Critical FDA Review Ahead of Advisory Committee Meeting – Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz* [🔗Source](https://news.google.com/rss/articles/CBMijwNBVV95cUxORWVXcVBjX01yY3hLZXFkZ3V5ZXBpeVYxbGNRdnA2ODZBU0ZyeFdvb3hpNXVZeW5hUWdRNmVxdWQ1RV9sajhmN1U0NlNqS0VaT09wU0lTWEJRRE1kMkkwdm50VmkyTEZ4aEI2Mm1Zci1iN00tdS0wbm5XRXZCS1dNOC1zTGNRY0NsVGRnRGxUdDhmU0p3Z0xiVGdhRXZkdDU0bFlyakJJRk50TS1Zekh1ZU1KU3I2WWpXNG9fbFM3R09vT0hZaUxLVG5pM0ZjOURaWDFHb21vdVZGbFJtRlBZcUNEMUVGZVNKakNoTmgxcmlBdTVId280eHg2dFd6WEEtbnI1RV90Vk45OHJ5NjZLWm1ScHJkZk1iYmNSU004NV9LcC05UHB6QjB1T1M4TFhfbVpmcGJKWjVJYWhmWU1TYTRnQVJIQmZQOEYxZTZUUTYwQXRQY0szaVN5OGpEa3ZJczRxeUZaRFZEOFlNajZFV1lrSXJGbDYzYnhzcHc0QzdQU2FEOGhQd1BXZE5LX1k?oc=5)</small>
+- `[21:05]` **🏛️监管 | AbelZeta 获得 FDA 批准 C-CAR168 治疗难治性狼疮性肾炎的注册 II 期试验**
+  <br><small>🇬🇧 *AbelZeta Receives FDA Clearance of Registrational Phase II Trial for C-CAR168 in Refractory Lupus Nephritis* [🔗Source](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVkh2NDBBTWFLYXBLQ0JRM2hZYlZDVEtWQVRSd0l2Q0xBMEtyMGtrT0g5TzBHNXN1RzU4bXlMM0UzRE9scnJMOFBIcXJlOWlqb0I3TE9qZ1Z1R0pSMkRDQzExNmNSbHJCNVkyaENxQWs2WE5HUW0tVXJxSHQ3NkR3SXRUcGVIdHhweUlodkV3NXh2Ymw2ampTZUJSOFplZVFUOXhBUGF1d2hxSmFwQXRVa3pFWER4V3lwYW5kX0lRTGc4WEU1UFJhakJTWDFmQmZVdzZEakQxcFY3dzBPeHZUWnhMVGh4Sm5sUFRsV1YwSjJleHgxYnc?oc=5)</small>
+- `[19:05]` **Sonesitatug vedotin 证明对二线及后线 CLDN18.2 阳性晚期胃癌/GEJ 癌的总体生存率具有统计学意义和高度临床意义的改善**
+  <br><small>🇬🇧 *Sonesitatug vedotin demonstrated a statistically significant and highly clinically meaningful improvement in overall survival in 2nd and later-line CLDN18.2-positive advanced gastric/GEJ cancers* [🔗Source](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPdGtxdENsdVNrdUJzMlZ1TGJkSVFoTEJEdDk4ejBfMFdjUEdDZlhLVGhvZXNZTGkwUUxuTXh5aUJaRVpkNDBidWpDSTVDdzFYWTlnNjhQY1ZkQVh4eWNib1hKa2ZyMmpMcENIOU02eUxZZ29EeGxQQVBFWVAtaHBTUTJKa2M2WWtINDI5VkZheVhjVklHYWRqSzRSOU45QVo5NDZpb290U1BBeFJPei04dUF4WUxtWUo0T2NNRG1Vd1otWWpXZjBaT2FaQ0F1bDR5LWlCS1VMcTg2cGQ1MTBWMDkyUkRhNnV1N0ZVb1BBVEhnckw2Tk9IVjZpUC02bkQxTkE3MWI5TVB6UGtBWDYxd2E0cDZDZTNtanRTRHZ1VGVIRVNBZXYydjNuS29HUGpMbnRhWVdKVnVzcmYydi1FaFY2NUV6VXVFc2FkNm9WMDd2QzNTRTVobEg1M25yR3BzbndFbXRoY1poQQ?oc=5)</small>
+- `[19:01]` **Precision BioSciences 宣布高层领导团队变动，以支持项目通过下一组临床里程碑的进展**
+  <br><small>🇬🇧 *Precision BioSciences Announces Changes to Senior Leadership Team to Support Advancement of Programs Through Next Set of Clinical Milestones* [🔗Source](https://news.google.com/rss/articles/CBMiowJBVV95cUxNRGgyVXl3OHd1WU9YN3YxOE1zaWFtLWFsa2dWd01WMkhxckVyMU5HUnN0eU1EOFZ4U2pndlZlTlI0TGxJUm1qZHpEdGt4OGtfWnRhM3FfWUUtU3FHYi1PWFlkLTViSE03d0puU1drcWRJUHpCcW1iWHlINThkaE1UV09zdWVoUEFOWFJUQTFhaHVCWExTeGJGejR5T3h3eWNUVXpvSmRBMUNaeURka2VnN19lMDlMRXkxUnFmWXhTVmNhclpZMmwyaVc4cHNHT3Nnb3A5TUxicXdYM2VQUDZralNINFJsUW1fZFFyc0czRFlyTjdWRXhPQmxsWnhNWGhXTFBYazd6YXFrRG55bVliSWpFQWNkYTFrY0tOSFF0NVByS1k?oc=5)</small>
+- `[19:00]` **Liberate Bio 任命 Steven H. Bernstein 医学博士为首席医疗官，以推进体内细胞编程走向临床**
+  <br><small>🇬🇧 *Liberate Bio Appoints Steven H. Bernstein, M.D., as Chief Medical Officer to Advance In Vivo Cell Programming Toward the Clinic* [🔗Source](https://news.google.com/rss/articles/CBMijwJBVV95cUxNUndMcXJzZk5aSzIyMU5qRnRVTVNFRE5jQTczQ3kwWFZrUW5SeF9DRnRXRnNKMTVtcV90dzlZbDVCbmVXQzdKbXZPSTU5QVlwTnE4b3F1LVgzWEJZbmpGY3hQZG1HTjZYWTE2VXVrMkZjYlN1R0hGVzZCa1RzcEVPbkR4dnBUUE5EVDV5TnNvNzJWb05XeGJJQWJoRTZyMmtVWUVyTjhLX1hkbE80UE1wTl9MVVN3dGljVlNnTHBkd2FTSFNfMnhUUW1hMkdJSGZsM1oxUVFzR3NRWjl1RlVjd2dPenRnX0c2TWpIVUZYZVBZNFRLcVpaQWw1czBCVlNGem9HZXFBbVRpS0JaNy13?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[16:09]` **🏛️监管 | 科济全球首款实体瘤CAR-T获批之后 李宗海谈创新药可及性** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdHZNclo3aHg2NHJzeXhyY1hXUHE3MXpJY3U1YXgyVW9pb2hmelQ5eFc0S2FGcXgzNlc3aGdoSmZDNUhjS29TNEhMXzc0M3ZZdThROXk2enRmNkdiZHhJYTN4bzdFdw?oc=5)
-- `[15:42]` **从单品上市到管线爆发：精准生物第五款 1 类细胞新药获 CDE 受理** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTFBScVFlcUtSVE9LYVlzVE9qeXQ4RG5ZVnB3YlM0cUczeXdZYmpuUVF1VlhBTFppNk9jSjZXbld0V2R4TVZoZzZIcjM5Qy1RV25tUzlhMzJDRDREWWRocC1talJaMkxyVHpWQjdOWnBRbDA4a01jSDZZWQ?oc=5)
+- `[23:05]` **🏛️监管 | 复星健康推出全球首个获批实体瘤CAR-T疗法**
+  <br><small>🇬🇧 *Fosun Health launches world’s first approved solid tumor CAR-T therapy* [🔗Source](https://news.google.com/rss/articles/CBMisAFBVV95cUxORWk2ckVtR1JoY3V2TVo5MWZtR0xnb0VSZWJKT0R1ZUtyLS10RWZ6TklKdVVyVno2bVpYSzVPdzNmclhfUF9CaXFTc3V3d3VQX2F2cEdadHhkZGI5QWlqSi1FT2MtR3RnaGxHZTdRVy1Cdkw4YWZVb2FtQ0owbUtjZWszaTZabW1IYkVjbkdtZnZqSFowVTRNQlFZa1BPRmZkRnVSUWl5WkhUMHM2YVJtRdIBsAFBVV95cUxORWk2ckVtR1JoY3V2TVo5MWZtR0xnb0VSZWJKT0R1ZUtyLS10RWZ6TklKdVVyVno2bVpYSzVPdzNmclhfUF9CaXFTc3V3d3VQX2F2cEdadHhkZGI5QWlqSi1FT2MtR3RnaGxHZTdRVy1Cdkw4YWZVb2FtQ0owbUtjZWszaTZabW1IYkVjbkdtZnZqSFowVTRNQlFZa1BPRmZkRnVSUWl5WkhUMHM2YVJtRQ?oc=5)</small>
+- `[20:47]` **中国药物创新重塑全球制药格局**
+  <br><small>🇬🇧 *Drug innovation in China reshapes global pharma landscape* [🔗Source](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHp2WEh1ZGQydVdVVUxCZEx0d1UtY251YzNKbGhGMkxRYWx3WUJQbDZiWGdjZnJNeFRraFFxOUQ3ejlnM2d0X0NIWGRNVmhpazRBdlZtVXdKRGZTSjVrUmxDYU5UbTdRaHBsaHM5TkRFVDBPWkxSZGtnUzFIMEVzdFBIQkEtNGF2bFRnVVdXVFRJc2ZzM1ZVNW1DUTRHV1FQSlR0dGRsU2hzSW05eXppU1h2eFI5VGFYUjFkUl9RRQ?oc=5)</small>
+- `[20:38]` **一个生物狗的科普小园｜86万美元与IIT都不是上海女童基因编辑致死事件里的致命原罪** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUcGczeTNwR1hHV2l1ZkpuWTlxblFSRWkxOUdDM2JuV2JkcktOTE1Kd2ZQQUhJd3RLbVpJZlhkU192V09FY29ibFd5U2g5MTJCRnFxMEM2OFRMMXlYaUE?oc=5)
+- `[13:53]` **可隆TissueGene就骨关节炎细胞基因治疗剂"TG-C(原Invossa)"在美国临床3期首次研究中未能达成目标一事,正式向股东道歉,并表示将通过外部专门机构独立分析目前正在进行的第二次临床3期结..** [🔗阅读原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CT3ZZQnZWazZ6a1g4R3p0TzZNU2FBX1lVMDRPR0RaMDJzTlpRdDdDVGEwSGN4U0FDaTB3VWxDRmJwWU9KOS1hUWhHQQ?oc=5)
+- `[12:10]` **峰会，默克必须在中国首个癌症领域探索新的监管领域**
+  <br><small>🇬🇧 *Summit, Merck must navigate new regulatory terrain in China-first cancer landscape* [🔗Source](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDh6ZHdUVzh0VXNQVE9UZVB5c3lwVWNZMEh6VEZoQVNGQmszQ1NHTUNTQ2dHdmFPenYxbGFFMS1tSW1tbXVFODlnNmVsVUpjOEZWNUg1ejh0dy1zZldFSWdZRnlFOUpXR3pqVC1SSlVHQUZicHNMblR3WjZkZXNodzVZLXRPN3pYcV9JS0dkRWtYT0hfYWVKejd6cGNhYmJSa1A1RG9tZHJ3Y01XdFdxWmwyUjJzcE1aazg4U1F4U1E?oc=5)</small>
+- `[12:07]` **聚焦CAR-T治疗自身免疫性疾病！湖北省级细胞治疗转化中心落户武汉市第一医院** [🔗阅读原文](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XTGs1NlBBd0pPZWh4RjRyLUpUNTVpT1laQXh1NmotUEZvSlRnSVJjZHIzR0hIVUlaaWhPTWwyeFFWZlNEZklHbUF2Nk8?oc=5)
+- `[07:50]` **Kolon TissueGene：“就TG-C临床失败道歉……将重获全球首款治疗剂荣誉”** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Lc2FDdWowT0lVZG1HTWRPeDVRVzZ5Q0NKUFdRZTcwSm11UWVqRGszQjlUdVBOS2tYY05nRXV3V2pMNlhGa0JESktJNlRkV05FSnVtQVNYb3lKX2xfNk8xMENRUl8?oc=5)
