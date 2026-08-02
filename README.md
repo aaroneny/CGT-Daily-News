@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-08-02 | **更新时间**: 07:24 (北京时间)
+> **日期**: 2026-08-03 | **更新时间**: 07:24 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,5 +10,6 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[12:22]` **全国细胞与基因治疗技术培训班在哈医大肿瘤医院成功举办** [🔗阅读原文](https://news.google.com/rss/articles/CBMib0FVX3lxTE03RndQekFfU1ZFZnRuS1VYWkhtRmU1aTRfSldNMnB3WkRoMTZ6RUc4WjJyZkFkQ01lMVlDYk1BYVNONWdGeHVrNmV4VjVZV2dELXBIS0E5aHZOUl96Z0tiS3ZCdjN1Ri12M3ZCZWktSQ?oc=5)
-- `[12:00]` **罕见病家庭的百万试验** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STmVKTV9IbS1TT2Z4NGIwa2FpOFFjdlNDdXR4dDRfdWlHbUZabDI4cWZ6UC1pZUhBdFRoTnR0Zm1ia0FEMk44WVJJU3pWS19NY2NiUw?oc=5)
+- `[19:51]` **中国脐带血稳定植入率已提升至逾97%** [🔗阅读原文](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KZkY0Z1F6SEkyY2VNRHN1eHFKTjV2ckIwd0V6LXVTRUNTcnJERzY5VjRhU3FUWmw3elBkd1RIYjQ0MlBhbUJ4MnhKY1A4akNBc1RVZEtjV2UtZWk2bEJ1elU4dlRUXzEw?oc=5)
+- `[18:25]` **晚期胃癌有救了？全球首个实体瘤CAR-T来了** [🔗阅读原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNzlaMFBYMlFmMVVVSy02OFhPaEM5dHJJTWhrd0FpZEZDbXpCcUxfRFlRZkI5QzNxQ3NiOEpURHJUODFrQ09ZTFdDQl92UzFpcEk5T01MSW02a0RJbm5XNmZnYmdPLWdyekJKWmNscnBPVHUyRS1xU2pnVWV6d2VlMjBOaUlYZw?oc=5)
+- `[11:21]` **首例脑部基因编辑试验与一名6岁女孩之死** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1NEeFdLdEl3T1VLdzRRZkg5bVpxWjJsYTUxamtQV3hzOUs4Q3JaZkVndFhmTHFoeFpDalVGYnVJUkxlRHpvWWQ0R0RDbGhibkxrWWFLOE1FTzViZ24tUzUzMmI1amxXN25MSlJpVzFTZjczWTRkeWtQQTRWSy1QVU01VVM4Yl9pd0Nsbw?oc=5)
