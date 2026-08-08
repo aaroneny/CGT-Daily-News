@@ -1,25 +1,22 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-08-08 | **更新时间**: 07:00 (北京时间)
+> **日期**: 2026-08-09 | **更新时间**: 06:52 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[15:46]` **🏛️监管 | RiboX Therapeutics 宣布 RXIM002 获得 FDA IND 批准，这是第一个针对自身免疫性血细胞减少症的基于循环 RNA 的体内 CAR 疗法**
+  <br><small>🇬🇧 *RiboX Therapeutics Announces FDA IND Clearance for RXIM002, the first Circular RNA-Based in vivo CAR Therapy for Autoimmune Cytopenias* [🔗Source](https://news.google.com/rss/articles/CBMimAJBVV95cUxPWl9vZVp5TDJfeUVxLUtuZUxaZHIxZTY5Tmh1SmltdWdwWjJtQ3FoMzlrbmllTTJBZ3J5bjk5RVJBb01YcGEybGp6eXg4OTc4cFdBNElNS3lxMzEzcWxkWndFaE5JWEVmRWNvUWRMZ2ZJY2UyMlNHRGhUMUVtTDVpLW0xdHZ0VS03Si1NYTRMMTlpaTF0TzRrSFpvS2JDRWRXemhpd1A2LVdVaUdZWWR2SDU1VExockZIZzVzQzZ2WkU1Zl96S3NsYkFnc19IVTFXbVpmaEFudGh2MklvLUtUOXc5eVNIU1luNXMwaEg2OEcxMnZ2Wks5cE15c3ZuUE9BOVZ5c2lDUzlFcjFFYzFJRlBDRUMyYUJ3?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[20:53]` **惠达基因隐匿男孩基因治疗死亡12个月：中国试验制度失败**
-  <br><small>🇬🇧 *HuidaGene Hid Boy’s Gene Therapy Death for 12 Months: China Trial System Failed* [🔗Source](https://news.google.com/rss/articles/CBMixwFBVV95cUxONkdScVN2RDFGdWlxLXp2aW1lY1lYam5YcUdGeEFraFRwblEydF9ZOE1DMm9XRjVuUFFTalRwdVFFcnlLbXptb1VCQmNJak1faWR0OHIwSFhrUmVuUndwOGkzVUtEZ2lscVp6Q2ptUHJnTUlFYlV0RDAtRGNrZHlzZjZwb2NzdGVleEJUQkxqX2dZUEFrSlNhVjBWY0c0Vk5paWJ3LUhqRXFWMWp1T2RBLVU5bjJRclR5TXczclVzekdIMW9lclZv?oc=5)</small>
-- `[20:31]` **又一孩子死于基因编辑！沉默15个月，上海辉大基因被爆基因编辑临床试验中一名男童死亡** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFhMYjZCNW05TnpFc3hJYlhTZzFQd0xPakRQWm5WRDlydXlWRWRmd3ViMGhqRmJpMkx1N2txN0dldThhdE02Q3l4OWFwSXFrRFM5eU9uSTczRmRiS3hOMTJ4amsycG8xZXVrT09UMGxJOENVclhCdXhHd3pSV3Z4T1l1VFFSMzR2?oc=5)
-- `[15:09]` **卢高：西方制药公司的循环RNA盲点看起来将是一个价值70亿美元的错误**
-  <br><small>🇬🇧 *Lu Gao: Western Pharma’s Circular RNA Blind Spot Will Look Like a $7 Billion Mistake* [🔗Source](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UDdqQ2hhQVhYX3YwcnJMQlJmRGo3ckxmNVcwLUkwblhHTTBuUGtXRHN3SlFORWhUMGhUMjhva2pFeXpZTklkclZKRkNDOVNxTVVROVRMYkhQcHc?oc=5)</small>
-- `[12:01]` **🏛️监管 | 科济药业-B早盘涨超4% CT1190B获批用于治疗至少二线标准治疗失败的R/R LBCL患者** [🔗阅读原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnBtWGlDUWtXb2lsOHFrSXM2NlkxVC1aMS1IQmp2TE1fUGRGY2k1WlhhczlySm96aWR3M3ZjNlE0aVlxOWpRczNKQ1JHYkY3MXZRTFRuSUh6WkQwNDlYemxKWExKLW1BQUItWEsyR2xLYU9MYlRCLUw0aGdXMGtGQ1YzRDZjbVZQdmZjM0FLRVRIajhqRktWbVZUTkJkeFBOS05jRlBzeVVuTmhaOGc?oc=5)
-- `[11:59]` **继6岁女童离世后又一患儿死于基因编辑试验 隐瞒一年才对外披露** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUURUMXR4cFlzQ2tia1U1R1BxRDlnbmZfcjJvVG1JakxCTm10Q2lHMVAzWEM4TTNRNk9WUUtXNzg1cmxHekNkZ2ZBRzdpTWtMdHVYN1dOSDZJRjdnRkFJTzFxa0dXakdWazhhbXB4eXR0SVdkNXZERTVTNEp5UEl4T1pEVDNPUTA0UF9tTw?oc=5)
-- `[11:55]` **半月内两起儿童基因编辑试验死亡事件曝光，业内警示：追求“全球首创”不能忽视临床安全与合规要求** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UelU0N0J5T0ppQ0RrQUwtU0NtbjhfZlotZDBpV2FfNV92cUM5SGJoeGJIVVRpbkw1M1VVaFBZTUctZlZvT2ZsamlDS0FnRjVCSDVLT2Q2Z3JQZ3VOa2M5Rk1ydjZKZw?oc=5)
-- `[09:55]` **🏛️监管 | TransThera Biosciences 首个药物 Jentaia 在中国获批上市，股价飙升近 15%**
-  <br><small>🇬🇧 *TransThera Biosciences' First Drug Jentaia Approved for Market in China, Shares Surge Nearly 15%* [🔗Source](https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQTRjMGNIMnc0QUQxWE1teTRLczlZZXFuaDZNR1M2dU5SMUlEQkszZkJMbzhHY1lhbUU0M0tTOW85dF9aV0JKMXRrN0ljVEtndENBREEtTXVpVGUtWVFIZ2MtalRZSWlNZGZ6X2dPcEZJTURzN0E?oc=5)</small>
-- `[09:18]` **科济药业靶向CD19/CD20的CAR-T产品CT1190B获国家药监局IND批准** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0VhNkQzS2lqN1FBNTNDQ0xFbXE1TXRLLUFqTW1SbGZ2dmRmTEViRVhYcjFIVk9GUnRuUTZ2bDktb05lX0tQTmpUSHluNTBwaVRNRzFxSF9mWG9iOW0td0k0ejE2N1pSNEJ5bEljVE9QMzU5RVJ3YlJDZ1RnUE5pcHlfeUg0OEtk?oc=5)
-- `[08:13]` **🏛️监管 | CARsgen 获得 NMPA 异基因 CAR T 疗法 CT1190B 治疗 R/R 大 B 细胞淋巴瘤的 IND 批准**
-  <br><small>🇬🇧 *CARsgen Wins NMPA IND Clearance for Allogeneic CAR T Therapy CT1190B in R/R Large B-Cell Lymphoma* [🔗Source](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYkVLWUhUVnpHaVZnNDZ5TWI3ZkhScWk4b1RwenpUNmdHN0JrYndQeXIxaUVDNm9va2Fma0pVc3ZxZ21zY2YtZzNjUi1hOVFZbWE1bXBkbUhEbnhVcUtlZG5mWXdWYXZZSjY2Q3AtWVQ0ZVd5OWt0djZRNmVDbWFPeVJqdURVVlpnQklyY25SZExLTVhsdU9NNmp4VlQ0MlN5cF8ydk9SZ2ZrTmVuWUlIS3ZhWnpqSS0yRXdTRE40OTM2dmhYQlpOWllrWmRGank5U19zQW85WXF5X0g0Nm1OZE4tYw?oc=5)</small>
+- `[17:07]` **复发难治大B细胞淋巴瘤选CAR-T还是移植？前沿临床数据与二线治疗策略指南** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ReVNtTGVSQUtZQ2xlRVJvU3BrWmlXMHJnTjgtdEFSWnBxeVVGOThvTHIzMzhpT19WZ1BCTFI1VVVUT1dCclE?oc=5)
+- `[16:30]` **🏛️监管 | RiboX Therapeutics环形RNA体内CAR-T疗法RXIM002获FDA临床试验许可** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcV9xLTdGak01ejJRLUVNOW52bTFvck5NQ0lGU0NHT1R4dld2blNJOWZMZEU1N2FNalh2elkxTkM0b05PNWt0WWtwd05HcVFYMFkxa2ltenlrX1ZBSDNhRmxGQVhzYU1XSWhXX29LRFJzRzRpWjduNkpOT2RzNTJaSUo0cDFiMURFRTBuNg?oc=5)
+- `[16:04]` **🏛️监管 | RiboX Therapeutics 宣布 RXIM002 获得 FDA IND 批准，这是第一个针对自身免疫性血细胞减少症的基于循环 RNA 的体内 CAR 疗法**
+  <br><small>🇬🇧 *RiboX Therapeutics Announces FDA IND Clearance for RXIM002, the first Circular RNA-Based in vivo CAR Therapy for Autoimmune Cytopenias* [🔗Source](https://news.google.com/rss/articles/CBMiswJBVV95cUxPdjA1NU5ORmdtMTdiems1XzJUa2Y5X3JRSGtRVHZ5cEtTeVQ3N1VqMXo4Q2RGQmZoY28wUkFJVXlXYTJwX0NuN3JlNU5OeDd6ZHZCdm1mY0tCYTlCR3oydDQ5a21ickU3eEdLZmhQSUM2NVpEZk1hYnEyMk5wVDNaMkJZTXlMbGdRVWlUU0pVZ0h6WHpSbWY1T2NQT19XbXlUUFlhb3hUU2ROai1YU3VObDRxdFk5YnphRUtUT3F5TWVoZ3ZHZDh6VzB2ZmVDeXV1Y0RKX2NWb1NMMU1WbWtUVFNXa3I1QmZRWlREeV9jTlJ0d0hFcHFudU5FbG9jMHdjdjJzdDVab1p2b2ZZdzFwYUFXUHB6cVR2aW96Z0d0SVhHRWlpT2IydnJQUWtLNDZ5TDdr0gGzAkFVX3lxTE92MDU1Tk5GZ20xN2J6azVfMlRrZjlfclFIa1FUdnlwS1N5VDc3VWoxejhDZEZCZmhjbzBSQUlVeVdhMnBfQ243cmU1Tk54N3pkdkJ2bWZjS0JhOUJHejJ0NDlrbWJyRTd4R0tmaFBJQzY1WkRmTWFicTIyTnBUM1oyQllNeUxsZ1FVaVRTSlVnSHpYelJtZjVPY1BPX1dteVRQWWFveFRTZE5qLVhTdU5sNHF0WTliemFFS1RPcXlNZWhndkdkOHpXMHZmZUN5dXVjREpfY1ZvU0wxTVZta1RUU1drcjVCZlFaVER5X2NOUnR3SEVwcW51TkVsb2Mwd2N2MnN0NVpvWnZvZll3MXBhQVdQcHpxVHZpb3pnR3RJWEdFaWlPYjJ2clBRa0s0NnlMN2s?oc=5)</small>
+- `[14:01]` **Porton Advanced 获得细胞和基因治疗 CDMO 服务的中国商业制造许可证**
+  <br><small>🇬🇧 *Porton Advanced Secures China Commercial Manufacturing Licence for Cell and Gene Therapy CDMO Services* [🔗Source](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaFNoaUpVbEVCVXNIQThvX3I2MnlaWDhDUU5yNXFvdjFRTXo1SE1MbDZ5cUxPMmJsUUQwdEFkUTZJZ2Jqb1BsLThpVmZnNnZGaE1GVklLYXg3TFdTa3VLMTZwbWpFd0dZOENQOXl1NC12ZnBUMmliRnQzQVFUR1VQNlRZMS1lZDFxT3g3SVJnMHpXSlo5aVI4bC1TWElId2dJY28tbTFES2dlQnpGODZ0MDgtbDFxXzBQay1TZmlZS3pCRzd5RGNqVkdRa24xUWhaYU5mcWJxSnFHY1dHWWtj?oc=5)</small>
+- `[09:43]` **又有儿童死于基因编辑试验，辉大前CEO承认使用过高剂量(图）** [🔗阅读原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YVkhnYWFoOTBMemlUTUY2a0ZPSXFIUlByWkwzOEdhWGxGQWRlNThmc3JSZEZuNlRGYWdnckNybndWNmxXSF82ZnhmeloydUtZTUZlNUVJRUxrcmo1RFNObnVvUdIBY0FVX3lxTE5YVkhnYWFoOTBMemlUTUY2a0ZPSXFIUlByWkwzOEdhWGxGQWRlNThmc3JSZEZuNlRGYWdnckNybndWNmxXSF82ZnhmeloydUtZTUZlNUVJRUxrcmo1RFNObnVvUQ?oc=5)
+- `[09:18]` **复发难治弥漫大B细胞淋巴瘤新突破：艾可瑞妥单抗联合来那度胺降低60%进展风险** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vNFYtZG5TdXpsTXJURnZYSk1mTmVlcWsxRW1HMm1rR1NjME9jOGlUS1hnQlBuSndLNUphRWVaaHliZWlNa1E?oc=5)
+- `[09:18]` **无需体外分离细胞？体内mRNA-CAR-T细胞疗法破解癌症治疗高价与耐药难题** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3VlRDdHFmYnc0anNSc2ZmZDY2X3FRMEVxWGFkcnk4YWYwejVQSE5zekJDUlFTVTFIaGg1Wlcwa3FqUmRUcEE?oc=5)
