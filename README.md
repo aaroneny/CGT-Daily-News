@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-08-10 | **更新时间**: 06:55 (北京时间)
+> **日期**: 2026-08-11 | **更新时间**: 07:02 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,8 +10,10 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[05:59]` **99万元的全球首款实体瘤CAR-T疗法 仍陷天价可及性困局** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OMjZraVZyUTZIam9SYmxpZGlfX3B3NWRWN0YzNElwNkxxRTg2c1lPZWUxYnRZWjNJaVN5UWhYbThXZFpTWHdZTA?oc=5)
-- `[02:30]` **🏛️监管 | RiboX 获得 FDA IND 批准全球首个基于环状 RNA 的体内 CAR-T 疗法**
-  <br><small>🇬🇧 *RiboX Secures FDA IND Clearance for World’s First Circular RNA-Based In Vivo CAR-T Therapy* [🔗Source](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVGlnUGs3bHViUnFlajFLVGlaSDMyR0g3R3o3QXdSRDUxTDNrT2xGT3VtZHNCNWx5SHZReDZqNGtnM3NVTngxN0lhSGxjMlREVDE5Snk2OVJtbmRIbjJhaEpjYXl3dkloaldycEp4ODhfazA5NWtmekJ1NGtfV0Q0RzQ4WFc5VTh2akRIcEdRVWpYS1pSb2JlSy01UEwzMl9KYmEzZFVYQ3VFN0pSQkhHMDMzYXR4cGM5LUxJNXU5QURWcV9MX2FicThFSkhraXN0?oc=5)</small>
-- `[14:34]` **🏛️监管 | FDA 批准 RiboX 的 RXIM002、用于 ITP 的环状 RNA CAR-T 的 IND**
-  <br><small>🇬🇧 *FDA Clears IND for RiboX’s RXIM002, Circular RNA CAR-T for ITP* [🔗Source](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1UxbnR6UkJBRFZYd2MtRVExLTdVZmg2QW1iay1aWkFuZXVuakloWHFpZEx2N21aWlBnLVRTY19nXzlCdm5WTFJpRkNWbnpEOU5xbEx6dVZUUzdSV1NOOFJsUl82R2x4aWFiWTQtbGU5UVJJN3FBZDVFNVVjOEMwR3dFLVRyN2xVOFdrS0tmNmJtTkhtRkhhMC1yNi00anRHRHVadTFwVQ?oc=5)</small>
+- `[22:28]` **3亿，再融资又一单！7月以来多家北交所公司定增方案获受理，审核节奏加快** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0RV9DVUU0V2I5bzhSVGxUelhkM0thSVBEYnFMT2lhRzZ4NGkwdEVhV0lkODRzYXdlQWh5a2xBX1FBX1dGY1g4QW5UT1VwaF8zSUZlN0ZmYWhRckJEd0pUQ3ZRTjA?oc=5)
+- `[17:31]` **Nature Medicine | 中国学者原创颅内CAR-T方案，为复发胶质母细胞瘤提供治疗新策略** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNXp5ckJ1WnZ6RzczWERlN2lwckdwSzhLcFM5cncxV2Y0a05oeXJXak43Q3JuNWJzQ3VQd1VnVXdvNERVenhLZTZzWjQtWTRSdkd5dEctelVRSVJRX0tKOE12MnRUVjV0SklXVHZn?oc=5)
+- `[16:33]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *China tightens the reins on clinical trials, even as the U.S. looks for ways to replicate its rival’s speed* [🔗Source](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVXFZeTc2eko0Zjk4U2lzRXZJaVp6UkxYS2ZQUEw1ekFiZEFoQjcxR2FRZU9UQldycjJkVDZiS2NIOFZWTXQyN1hNRWFZb3kwSmF5Tks4LV90NlpDNU56Y1VPekZMMDN5V1hNMkpodFJENVFUZXluUlhud3RxTHVHSGlpNEZBaENsWUswOWtkeUx0MW5CdkVkZQ?oc=5)</small>
+- `[13:52]` **7月全球在研新药月报：国内251款新药冲进临床，石药集团HER2双抗再获突破性认定，多笔BD交易达成** [🔗阅读原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsNE5GckFTZU9YaExJRENnVjhoUHh2alZ4bHYzMGlFdDktZVdjcTJrSS1iaDF4Y2VyUVJGTGdYTXY2YjZ4dG85akVBaEd6UWZTU3JHVFZmSQ?oc=5)
+- `[13:09]` **普衡表示，一个捐赠者就可以满足世界细胞治疗的需求——瓶颈不是科学**
+  <br><small>🇬🇧 *Paul Hastings says one donor could supply the world's cell therapy needs — and the bottleneck is not the science* [🔗Source](https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TjFMVzlkdHI2UlZHVFVfNGFGS0RJTjhQTk9YUFdyckNGYXVjQkZuS1Frc2lYWl82cXJzQ1JGRkFldWRCQzBtSjZHX2MwUl9yemN1OVhVSC1wLUE?oc=5)</small>
