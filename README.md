@@ -1,22 +1,17 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-08-22 | **更新时间**: 06:46 (北京时间)
+> **日期**: 2026-08-23 | **更新时间**: 06:43 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[19:45]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
-  <br><small>🇬🇧 *AbbVie to Present New Data at WCLC 2026 Showcasing Innovation Across Lung Cancer Pipeline* [🔗Source](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMnFSc1ZnV0Q5amJYMXpwRTZTNlpCRkc5NTI2a05vOTJ5QUlMM2hXQXlDeUFuQlFxaWpRWWlmT3R0QmhwMzNkd044NmhJWVpvZHJjYmxXZHRBTl9mZU9Jd3lDUDByd0hYUDlTUkJRZmJ5NGFBN3M1QWpuWGtQRG1iWUUwWUhWaUgzaVZBTWtBNlNKdklzN2x6QXhNc2xRUXFkeWhRUmpKajI0bWpDNUVrSG5ITWFxbzdqNlJvX3R6bTFmUFhBdHV0WnRWTko4enhLRHJwc1djOGZwLUFtZnc?oc=5)</small>
-- `[13:30]` **康方生物的 AK157D1 (B7-H3 ADC) 获准进入实体瘤 I 期试验，在其产品线中添加第三款差异化 ADC**
-  <br><small>🇬🇧 *Akeso's AK157D1 (B7-H3 ADC) Cleared for Phase I Trial in Solid Tumors, Adding a Third Differentiated ADC to Its Pipeline* [🔗Source](https://news.google.com/rss/articles/CBMiggJBVV95cUxQTEdfNU1nbGp2Y3ZBaUx5SGJSUDZuaDhCaWlOcXZZUjFVZUw0eVpQbmJ4N0VSRXhvdWs5N1U0dW9rMWtNMC1SaHRJT3hZdkVmNnlRcmdRZUZIanlvVExyVFljWTJ5QjhhZE1sb3dUelVodmJVWkRaNTBVdWlHcXc5NlIzb0l4dzhMNTIwMUoxU1duTWFBYzlJZ1BPS3A4NkFPb0lFeTFUbWdIZ0RsX29PeHc1RmJqdk5la05yTXZtbVZGQVFGc0V3aEpLcnV5OFh6Zk44VDROQ0Q3MG1OOXlRNWtEdDNTTjMxd3ZzYnBqS2YwUkFZY2hVaFVQaTZ5dS1IR1E?oc=5)</small>
+- *当前暂无过去 24 小时内的相关重磅全球资讯。*
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[01:23]` **🏛️监管 | 中国 NMPA 接受 Opamtistomig 用于预处理晚期肺外 NEC 的新药上市申请**
-  <br><small>🇬🇧 *China’s NMPA Accepts NDA for Opamtistomig in Pretreated Advanced Extrapulmonary NEC* [🔗Source](https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVZWTXh0TzdsZUZMd3RrUDlLdFJBQl9pQ2xMa0N4LW9qLWlYUHV1RzBlNmw2cmxfUXJVY3VkUjlILWZoR1ROWGFkQ1dzVTY2UE5ldHBGc3pWR1BxeGNjd0dWX1hmR3YwemhpMmY4QVVHVDdnSHpBMldZbjJiN0RhSWxmOTNSUVZaX21SWmlzRE85VnZBSWZBQ2EwNEd2NUJnd280bHZkOFpCLUJlQjlfY3hB?oc=5)</small>
-- `[22:39]` **🏛️监管 | 立法者敦促 FDA 在 3 例基因治疗死亡后制定新的中国政策**
-  <br><small>🇬🇧 *Lawmakers urge FDA to enact new China policies after 3 gene therapy deaths* [🔗Source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdl9rZnFWamxQY3Y1b1FjbGRzS2dFdE1BaFFOaVhlcTRQNFJGMmFWQnVPNG9tQXUwSjJhNDlkVGhRdkc2cnNLSXBZcWd1MHVWdDBNdzNReXA0UHF1SFhTZFdfdVQyRkwwWmhrdks0S0xVNFU5dUVXSmRBMGFoVURpS2Jkbm12aWdmc3lIVmdLNER5Nzl6dFB3ZVMxcHdaM3g5blpsZmtvcjNqQQ?oc=5)</small>
-- `[12:06]` **恩替佰奥的双靶点体内 CAR-T 疗法的 IIT 研究取得阶段性进展，首例受试者展现初步抗肿瘤应答及良好安全性** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEQ5UDJWaVcyMlhmZkhxZUg2X2gyS3V6U0pQUFNWbWRXZzFHV2YxRTBYQVZwLTVUUFNyci1idE1OdDNqZm9PTWlUMVdDVTRJRkZrN1gzOUVpdjMwNnQxdXZhZmZWeGZQUUtmcEVMWmpQbGtUdk5EeGNQMFY0T1Y2NEJKcWptTGRwUDBpNw?oc=5)
-- `[08:11]` **亿德体育官网app下载 基因治疗设备 NeuroAlien Pro 于 2026 年 5 月正式发布** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hcGNXc0JURU1NQ1BiMEFlRlJRUmp3ZWRWR1FMb3RpbmQ3N2pSN3JkQ1dKNW9Sc243VHNsUmRSTXRVYjl3Zkd5dHhvcTRENWZuMG11VEk3SllHQWo4MURIUkNhOWJ1UQ?oc=5)
-- `[07:20]` **手握两款上市 CAR-T，科济药业半年报出炉** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzhMWTlwT2FHc3Y1MHVad2c0WHFBeE8zeDNDaUo0NF9TTWx5SW5yWTFRT1JKNTNyMEhkSzJTREhTbWwydGMxYzh5VXhkQjNrenlyN0hYcjlzb1RBaXpvMllUMzlZRnJ0WEVtdkdXd3dIWlF4MFMtaUs1YVJMeUxJSUQ0SHVSdmRLdjNybQ?oc=5)
+- `[02:49]` **造血干细胞移植防GVHD怎么选？前沿细胞疗法Orca-T对比环磷酰胺PTCy方案全解析** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE11WUZrWkxTdXZWSE5zRUdJYTZDWEJ1WHBuSVFTeXhwRFozNktTVWZwT0c5QlRDellEdXNTX3lvTV9SSjlKd3c?oc=5)
+- `[01:25]` **肢端型黑色素瘤治疗突破：MELATORCH研究与TIL疗法解局一线及耐药后难题** [🔗阅读原文](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BSEMzaTh0LS10Q2RwV2xKTndqS3h4ZEUxS2NQT25XUzlmeTF1ZHRqaTA0Nnl4N0lLNXVGZGl0TWZpUUo5WlE?oc=5)
+- `[07:20]` **在临床一线在患者身旁，他们为健康中国贡献力量** [🔗阅读原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE1tTEN0MDhOem92SXVtejR3anJHMmJSVDFza1JsS0tHU1k3Uk1CU1hZNV9nT3dnN29wWm5pTVFicWZtVjd2aFJzT3ViLUNhN3QyZm1ZVG5LNVlhUXg3VE8tOGZaT0c5cXdUb2U0TEpyTHQzM3htN1BKZkxqR1E?oc=5)
+- `[07:20]` **TIL 疗法肾癌全新探索！华赛伯曼 FAST-TIL 治疗晚期肾癌 Ib 期临床研究在北大肿瘤医院顺利启动** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEJOZWdrWTNFMlROb053X3dSaEdNdVRxLVFjbHhrNUpRR2wtLWY3Q2pGTEpLejhKWlBMbXoxa201QzY1NzJ0UU1LUkRkdkp3QU95M25ycVhFRVl5VGhvLUp6c01HRnNBQ2dXa2NvcV9sM1hTLXV2QndxdGNrQk9uaE5yTjlRMnBTd1k3Tw?oc=5)
+- `[07:17]` **为了孩子的未来：罕见病患者冒死参与基因试验背后的真相** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mSGJlaHNpWTRlQ1RFNDFqZWJ0dUFlS0N2VklIYTZneTFWd0wzSmZKSFdHNE1Ld3dFVUNkNExCQlM0Z1htb09WOQ?oc=5)
