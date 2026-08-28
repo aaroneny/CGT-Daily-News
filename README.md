@@ -1,15 +1,31 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-08-27 | **更新时间**: 11:24 (北京时间)
+> **日期**: 2026-08-28 | **更新时间**: 14:11 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[10:44]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's* [🔗Source](https://news.google.com/rss/articles/CBMivAJBVV95cUxOT3JReXJxdkRyZmUzUmpMeWNQS2hvdHpZdTdybGgwYi1JMnB6WUlCSzUySExKR3hKREM3WXZ6aU9iVlhxQ0prRHcyczR2T01COTM2SktWcnI4YjdZVUMtdHo0ZWJTaXlXV2RBR0dXbFIwLTNQVktFRkptOVpUbjl1Nm9rbWtrT2dPTFRiM0toYm41NUZiWUl0TmJlNzFuNkFkU2JIcDdfVXBORjV0T2lXX0FsNlM0NHEwUFQtMnFFLVJINkJfYUdRcV9yVy1BM3dvbUx0dzlDM1dSYTg1YjFpLUV3YzBxMTlnRHlLUVNaWjZ2ZHhBQkxqU051WklfNEhaS1RrbFFaTGFuXzdZMWszSU9JMUR2S2dPYU9sYVdpd0RSVmk5clBxXzM2MXNyVWwxVjFuN01oZW8wS3JK?oc=5)</small>
+- `[05:33]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Capricor Therapeutics, Inc. of Class Action Lawsuit and Upcoming Deadlines - CAPR* [🔗Source](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdGdiM19NXzhQWlF3UmFnZ0lLeVlzS2ZTNktGSmNjMGQ2UXNkdTFaMzc2UjFiX1RkQ3ZwUnNTdWNwRFZpUzFkQS1mOWRyZ1hLT1k3QW9tUXJmQUw5c2drc01rODFNT21qbnIxU1FYTGFQd1lkUDdCVGI1elc3dFB1Q0xfdjJFVnNwLVlKRGJkaDY4X09lbUhIeldWMTNwWk1RQVljRFd2UUNyZE9yZVFiU25FZEd6Mlg5WVl3TjRueXJ6LWd6MVBpYVJ4UFJCTjh3RHVEb3JCQmNXRjVCUFNsRFdBRlN2cWJyc1hMUFo0UXpBMXB3bEtaT0FHbmhsNGpUNlFvZHZtTHdEQ3kydnpXb09Td0xxbFhRLWlyMzhaQlVBZWIzYmlGQU9EOTMyc0dQRWV6a2VzX0ZjVmVZV1hGR3EtYw?oc=5)</small>
+- `[04:30]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine* [🔗Source](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRLWkdGWWRtT0t1QzFqc3JMWnRmNmJ0NDlkdTBjTExhWFhoQTZ6SG1BdUtjQmJfbWl5ODNkOUNocXRXVGxKQTl4czBaUENmbXZaaXdLbkcycE1kT3NsZW5xTm9uTFlXUE5PcXlHdlFUZnhHdmxJWHNpZHJQeDdBSWd0Qk9MZGtaM1NjeWhrRHhQdzZUOWdYVU43ejY5dzdHN3Q3RngxSnBTZC1BSTJZNk00X1ZTVFdxRTY2cW1iQ2tnWEQtZ0ZsUUZFRUpOMkNV?oc=5)</small>
+- `[04:00]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *Adicet Bio Announces FDA Clearance of IND Application for ADI-212* [🔗Source](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHRZaUNUbFJLR1hzblZYdWhCdl9TSktPeTh4R1U3WXk3YXVDMjVZcFB3RGplUHgxYURXV0RTeUo2OFk3NzRNS05ISTQ2amp2S2stQXQtNnZHQmItV0xDVGoxX0phYWxVbUIyRlBsOHlvR0xvMUtCT1VTeDd6SGlNc29GdFNBQVVpUUdpVUgwNU5admJWME9VRHB3eGFCbHV0Q0hTQS1qYUlHZ2VucENEeHNUbXktUUp3U1ZGdVgySQ?oc=5)</small>
+- `[01:33]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *AES Cleanroom Technology Panels Earn FM 4882 Approval, Addressing the Cleanroom Risk That Fire Ratings Miss* [🔗Source](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVRGdVhWZXdDSC01ckVkTkRqVDJaazRvWFNjTGJhYzkwRnJRWXM3UmZzNlI1c1JEZ0lMMC1QZERaU2wyalkxWUhDNV8tYkNPVHdrQ0pQbnNoaTNpWXp6NGVxR2lpVkE2YVBxUTVzZHh3RzF2TzlaejJfMUI3NXlFVEtVTHhrdDM3c0VHUGstVG9SZy1rY293dGI4VkJjTU9hUGRDNzYwckFJUFI1LXZQU3Vzb09WZXhMVHR3QVl3UFg3bVBBc04ta1ZNb2pGazQ3X3ZlN0dGaFBCQk5QY2tvMGtrVVRvMnVWUnNKXzZyODVLTFBH?oc=5)</small>
+- `[20:30]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *FibroBiologics Releases Third Batch of CYWC628 Drug Product for Phase 1/2 Diabetic Foot Ulcer Clinical Trial* [🔗Source](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWUl0b3ExekVKb29OT2ZYTldnTW1vWWdmemtaWW5BRWhlVWxyNFg1V1k3VmZtT3IxbE9zUGRhaUdKbHpDMENZV2tvWHFsYnFhQmYwdWd1dTYzS0dMVjNRLTE0cmR5V3pmYkdOQ2RWRVY4cFVKWlE3c1VWa0laVWZzbjVISlJSSC1ubXRZZGpiTGtIZzE5Sk00Yzd5RnY2Vm5BZmhaQUVjQXZmSk9ZazRBdXpHUHlvMUVWcGVGZkZkaHJjYjV2aHQySS11Rk1kLXZJSFMtZlp0ZXRqaVhnQWQ1c2RVdXJqWHNUSWdGc1FVTkpUdFJHZ0E?oc=5)</small>
+- `[20:00]` **Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.**
+  <br><small>🇬🇧 *iECURE Presents Updated Clinical Data from OTC-HOPE Trial of ECUR-506 in Neonatal-Onset Ornithine Transcarbamylase Deficiency at SSIEM 2026* [🔗Source](https://news.google.com/rss/articles/CBMiogJBVV95cUxOaU9nVVlEYUlrQzJlNXk5SGRublliUXpiUVpyM3BTdjlFLXhheU5qbUtFeVBoYmtKSWNhTlpfcktXYzRSeENVaVNlNUo0UFMwWFZEaFJoNjFNdEJPNUFHNlNWUHlIQk9LQjlBb092WHNkY3UyWlNBUzFUbkdOQTZrOVcwcmNDRzhRXzhEWURwNjBNd3MxcGVuT3hMX3NNQTVMYlduUktPVVRQbkJtSE8tYXRRaWZNZXpCOTBKeE5OekVFUU5ueDJOanlPcTRPcEVqazREek1KUy1xX3hfcFR0UlRaR3RWRUJrLWg4cXVUNmxTeWozaHhNLUF6SVdsWVdrdlY1UmZOTXVpYmJQZXdNM0t4UzlRQm43VURXVTVKWGNQUQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[23:06]` **易慕峰递表港交所：复星前高管再闯实体瘤CAR-T，“百万元级”疗法拷问商业化前景** [🔗阅读原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nT095MlE5R0plcFJiLXBLakt3Y0hPQ0tjTDJyTGtUd1d2blhiQjRFTGRmWG1jUDNLMEx6UW9BelBVT29mekx0OURVVFJoM0Fi?oc=5)
-- `[23:00]` **连续12年，华山医院国家级临床神经免疫学新进展学习班成功举办** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNURJeHVxQ29BeVVMWlcyZ081TW5qUGZsWnJ4UVNZZG5PeWFiNnNJV25wNVFTQkszWEctUHo1TTRzV0ZnNEFvZXJ3QjdsVk9qREZja2VEVm8ycm5Ea08zYldUcERLdUJPczl2ekNaQjcyWUdidmdpdg?oc=5)
-- `[18:33]` **惠正奇医药创始人回爱民：mRNA癌症疫苗大规模应用仍需3-5年，不会取代CAR-T或PD-1/PD-L1疗法** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVFZa2d0d29TVDBFTkVNazNaVW9udnQzUFRZRlhGUi0tbmpLdkZfUXJENG1ZSmt4X1RnTUpFbXdYbW9DMV9fZjZkdHpBRmRaMWY4bndkcDBvYjRCNHh2QVpZdEdqUWJIUkxTVVRQOHdZa2xqX3FfTUhOSGc5YmgwenFTM25FeDlXeG5F?oc=5)
+- `[11:26]` **淋巴瘤临床试验入组难题如何破？权威研究揭示费用、距离与医患沟通三大壁垒** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iRFl5OUdaSVRyR3c3aFk3ZFpjVE5VWUpCV2tLSUlHSGpFcHRSblNmZmtwMnU0NEZEQXJSWWJnWGp1bHp2cHk4?oc=5)
+- `[10:40]` **安刚/邱录贵教授等关于多发性骨髓瘤患者CAR-T细胞治疗最优选择的建议-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE4wdE9Ua1BOSTFnT3kwbmhIZWZwWEZDZ1p2c2RPemdobjJIMXliQmx1b1FKTXBEbXlWM0wxclVCT1lhZ0UzZE5wak45OHV1c0czQk9NRC05bXhEVTJKTEZkQ0pUS0VXTWF0UXZMMGJR?oc=5)
+- `[09:36]` **中盛溯源NCR100将亮相国际盛会 探索软骨再生新路径** [🔗阅读原文](https://news.google.com/rss/articles/CBMiakFVX3lxTE5BSlFFdWMyTmJlaktIMjBRRzUxTzFQNXBWMXc5MV85MlJrSXl2LWt3OXRCY29NYWJyTVVTTWwzQlRXWVBfOGNQSERjMmhQdzhqbF9ENlZlSE9yZng4VUR4dHcyLVFfZEZTQUE?oc=5)
+- `[07:20]` **多款 iPSC 衍生免疫细胞步入临床验证，涵盖肿瘤与自免** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTlGOHM2cm4tcmpoTzdTMlB0RXlxQjRmYW00ZUVQSHVBbV9VTVZYTFRjamx5dW5YNFltQUw2SFFCMzJncU4wM3BKRG82UDV2Q1o3MlBZSFRheXFLbmtFeFdlMWQwSmN0VWE0OW9sUlMtTmoyRFRsdEpkSERqQ2FTZ093U0pBdEtoajZYdA?oc=5)
+- `[18:42]` **体内CAR-T细胞：从平台技术到临床转化-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE51eFFPcnJBNWEycUtuQmFOUUFZbkx1Tzh4RE9IdHpKQV9EYjFmaFdfLW1kY3phNW15QU1DTEZLWDhNLTFLSzFKLW5zMGdnWUVid2wyUU12LVA5cjNRN2hhSmtIWlg4ZXdpVDJMVzhn?oc=5)
+- `[14:53]` **复发难治多发性骨髓瘤何时用CAR-T？前沿疗法疗效、用药顺序与破局指南** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QUDdFQ1l3X1dXV3QxUHlVOXBOclBrcG9YVWpOZGxaYlpITkV4V2VEVXF4dk1uUWZPUE9rRUVpTEZPNHhkV1Z3?oc=5)
