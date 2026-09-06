@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-09-05 | **更新时间**: 08:12 (北京时间)
+> **日期**: 2026-09-06 | **更新时间**: 08:02 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,12 +10,9 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[23:44]` **易慕峰IPO前夕被曝临床试验受试者死亡，家属：知情同意书未明确提示颅内出血等风险，拒接受人道主义补偿** [🔗阅读原文](https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNVJBTThXYVc0VGxfMjdQWEJ0dnVaemRuZXZ2SGdFUXkzQzVCb0x6aHRlcnVyOFdOZlVqQ2dPSm9vV19YR0d2dVM2TmdRN0I4YmlNd2YtWXhXbmJLNnNtRnZET0JxZTFTZ0UtRUxsYUxWMkxaZFBETy1UV00?oc=5)
-- `[23:00]` **49岁公司高管接受临床试药后死亡 试验药物引争议** [🔗阅读原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBEX0phSGVNd1pBbE40T20tQTExOHdsUlFVaUkzWU81MDFXbmZvV0lSUWtROUliYmJhb0lUbVd0OWpseXhxY2gwZTZjUnk3bHVsQ1I4ZW5veU1DWmxKOWRNM0NBZG1iT2RJQ0NEa0NpQmw?oc=5)
-- `[22:18]` **复星医药 Luvometinib 获中国新批文**
-  <br><small>🇬🇧 *Fosun Pharma’s luvometinib wins new China approval* [🔗Source](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDI4MC0zTXdvUXY4SlJmbmtLeTRTRmc0a3hXQVhBbUZwQVRDMXBGd0tzU2VVM3RYMWtaRVlNdG9zNHcxWmNqeXRNbEI2bjhCNThMSS1PenhCeGE1b1oxR01TSjFXNzhBektpNW1neVc0UnA4eEktX1VjQmVxU19sMUVKLWFFcmtBUDRtQXN3U0M5YmgzeFZwemRGNA?oc=5)</small>
-- `[21:25]` **核心产品被曝临床受试者死亡，生物科技公司董事对记者说“滚开”** [🔗阅读原文](https://news.google.com/rss/articles/CBMiigJBVV95cUxQZHRNRUFHQzV3WS1peTVLc25EbTdoXzA0OWM4cEdmR3VpY3U4ZVZSWU8zQUpUZHRLNkhWelgyTk5VaDlfUHItSmVZS3dBQWtVbFU5cTJheEZsLVZDbWx1bTVFb2lGVDltZlBNZk5ucTFoaW5NSGRxMElNYVFrbEU3NDRDYlI4UWVxVGZYVmhicjJKRjJzbDhWMGVzY2J5NE1jMEpVWjlJNWdDQkE0X3c3bEp1eTB0cmtUb3lnZ041cWNuZVM4ZE5tMWxaTnhqZTh1VmRuVFVFYk5xN1IwZEpmaFFIUi1SSHBjQ05seG9lMXptdWhsckI3WnJiM1JHUC1ITElqRGN6b2Rxdw?oc=5)
-- `[21:09]` **临床入组患者死亡，“神药”CAR-T祛魅：“临床试验”风险有多大？有无充分告知患者？** [🔗阅读原文](https://news.google.com/rss/articles/CBMickFVX3lxTE40RzBUSUIxblZLNExyZS1KVkpVOWR6VEQxYVpTZk1lZjRVRmVDRllpcW56V2Q5ZEdxXzV5aWJWcl9sQzM2enhKdzdlMUVCcHhJdFNmNUVHQng4dDNVN3FIcXo2QUE5czhnX0pIV3FvWFg4dw?oc=5)
-- `[16:52]` **CAR-T临床试验受试者死亡，冲刺IPO的易慕峰遭遇“生死”大考** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVW93QUU4MS1KMUpGcUI1bkJYVVVKUndDSEJreW9yTDNGTV9qeG5EZFNKYmpIUjZ5TDRCQWN6MHpNSjliRjZwV0N4a3NsNnp4cVI2UVVsQmJCLVd1bUpkTnV2emEzNndXZ1NZazkyeFBfNTZaOHlZeUpRUUdoT2x5OXg1U19Ia0Mx?oc=5)
-- `[15:13]` **临床受试者死因引争议，二度递表港交所的易慕峰遇危机** [🔗阅读原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtVUctYzFjTjNjbHBTdkh6U21IWlRkSVJzVjYya0VIZnhRNG83UDdwMHF4MHVFMkZ0M0RoQV9leElwSzNRYndDTElRaTZyUjZMLUNBejRpWmxfQ0lYQmM2QjZyTjU?oc=5)
-- `[12:34]` **易慕峰CAR-T临床受试者输注药物数小时后突发脑疝，被迫开颅手术，一个多月后离世，易慕峰生物：配合调查，不做预判** [🔗阅读原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWOHpIcmo0bW5LX2pQSG9iWW92Y20wUzJyeXBySFVBZFZXbHhKbW54Yl9Fb2Q5ZlJiSTBTOGc4U3dMendOVF9FN05neWZ5RGZJNWNN?oc=5)
+- `[14:25]` **胃癌患者参与临床研究，CAR-T输注当日猝死。研方称“化疗所致”，家属疑“药物触发”，4小时护理记录空白成关键悬疑** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vX1EycXFfY2V4Q19FUTg3ZlNDLXA3ZEZHWkdtZDlGX0RSUm1WbTFlaTBHN1hjUmFIRk9aUHFpYnQ0R3ZERWg1V2ZlcFNFSEJYb0FHLUhmckQ1ZHE1STJDcng1ZFpINGdUTUF1bWNR?oc=5)
+- `[11:23]` **胃癌患者加入CAR-T临床试验后离世，家属：参与临床试验是希望获得更好的治疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaU9FbEI0SF8ydXpnMURjV091VkpkSU1PdWIyeDQ5SGdCd3JoZkpweUl2a1hnbnJFcTBQN080UGc0N2l1U0NWQTJSY3RrZk4xdEV1WExPUVBnR3lUa3Fud201MndaZko5ZE8tazJEcWI1OGd1WlVHYWZQak1GYURoNThNWDREekYyYmdENw?oc=5)
+- `[10:24]` **【JHO】CD123 CAR-T治疗复发难治急性髓系白血病和母细胞性浆细胞样树突细胞肿瘤的I期研究** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9MMWxGSkc4V01CdklCSThrYU8xcjctUXozaHpMWm9XT2RQVllYT3pfQm04NEpzbG8xcUtPS2p4dXJxZkZfU1NHMXBLVWEwUWFRbUZicll1a3d2bThrRjd5VEhYVXRxQTFVMEhLTDdR?oc=5)
+- `[10:12]` **男子试药死亡药企董事怒怼记者滚开 悲剧背后的临床试验风险** [🔗阅读原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE0xOUlTc05WWWY4UzJ5eVVKZUFMcjRyNFAzLVc0cnFTejFxcmFMMGVYcTJoa05CTlNwU0ladWMxWFFTai1HU2QxV01CeVBHbDVSLXVET0F0aW5VVWRJUDgyeGtyY3AwdkJOa2k3a3g5Y1E?oc=5)
+- `[08:59]` **凶险的“急淋”也能超九成缓解，CAR-T让患者高质量生存** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0M2TE1MOHdsdjJrRG1KM25mNzJCNVl2c3FuYzBEN3Z4VHM4ZTlWX1RzQjRWY0x6NkFGTVdsVEtlLVhmN1NwYUZWV1lNQm1ZbVZUanNIRmJfTlRXWFpXWGNJSWVkSl9MdjZldFdCc1ZkMkpBa2EzUVVLU1lBWE9TNzdYcTRHN3o3?oc=5)
+- `[08:37]` **49岁临床受试者，在ICU身亡！易慕峰董事怒怼记者：滚开，烦不烦啊！正冲刺上市** [🔗阅读原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ21NWGpoTC13VDZSamhPeWpRajlNZ21hc042Um5WZktrZ3JXa3JMbVhKcklkcy01WllwemZVemcxT2NZemN2NVhIc2toZHI1?oc=5)
