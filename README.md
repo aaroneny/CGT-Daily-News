@@ -1,26 +1,24 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-09-10 | **更新时间**: 08:21 (北京时间)
+> **日期**: 2026-09-11 | **更新时间**: 08:16 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[03:15]` **🏛️监管 | FDA 批准 CU Anschutz 使用工程免疫细胞对抗结直肠癌的临床试验**
+  <br><small>🇬🇧 *FDA Clears CU Anschutz Clinical Trial Using Engineered Immune Cells to Fight Colorectal Cancer* [🔗Source](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOEIyYlhUM1RPejJJQjY0YkhHVmFhMHd5WndnTUVCSFdMMzRFUDhEMUd3Slo5M3gtT2dTT1o4LXNSUFhNT2hBRmQ1LWhnODJJdGM1dXlON2wwUl9wTV93dTJlOGg2MnlESWZ4RlRsSENZcUIxc01JU1ZxWGN4dnoxLUhfNmp2YVJuQ1o5LU5VVzRYQV8xYmtKQWp1QlpCM3pEbWZXdkdFUmZEdHNiOE5HUXZpQ3JXc0t3dkkwdDFHRWw0T3BXWEhtcnl5TEF5cHk4UjV3YjJWVGtqUjVsdUtxbjRLZk8?oc=5)</small>
+- `[01:04]` **Hagens Berman 提醒 Capricor Therapeutics, Inc.（纳斯达克股票代码：CAPR）投资者在正在进行的证券集体诉讼和 9 月 28 日主要原告截止日期期间延长 Deramiocel 的审查期限**
+  <br><small>🇬🇧 *Hagens Berman Alerts Capricor Therapeutics, Inc. (NASDAQ: CAPR) Investors to FDA Review Extension for Deramiocel Amid Ongoing Securities Class Action and September 28 Lead Plaintiff Deadline* [🔗Source](https://news.google.com/rss/articles/CBMi3gJBVV95cUxNWHEzSld1aWZRdS1rTXVCekJHcFRRcGh2Uk9UU3NadlJuV2IxekJHYjd3ckdvVThjc3JDYnZVTzNyVzZTMXlxSl9tS0ZKNWFuM1ZIVklFRThZTFY5QmJLNGNnSGpmdHNETnFjeHMwQ2o0SjY4RnpMYjdWNm5XWTlqVkpLU1dyM3VNVnJHZmFsQncyTC1Xa28zeVFFWGhRSWxIU09rYzh6NWt5TlJXQ0VUN2VvR0JqbzBCQ25vblJNbWcxZGUwc2NRbVhoOFJqeXNUNDY4MlBDUEUyTllyVGFmWDJxLUF0bG5haGJheFk5TUl4NnM1UV9icEx3LWsxUmgxWVp4YkhaNFlMbmJFTlI3SjE0Nnl1R1QtNmhLei1YOTFKRFRkbGl2UVVuUGxfMF84QlhHa0hhOEVVY09TeEpEMl9STlJ2NGdud3I3c2wzQndzZFg4REJkMDVxc1Atdw?oc=5)</small>
+- `[22:00]` **投资者警报：Pomerantz 律师事务所提醒因投资 Capricor Therapeutics, Inc. 遭受损失的投资者集体诉讼和即将到来的截止日期 - CAPR**
+  <br><small>🇬🇧 *INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Capricor Therapeutics, Inc. of Class Action Lawsuit and Upcoming Deadlines - CAPR* [🔗Source](https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMHg1VVMyaFptZkNEb2dldkZvdEI1TlBCTU1iMU1TUi1qRTJTdlBQVnRUZVgtOTJCM2pJa3lXd1BYZ0dkYU5pMkJCUE5KMnBmem8xczN0N1YzTmpJUFk2LTd6Skc1TXZBN3NHWHZJbUFnOGNCZFdUc0ZOQUs2WkwyVjVPTDZkR3Njd0hnOVBpQWpwQ2k2N21uM0xZTmduQXdMMThQXy0yR0w0MHVDQWlULWtzZEs5VC12M3BKb1pGQjNYRHRTVHVRUzhYNFduNVlqcC1MalJvSXByOWczZUJlcnpyVWFscFpuWFBoREFXdmhwc3VSdkcxcTQxV2xfTXUzNjFlNnlqWVdqaDRWVnJ2eHBERmx2d04xNGxXR3ZWV3FzU3pQLUEwSUZSMWV2OTJsSmFYU1FybjA3WDlIYUN4SGFMTQ?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[21:05]` **卡达米斯特重回估值焦点，珠峰医药 (SEHK:1952) 获得中国批准**
-  <br><small>🇬🇧 *Everest Medicines (SEHK:1952) Wins China Approval As CARDAMYST Puts Valuation Back In Focus* [🔗Source](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaTZjVkdmb25iR2FyUWhwYVViRnQxQ3g0VGNXdDkyVDhDanNFQ19uOVNGampxbkx3SWVwUTUxVHFFYWZ1d1hyLXpxSmt3Y3QwU3BJRWF0alY4bGlSOFlUaXRrY2NZU2lVSlhYZzV5VWZRYXZycHVKU0tEWHI1YWdDVzR0TXVtejFlR3VkU3RGMkRUNnBNdm1XbDJHNV9weVhXMDlSTG5hN0hLRm5BbG5acHhkQ2xkSzFOOENjem1ZajhKM05xNmZJTndCRllNdGRSNGlqRU5uT0ZtQVFRem9UWW9aWjJJTGFyWmfSAe8BQVVfeXFMTzc1dVZDUDJLeW9SVFNidHRvamNrS0RKY251TURaMTBnVzdNTVE4RmN0TmtrdWh0YzlzeVgtbWlDY2wwUXNjVk16SHZlc0VNM2tBZHRkTTcyZThnSlVleUxDdTNjQkZ3ZG41MFpNZXdaUDhBeklyX05pcDJlbTRpMDBNNy1KOTMtZV9YR3hVaGNKZUJWWm1BRjFMMUE2aE9aaVI2U3VhbnN2VW0wSWJMX3E1Y2U1MWRqdHZaYndwRzBSc0Fqcnppa1d3dEUxUnVlRWFKUGtDWW9QS2tvdjdiUzRUanktSEdqVzRKYm9mQ1E?oc=5)</small>
-- `[21:00]` **弗若斯特沙利文发布2026年全球干细胞产业发展蓝皮书**
-  <br><small>🇬🇧 *Frost & Sullivan Released the 2026 Global Stem Cell Industry Development Blue Book* [🔗Source](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDJndTZxeGZVMXBteDJlVHBHZGttdGJPWmVtdVVnc01NdE9DbzVYbUlrbE83bjlRcUlWMVdDbEo0UEZHMXUyU183TVdYREhUVmNWZUg2S3pVR2h4Tm96YXk2bXlnb2Q3SHg1R0haMVMyZHpBcmdzc1kwdjNlZDlDckhjejFIUlRzQUFlUXB6LTlNZ1NHb01zV05SZFN3SnE5NWl6YVZ0a2tWcEk3ZGlZRHpNd1Y2ZlN5Z19JcE5LQlB4N0Vma0JfelpmVFozTzlUOE00?oc=5)</small>
-- `[21:00]` **🏛️监管 | 诺诚健华双特异性ADC ICP-B381获中国NMPA临床批准**
-  <br><small>🇬🇧 *China’s NMPA clears Innocare’s bispecific ADC ICP-B381 for clinic* [🔗Source](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHBldmZsVU1Cd1VlbHMwRl9RUGxwUWNYb3FQR1BVazJWYXFiajUyTDFTSGVYVndoTmkwbUZiaXVxYy1paENMeWdiaTdCbmhBUC0tZE16TDhXSWp0eFhJdGdTNlIwb3o3eWR4VmVqVGRlY1dWWmlfS1N0Rm5EcVBHR2NBTEdveDB6X3J1eDBIc1ZMWXhoT1dpd0t0Um5NOXVoT1hqWUZsTQ?oc=5)</small>
-- `[20:54]` **CAR-T疗法跨界自身免疫病破局：重症肌无力与僵人综合征迎来治愈新希望** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxLUczTlNHNzZyUDRUSGsxanlCeVVfci1YUFM2VU93akVIVGZxRTIxOUYzZE1KRWxnRkh6NUdzVTdlbjM2dXZJ?oc=5)
-- `[20:54]` **🏛️监管 | 大B细胞淋巴瘤一线巩固新突破：通用型CAR-T疗法Cema-cel获FDA双重认定** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DNlVEdkFxMHpRQWFEMV8xRWV5OHlSVmJFZXJuZExXZmVLY2p2Rzc1VU1vYm1OREE1ZWZzUWNVM1V0dmRTX2lV?oc=5)
-- `[19:42]` **直击2026医保国谈收官之日：11家企业参与商保目录协商 天价CAR-T疗法仍是焦点** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaN1NPYWhMUVlTS0IyS1RCeU1hZG9ZYlg5MFE4QU44LVUzVklTZVppTWdIMFB0My1hVDl6cExMQUh2bTRrT2o5SQ?oc=5)
-- `[17:32]` **三天医保国谈的生意经：CAR-T赌支付，替尼守地盘，GLP-1抢放量** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeC1UbFJqd3lDd2FnMnJFX19ka0RaU3JTeHpqQjdSVE9qUzlIQ2FMM2dBRHNIVEpWZWNjUEt4YkxTR2hseVdVSklCc1VoRDNZSDdYdWlGZEZSdXJNZVpMb0dvd3JMWE5UV2xTUzVqcnF2bVAxcnhkTFNsV0hNVkJwRy1LaVJOM3JH?oc=5)
-- `[15:16]` **从脊柱植入物到癌症治疗，外国患者寻求中国的医疗进步**
-  <br><small>🇬🇧 *From spinal implant to cancer therapy, foreign patients seek out China's medical advances* [🔗Source](https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFJXQzBMaFlNVFVkSEZKR2g2bHlqOGJZa2lzbGJLSnFheFRORklqcUhKZmF5aWl1NTJqZTRUWU13ZDNQdjN1OGp3b3FqNk9jazlBZzRla0h1TjlZQnZ2bW1JbXBRQXV2Sko3QWxiNEVRUXNDR1luSzR6MWpndXM2YUFNTGlSUHZVN2xXZnVENE1tU3RrcFo3RjZWS1ZKaUkxOFNFLXFSdGJaRk5wbTd0X3BkTlBvbV83NTRYY0JQNGFQX1dpMk0xT0xwaFo?oc=5)</small>
-- `[13:28]` **机构：CAR-T细胞治疗商业化验证与技术迭代并行，产业价值逐步兑现** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3BLeEdwY3ZITTB6aTVZcFNSblRjazNlT29DaU0zcVJRS2s3Z1dMaWZ4ajBYcHZ1aTNqUmN2UWxJbmJZYjZiU2F2VnNGaTIySGFpVTdfd21VQV96a0h5RUpyeXZnbW9WLWpyZTlxbUp0b3hmVTdjNUhfRlRvRDFhQXpyWjlsTER4LWZGRQ?oc=5)
-- `[09:32]` **西方癌症患者纷纷选择前往上海进行CAR-T治疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JRWxabHJjblRLZzJNTEZHQlBaS0xzZzRMZFR4SmJzR3pOeG45bUFXWWZjTGg3djZNeHFjSFEwdzhIMkx3S2JRb2g5UjJYeEdZTG1BT3VFcTNYc1k?oc=5)
+- `[03:36]` **中国结束国家医保目录谈判和招标**
+  <br><small>🇬🇧 *China Concludes NRDL Negotiations & Bidding* [🔗Source](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWtGdzVWWmFrSEtLeWVLSUtVeW51VTdaY0Y3b0hYZGZ4OTRhbmNjTXNoanQ0cUlVMkp1bjhVNXdCTGdlYnlDa25ZSVVOWXZLOHF1LWhZUGxUV2JxdGhsYkFpUG0xM1ZOUU5fY0t6a3JBaUhlM3NERmRheFFIYjhoY2dBU2x4R2dYdzVv?oc=5)</small>
+- `[21:28]` **易慕峰回应CAR-T临床受试者死亡事件：按规范要求在适当的时候披露** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWmplNWQ0RTVSUXhDOXdsRUluVERZTmhfZTBpS0JhNDNfemIxWF8tYjBjT0xFX3JiQlZnSDhXUnFoYU9SUXBiWjhjYmluSmZyVmpsZzg0UWxFNFZaSTdIQg?oc=5)
+- `[12:51]` **锥形连接器市场展望2035：生物工艺需求支撑6-9%复合年增长率 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTNxdWFIZF96cUhhUk5fZXFRSGJCZUQ5UWNUS3QzSVZhY1V4WUVTRTRtdl9vV2U3Skx1Zk9nN3J4TzBYaTVWVExDTUJlaElmcXFZeUtiSUYwWU05X1BmSVhnTWVka05Ib2tDQ0J3WS1abEc2M0o0c055RjNFNkxrNWl5cTI3OWhZVGdXMmdTVEg3Mmc3ME42MjZ0NTBqdDIyc2g5ZnplTzJ1bzlGSWhkWU5DdFg3c0N6a0FoUy0ybk9NNjkwd2xjVXpsdjJQYUk?oc=5)
+- `[11:16]` **Cancer Immunology, Immunotherapy丨胡凯教授团队：CAR-T巩固治疗助R/R LBCL再缓解患者获持久控制，高危亚组联合ASCT进一步获益** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmQmF3T0VtRXZLOVFnQzlubTBiLTBfc055NXhwU1BvZHh2aFlBMDJoSS1CcU9JRmJEOFZrLV93WVQzTV9TMDBsdjJB?oc=5)
+- `[08:53]` **从脊柱植入物到癌症治疗，外国患者寻求中国的医疗进步**
+  <br><small>🇬🇧 *From spinal implant to cancer therapy, foreign patients seek out China's medical advances* [🔗Source](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WeDhzYmM3Q0ZzMEV5RnRMZldiUU1zX3ExTUtJc3pvdE5ZRi1QYnN6VDhtc24ya3d6Uk1IWDVtN1FRRm4yamxhYXJaaEhoQjdyV1FXcHplWmJNbk9VWUlhZjdn?oc=5)</small>
