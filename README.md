@@ -1,20 +1,22 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-09-14 | **更新时间**: 08:17 (北京时间)
+> **日期**: 2026-09-15 | **更新时间**: 08:43 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[21:00]` **🔥In-vivo 🏛️监管 | Vyriad Begins Phase 1 Clinical Trial for Lead In Vivo CAR T Cell Therapy VV169 Following FDA Acceptance of IND Application**
+  <br><small>🇬🇧 *Vyriad Begins Phase 1 Clinical Trial for Lead In Vivo CAR T Cell Therapy VV169 Following FDA Acceptance of IND Application* [🔗Source](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcE9ReGI4OXIyTjlyQ2JNbHozWjZ5LXZneWs2WUtpdWtSMkpIYjJhQl8wVHptNnhOU0hwRHcwelpPWHZOMTg3ZlZ5ZEpKcUFnSF9uVHNkbk4xWlI3X3JzMy1SNWRiclgtWUJrOVNnVkI3dU1SalYycDJQVU9yd08xTk1DamRqaUhfNHhINnZDRHBURU10UXUzWW5uUDkyUDBqbkUzbk1xVkxjRk5HVm5OVHd4LWhMaFlyZjh5elVpSDNDLTJmZF9lTkJteEdILUxZRzc2Snd4RHU5bXNqbm5hQzYzXzJLVjB2M2lRdElHN3RpQ3p4QUtuR05JOS1IMGV2SUJkU0pFV0R2N0E?oc=5)</small>
+- `[19:30]` **🏛️监管 | AbelZeta Receives FDA IND Clearance for Phase 1b/2 Clinical Trial of C-CAR168 in Progressive Multiple Sclerosis**
+  <br><small>🇬🇧 *AbelZeta Receives FDA IND Clearance for Phase 1b/2 Clinical Trial of C-CAR168 in Progressive Multiple Sclerosis* [🔗Source](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZG0xOTZKT1NQSFZlbVVFVG1Fd0ZKX0tUel90LU1kMjNjeW9JX0UwWFF6Snc0SHJaRnZLRG5ORDV6X09zM2FRa184SHNSWVp6R0U2SHhJNmtIRk1Ca0JjUEtSSDJRclNpVXZIS2ZraHhkbnBqOWRYVTFJZnctZVMzU0hDajU1ZUt2Q0VyR3pCSUVoM1llVXFJZzJZemNTTW5MUzZGWGFFdjVNdF9vVDE3ZzdnV2tMNHhXZzNSQlJwMHI5NF8zR1ZuSDcydm9uaG1icmFkR3FRdjNOZXNFRG96QnJhNDRFY3lta29TbDVoVERTYmc3Y1Bzcndn?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[04:00]` **黑色素瘤PD-1耐药怎么办？新一代TIL细胞疗法Amsoki-cel注册临床开启** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfTDAzbl9WREt6enpPQS1CVTFYeW1wQUE2SDUzcjRsYWg0YkVybWFxajZPNnZwRmVIOVlYV3liRUxXTk5MNFpr?oc=5)
-- `[02:20]` **多发性骨髓瘤先做CAR-T还是双抗？权威专家解析最佳治疗顺序与生存突破** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YU2xKVDNWQmZlXzdMTTJTWU9ESk42V0w0bmhUV2dFNXV3NmFhelBBZXFuTjRMX2x4VXZkRUloQVFLWlpSNTVB?oc=5)
-- `[21:39]` **CAR-T 彻底卷疯了！驯鹿偷偷开启第二战场** [🔗阅读原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSldXUTVaaTRwMUtPcDE4Z1psT212TG5mYjQ1WFRnOHdSRVRfdXBYU2VqaDBjRTlfY2lPWlJLUUd3R2lIb1RYb3BNbTl2UVpYMmhITkNjUHRUeTByX3h0cGFBdlFPRkhvY1JZSWp6emMxN0N0azB4Qlo3VlkyRjRkeVRwUms1S1J3bml4c3QzMFdmMzZlQ1QtUDljT2pOcXl3TS1XS2c0dw?oc=5)
-- `[19:38]` **男子接受临床试药后死亡，药企董事受访时称“滚开，烦不烦啊”，涉事公司致歉！** [🔗阅读原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE40aTdFX2lHV0VSUU9SanI0UXVTTTNZc05LNjVmX1RBVFlFTzl5NXpTMmJlY19tYXQ5YUJHMVNHcnZpODQ1M3RhdEsyUDR2VjF4aklfTzIzd2lKVkRfdTFaYTE4MWlkMUpxSUZBMHEtTE9hSXVBZWs2YQ?oc=5)
-- `[17:57]` **量子计算、托卡马克装置、CAR-T疗法……多项硬科技成果在沪首发首秀** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxRmQ2SHNHUlhaWU9RY08tU1N0dVlDWEVoM1RTak1nbmplVmpFLWVVcDk1T253OTAtbHR4Y1p5ZEpMYlZqVXd5RkR0Y1FPYTliaDI3bDFTOThBYi1oN0N5SA?oc=5)
-- `[16:53]` **打通听觉重建“最后一公里”！基因治疗在先天性耳聋领域取得临床成效，听觉脑干植入装置已进入审批最后阶段** [🔗阅读原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE91cVlFX1Vwa19paGFoZ2JiTkNYUFFFTVV1QUc1XzczOFNXX3pnY3I0aDczMTUyQjc1U0pxUVNPUzBTWE5oM1ZVOGpfOWhyTlJ3VnBIbWZNOTJITHJEN254VHVTNGJwOWdIZTFwcl9aaEo?oc=5)
-- `[14:31]` **多发性骨髓瘤复发怎么办？CAR-T前线治疗获益与早期评估指南** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBdzk2MU1sZUZULTE2NG1OcUFZU0ZiZThyUjZjbTBDZlZUOXN6N3RCb29KUi0ydVdUUVFseHJUZE81U2lYWFpz?oc=5)
-- `[13:31]` **🏛️监管 | 晚期前列腺癌免疫治疗突破：新型细胞疗法Bria-PROS+获FDA临床批准** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Mb1g0YXJUVXBqZ2xjekkyMlZlX1B4dmVQSUJVTFNnd2NKSXBuOXJONU5CbFVEaWtGLXlrUmg4LUNYUVBfSHo4?oc=5)
+- `[07:20]` **818 号令落地后，103 项生物医学新技术临床研究备案完成项目透露了什么信号？** [🔗阅读原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2tPb0pyMTMycHgxN19TVGEwRmtpay1nSGhLWWQzTXl3SG1odzd3Q2RmZkhhMXdZNXp3Y3dsU3FyTTh6eWNnZXZ6eDNsZHl3aTdLdDliN1JTM3VNOTBoS3JDcmFHNzhLbG5KVTU0WG1kZTZUdWQ5cFA5Rm1KUGgzOElma05iOEM1SVdRTQ?oc=5)
+- `[01:40]` **伊布替尼联合CAR-T突破慢淋耐药：缓解率达86%与深度清除微小残留** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1CLXF5M09sRjRMUDlRQktSRGpUSktIY0V3X3pFYktpVm1wTEowdUtRN2JzX0YtNFJsV3QyTGFGYkpCdkgteUVv?oc=5)
+- `[22:38]` **China approves Walvax’s third mRNA COVID-19 vaccine, targeting the Omicron JN.1 strain**
+  <br><small>🇬🇧 *China approves Walvax’s third mRNA COVID-19 vaccine, targeting the Omicron JN.1 strain* [🔗Source](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXZJVU9kZnEzOGJFRUJPWFJrc3U5U1hvb1h4ZXF4TkxNLTQwR3JseXN0a1QwX1NWTTQ1U2p1STA3d19TdFlZZi1HeUtycmgxSkZBQ3dkR1JpR1MxUDA1algxRWkweU9PVGxOZ0JzUVVGa1VIZHBWZ2tPdF8zdUpZcnRFWHJFT2RTYTlB?oc=5)</small>
+- `[17:11]` **多发性骨髓瘤CAR-T疗效被高估了吗？真实世界数据与高危患者治疗指南** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OMVp6WWJjTUxSUE1QTDdkWlZYNDFPdC1fN2ZmOXhqSUJwdGhuTjdhNnN4R0xuN1BBREQ2cy1oTVlwNFJjd0xz?oc=5)
+- `[14:23]` **科济药业李宗海：把CAR-T做进实体瘤只是第一步** [🔗阅读原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CWTRnbHpLZjhRZ085Wm9ZSm5qR0J3M3A5blVJTnA3ME1oVlBUazhWTE1rNG5aZ2haRVpOcDV4TW4wQkZlaWc4a0hVSUFiNUVsOWtEeXluMnFWOS1uZ0NpYw?oc=5)
+- `[11:16]` **CAR-T 彻底卷疯了！驯鹿偷偷开启第二战场** [🔗阅读原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUtoZ1M3aHI2aUxXbU94NGVsNUFlVEZuUGpTQWF2dHRPZ0I3UWU0ZjRDOXZTVnctU1BjWFRrNVY1MzE3cFYxdWlFc1ZYR3lZS29SVkZiU2gtdUYtZUkydER4eTFnN3BnY003clo2dG9kUFNWTGZQekNRUXRuR0d5ZHEzY2ZyLTF1?oc=5)
