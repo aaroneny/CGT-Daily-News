@@ -1,5 +1,5 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-09-19 | **更新时间**: 08:25 (北京时间)
+> **日期**: 2026-09-20 | **更新时间**: 08:11 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
@@ -10,10 +10,8 @@
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[01:47]` **🏛️监管 | 美国FDA获批儿童A型圣菲利波综合征基因疗法Fayuvi** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2X2g0eEs0RWxNd3JreERZUERJcmwwMTMxanNOWmMyajdYbnBQWFNlMzR6cWsxaFRhYXVWVUVIcklVTjJKM05nSDN6blJUR3ZzQWR5bDRR?oc=5)
-- `[23:45]` **🔥In-vivo 🏛️监管 | IASO Bio receives FDA IND clearance for CD20-targeted in vivo CAR-T therapy**
-  <br><small>🇬🇧 *IASO Bio receives FDA IND clearance for CD20-targeted in vivo CAR-T therapy* [🔗Source](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzQxZWo4bVROcExVa1J2bXQ1QlNiTVlvMFA2aDhGZDJPbC15bWVjanlBY1lXU0NGX0kwbXRDNmZqQWcwendLeFRmeVFuNlBIY0RvZUNuMGZTTHc5dmZQYVcwYXBhS05UeWgyMHNvRGZGXzY5aVNmZzdwaUs3emhNVHFuOS1ERmtRMzNUTE1aeGhvSW5XOW5KT3BsQnQ5MnJsODZUMDU5bmFJOGE4RDUtcUhmVm1MRTYtLW1TVDBPN0FHcTRO?oc=5)</small>
-- `[15:46]` **🏛️监管 | 北京协和医学院/华科/华理合作，最新Nature Medicine，中国首个获批B型血友病基因治疗药物在青少年人群中的验证！** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE1rMEtFNXhTVi1tWkVfYndrZGIzZ1R6MHpVMzVRcHhNN2tVV3l3SU1HRTlqZFNtcWZKamJ2MWJnYXdZYk41cDVITGVJV3pQSmVoUERhY3RBWmlvODBxXzBzUTVDcTBxRE92Z1gwQkp3?oc=5)
-- `[11:24]` **【AJH】苏附一探索BiRD方案联合BCMA CAR-T一线治疗多发性骨髓瘤的II期研究-MedSci.cn** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE1oMFgyWkJuRnI5TEJXWHBFU0dUal9iRk9HRUNtb05HYWlMNWxfZ1NJRkoyQy04S2JINHlkTWJub1lPelljSUZTQUo4QTBwMEEzeG1KaGZfcVFhMzNoUkZBX2haQXo5UG5ObGtuME1R?oc=5)
-- `[10:56]` **布局前沿医疗 再生医学细胞创新治疗中心落地晋江** [🔗阅读原文](https://news.google.com/rss/articles/CBMickFVX3lxTE9WLVg4MEdRVVdSWV9Ka0gybjdmeWNvOWN1THhSNlpvLUdXcFNzek9yRGFQdFRsQV80bjFMZjlTMjllSDFQcl80dVVyLXZJbERTdlFYME5aQkVONW53WUVqWnpDOWlPMDQ0QnVzaEtGTUY5Zw?oc=5)
-- `[09:46]` **Nat Commun：CAR-T疗法为何有人“低剂量也灵”？科学家精准揪出幕后精兵- 癌症研究专区** [🔗阅读原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oR093XzQxUk5LdHhWdm82a29uMGlwUS05aWZDeWhCVWZNNXBLOUlwdkx3NUUyOERaa0FOaXVzRUdweXFWNTVMX0VSYVJyWW1KWWVuUGVSbHltUEtf?oc=5)
+- `[22:02]` **婴儿白血病难治怎么办？CAR-T联合Menin抑制剂带来突破新希望** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PYjhRcUNud2p0QVlYUk9Dd2ZVcE5HenBUd09ZMy1vY1R2QkYySjdNMXNJR1JzUUZ1b0ZpcFBHRXNvVDAwUXFz?oc=5)
+- `[20:26]` **无菌颗粒截留过滤器市场展望至2035年：生物药需求与一次性技术驱动增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU3JMTkVjSG1KTFpaN0pmdTUyclNjU1Voci1kX3pWd2FjUEk5ZXZmY0JtYnIzZ1luMm9hQ0FwWkxCU2J0QVlZLW94TTBQTFFzamZYRHhvUXNDWV9ocXZMUllTOExvb011RW5TZ2JUUEphUDVVQW9JNGc5QWdTaTZuWklmTWUzbEJ6b0RsNXJzQnkzSm9kcTV6OU5FU3FjWWpqVlVQdkZZTzFPS2FfdWdDdGtWUUYxZXpPZkY2dE9pajJISWFnc0ZuYVZQOGl0VTJod0EzT1REMWVXN1k1V3RIV1JVYw?oc=5)
+- `[16:49]` **99万元的全球首款实体瘤CAR-T疗法 仍陷天价可及性困局** [🔗阅读原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OMjZraVZyUTZIam9SYmxpZGlfX3B3NWRWN0YzNElwNkxxRTg2c1lPZWUxYnRZWjNJaVN5UWhYbThXZFpTWHdZTA?oc=5)
+- `[16:35]` **🏛️监管 | 国内创新药行业进展：59款创新药获批 首创新药突破+AI赋能研发** [🔗阅读原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE90TTNrMzBoTFVvUlFMeTJvVUw2TjQ4dWx3Q1FYTXk1RHF3b0JjYjhVMmFwT1k1SVo4alBWWDl2OGU0U3A2WmxZd09kQnA0SHNnYkdfNDRR?oc=5)
+- `[11:43]` **Cell：临床研究证实，糖萼编辑的间充质干细胞，有效治疗骨质疏松，大幅降低骨折风险- 进展专区** [🔗阅读原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00dkF6ZjQ0Y0NjWWIxUXZVM3ZjYkIwZWwtdFk2WmdlRWZyeThscnE4b0pCWThvMU5yaUJCZVFuVXM4d1VrWW9lSHJ1UDRDMTFLdmU4SnpXS3ZwbUE?oc=5)
