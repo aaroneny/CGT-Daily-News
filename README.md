@@ -1,16 +1,16 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-10-02 | **更新时间**: 09:45 (北京时间)
+> **日期**: 2026-10-03 | **更新时间**: 09:15 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- `[20:35]` **Anixa Biosciences Announces Treatment of Second Patient in the Fifth Cohort of its Ovarian Cancer CAR-T Clinical Trial**
-  <br><small>🇬🇧 *Anixa Biosciences Announces Treatment of Second Patient in the Fifth Cohort of its Ovarian Cancer CAR-T Clinical Trial* [🔗Source](https://news.google.com/rss/articles/CBMihAJBVV95cUxNZk9vRm5EUU8tQXpFQkFTeVRsampabTBWMkZQTFJTdk1MRTdSYm9zWUhMREJHUkt5OHB3TWE3eDhNYkVOWnVYUW0yVlNWNmlORzB6c0RTVHQxV0Q2ZFhVNWNXTTlPNS1pRnZNUS03bEgyaWZGTFBsbjB5ZTROakpUQ2xkWUZCa015U0xobWpZV2NIX09RVmxzWVdIVWNTTV85WVhkSnJ3VWU1dnE4Ym5yN3BGU3lkTEtCWXNkdXJFVkFOdzRMaDBRNDEyRXdvREVzSFljY09qbXZoVVJPeHRnYzNNaUJsU2hfNDd0bUg0RFNPbzVlaGxlOGpfaUs2VmVpMnVscA?oc=5)</small>
+- *当前暂无过去 24 小时内的相关重磅全球资讯。*
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[07:58]` **嵌合抗原受体T（CAR-T）细胞疗法在非肿瘤性疾病中的应用：机制、挑战与前景** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE55MzgxaUd1MEttLWUzWUQzdGRsYkhmMXFkcXBjNGRJR2I2OGNDNFZuX096c0Z3ZzQ2YTQ3blpTOGZ6S19EZTNKa0xyc1B1Rl9Pa0NERWJIbHowQmdRRWFyNF8zcnlORmI2V1daTjdR?oc=5)
-- `[22:41]` **抗真菌剂市场展望2035：侵袭性真菌感染上升与生物工艺需求推动增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMVpKSG1kR2xVZ2pmM21hTktWOVpIaDRkdldMN2h2dkI4NGZpTGNsSGh6bXAwRTBpNk02NFh0TkVVS0lGVTBvN3dxUmVkMXJUVlNfN0Z3cGl2TEtIbDQwdG9LMzlWMEJ3WGlXUHpxN2xtVHFzTkRzQnlWcmd2Si1JbVYzZzFueExIWXVya2h4OFczaEZyTVhYMk1iaW5KTEg3YXRqMnJCa2p1ZmdEdDFLeF9TWi1tYmVqdVBNQUFlUFYtMlQyaldBTWJRdnN6cHpJbzQ0bWkyQVZTbUdiQzZ0MUVrZV9IdXlmN1dHMnFodm42dVliWHc?oc=5)
-- `[19:58]` **细胞因子诱导的杀伤细胞（CIK）联合替莫唑胺（TMZ）抑制原位LN229-luciferase胶质母细胞瘤（GBM）进展并在复发GBM中显示临床可行性** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XbldTb2Vta0hMT2FfLXp4YzJLa0FoaEZwT3VEdTNwWVlEdUplOVVPRTkwR2NpcWJWM19xTjY5VGtPT1B2MlVocGVJSHVhRXZqbm1ha2g3REpVRFJGMWEySFNGX19SNk9LSWlwZ3Z3?oc=5)
+- `[08:12]` **免疫疗法重塑癌症治疗：外科协同机遇、临床挑战与多学科展望** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTFBPOWhFOW5FQUNaQUhjSllUNzh2YUNYV19LREtJbXp6SmRUQlBHbWhmMmVQX0FGaVhhZWoyclhLNm40TG0xazlEOFVuaVJqV2NfYzRDUjh3V0pJbXNaT3RjQ29iVzdlVkNBYXp5a0NR?oc=5)
+- `[08:09]` **Bruton酪氨酸激酶抑制剂（BTKis）的机制、疗效与毒性：从B细胞恶性肿瘤到CAR-T联合及免疫介导疾病的精准治疗** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9BRTVLV1pJM3o4ZFVnaUZ4OEN0S0h3VDZtWXRXcFpyR0g0SmVBLWlqN3FFU09FQXF3bjlMRzRtMmxuRFFmWFR4bEdxNDRUOThNZm5UOFRxZHkwSTZTemtKdWdZT1hZVldoM041Q1N3?oc=5)
+- `[23:28]` **PCNSL分子病理生物学进展：面向新型诊断与治疗临床实施的多模态整合路线图** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9IQm9hbW16Mmh3Rlp0Z3NGOWJEdkZ3bVBWb2hLSXRnLUt5TmdxbzZoQkxwSi05YnNhWFRDejlCaW82MkJBV3RSeDZ1NnRFQktwanN6UVh4RS1ZQlh0RlpGeWQtaG1qWUlwTTg4NVVB?oc=5)
+- `[19:35]` **1.3亿美元！中新CAR-T合作在奥克兰迈入国际商业化新阶段—— 中国昭泰与WZTL携手BioOra签署再许可协议，多年中新生物医药合作成果进一步走向国际市场** [🔗阅读原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QdnpsbEJMSUEzaFQzanVhLXRzbVRRVnlOcHFaMENpbkVaRkhSalp0N2FsbTdXQlBmam01QWtjWGRoekxOVGJqR0MxSmdNYTQyMm5oVG9KbnJOQV9odm1jMFViQQ?oc=5)
