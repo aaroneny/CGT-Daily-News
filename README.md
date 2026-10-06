@@ -1,18 +1,25 @@
 # 🧬 CGT 每日情报 (Daily Brief)
-> **日期**: 2026-10-05 | **更新时间**: 09:03 (北京时间)
+> **日期**: 2026-10-06 | **更新时间**: 10:21 (北京时间)
 > **监控范围**: Global (In vivo/FDA) & China (NMPA/Biotech)
 
 ---
 
 ## 🌍 全球前沿 (FDA / In vivo / MNCs)
-- *当前暂无过去 24 小时内的相关重磅全球资讯。*
+- `[22:02]` **🏛️监管 | FDA Announcements, Breaking News and Press Releases**
+  <br><small>🇬🇧 *FDA Announcements, Breaking News and Press Releases* [🔗Source](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adXlvd3M4Z1ZmWVZ4N0tydmQwSzVFZlptczlDN1M5NnpxX0V6NTlkS2sydnhDcE1YOV83NFF1NnJsMjU4Uk0zT0xoQ1gwSlhFUkVwVDBVNGw1Q3ZqUHQ4TUUwdXVhM0NG?oc=5)</small>
+- `[20:15]` **Anixa Biosciences Announces First Case of Stable Disease for Three Months in Ovarian Cancer CAR-T Clinical Trial**
+  <br><small>🇬🇧 *Anixa Biosciences Announces First Case of Stable Disease for Three Months in Ovarian Cancer CAR-T Clinical Trial* [🔗Source](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY01Ta250WGV3OGQ1aHIyVDd2MjdmRnhTdG9XQkR2TUtpZ2N5LWZLYUtRb3lEV3YtTWoxX1JGZnpKelpNVC1CVi1tOXVHZTZDc1dvemhkV3BLUEFyYk1aM0JtcEcwSjdZWDlVRjRRN3dEZFZQTFk3TC05S0tkWFltZEpYWDJiMk51ZU4zTnhGQ29xRzRrVzNHSGk4Z1FkM19aejFBV1JzaTZweWZ4UkR5NmJHTkFaQS1TRG90QkhfWG9UWVNtRjJCdEp0bHJlMF9iX25HajFUVFhzVFc2NFJFOWN1ODU2Tko4TDF6V1JLZ2o1eEppdEVrSG5CRVg?oc=5)</small>
+- `[19:00]` **SereNeuro Therapeutics Closes Oversubscribed Pre-Seed Financing to Advance Non-Opioid Pain Pipeline**
+  <br><small>🇬🇧 *SereNeuro Therapeutics Closes Oversubscribed Pre-Seed Financing to Advance Non-Opioid Pain Pipeline* [🔗Source](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMDMydjBiaWEwcy1lRTlCN2lKVy1ldTJBRlhETndKWEc1WHBSRVZ3RHNIa3E3M3hvWmV2T1N3TGVZYWlicm9SbDhCS3RRbm9sazJqcmRsV1I2WUNQTGxvbVVLNWpab1BrYVVLbnBLWjB5aUJ2c2ZiQVNhbmVaUmlsSGF2VElRZFdJbG5QVWdBWDlseUFNV2pQbXpjcnRBcHVvNlVlVFoyTHF5VWxYUE5NQ0pRbExhOG0yZTVtVGtBb2F0VjVSbVZhZTdoOHFZQUxlV0tXXzBRSG9Pcko5SWEzLWZONlJrOXBiZ0Jr?oc=5)</small>
 
 ---
 
 ## 🇨🇳 中国动态 (NMPA / Domestic Players)
-- `[08:02]` **靶向GPC3的CAR-T细胞联合TACE治疗肝细胞癌的临床疗效与安全性评估** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYTdUNWxDSzh6RXBvWTRKLVc5UkhqeEdEb2MwQzEwQ2FuN3FfckpGRE5XZUFOaEN1cjNXOGVWYXVJY1hhWnBGdndCdk01WUsyLUV4VWlGbHZmSmdTaTNCbHB1Z0VraFpxZ0V2elZB?oc=5)
-- `[07:01]` **矿物质补充浓缩物市场展望2035：连续生物制造推动增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFlqOVlGbEtQcmJtZV9KeDhvYlJ5ZzhqTjNsdDNPWnpJWVR3SzV6cktWWVMtVndXTFJGS2VBN2ZoekhlSzhnckxYWVI2RnJHSWJ2LVFKV3JnWDR4a3c3U0ZQVFdKbnU2eUM2LXNMNnU5QzdNekZFTlI0eFMwZ19QSUp2MFFtMGgzSm1WdF93cnljaTlJN0E1OUF5YjNoVHlJT2xqdXJ4VjdyY3VlWFFURUFKd2stSURDaWVqU0xZS0NNbVpQNzM3aWZtVFpxeXFfN0JxVA?oc=5)
-- `[03:11]` **外周血单个核细胞市场展望2035：细胞治疗需求推动两位数增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZXk2aWVydGZOVzMtVTctUjRiTExWVV9CZ0w2NVhaZGl4bE1GU005dDBRb0FkZXlPTVJsbmY1N1g1ZS1FSTdBT1dDRVBHY1A4YzVrQzFySXBPdGp1N1otdndvbDJSZGlWMHgwdV9QYUJ5Q01SS01DcGt0TWxVVUpSZ0xWaHhfNUVqX21fZzlweHJ0dmVQZk1yTDJpWDJMR1JrLTF6dXVZWGc2WGhWQXFiU2h1TDBjdGdDa21pNEg4OUZPbXJNbmowTTVZZWJaWEJ0WWc?oc=5)
-- `[23:30]` **淋巴瘤与血液肿瘤复发难治怎么办？解读CAR-T与双特异性抗体前沿破局方案** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE45V2d3THpsSE1jbWxCdktJZDhMUjRqVGllU2V0R1ljbGtSTjU4UHFMTVJSTjJpQW9XREJuV05GS0VSVWx2bkdR?oc=5)
-- `[23:21]` **无菌连接器（液体）市场展望2035：生物制品需求驱动增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYTl5RkVkUzhpSzBYWm5tbzhDekpUSG9TQjB5Ujg3Z0dwVkpiSE5Ta3ZaUkhGMWowYS1hUE4wSEkwSXdZYmdTb21qUjZCdUJtZlVPdVVjTHpYVWFkeFprTlVIbjNrNWVuYm5Nd1d3U3dZZ0tkSTNKQ2dLTEtpbDVLNVJlMlhKMEdzUlEtY1o4ZWY0UjdPMGxuM1BEeDROMThVYWNUcjhXOEZ4a2c5U2xrZUJZcmZjbWluekpZQzZ6S3NKbkRQbEJnQzJNa0YtY2w1MzZFcXNxNzg?oc=5)
-- `[18:46]` **超滤膜滤芯市场展望2035：生物工艺需求支撑9%—13%复合年增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ3BGTXJWeEFYZUI2SVhzRkJqUDRIRWVqNF94S3lSWkJJcXdoeUphZm9zSzFidTVjeHkwd2Q0a3pqSlp5RFBUZVR4SVp3c0lybTlwRkk3TGJUc0lxSW5seURnWjRuXzZ1VnFJRktkZHppUUFCcTFGUE53Zk5vSm94Sm5vdEphZDg4ZE9jblVtMVdBUVVNbWhPaFphNUhYV1Y3ZS04anAxalVCd3ZZMVA4Q1FtMGFWeXdmUjlFeUU5LUJVM0o4WnpDT1lPbUM5dnJEZnNPU1BXYlNFMm9YVEpV?oc=5)
+- `[06:46]` **嵌合抗原受体T细胞疗法市场展望2035：更早线次需求与同种异体转型驱动增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaE9jSVV0bHFkbTVjLXhTSjUxekRST2JXNklWcGdQc1pFNC1Nby1Cd0V5RG90RlNkZ09zUlNDUmxudHJZVTdHNHAwX0N1eGl6SXc3YS1lSXRIRWV2ckVVOGVReXRJZl91UklvVklTT1VmZnplcVAyRFdhNzlKMjJ5Vzk1aEFySHlZLU9JdERZZGF1aFc0eXZ2WUk5eWVVai1GZnRuY2FCZnNHbTFXbXpSMlpUeTFoUVpoZHdpbUdqNEJkekxrdDV0UngzOUpSVy1FVXI2ZE9nZER2T2FCa2lpdlBueVBTZ3dha2pNcXoyam1ibm1hZ2c?oc=5)
+- `[21:51]` **高通量细胞分析系统市场展望2035：细胞治疗效价检测需求驱动增长 - 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckRpNVFKS1RGeXhFdWNxRGlIeEFHNG1ncnVVWEVyc2d2VUF1dms2cUhxYnZzdlNyZHRvYUg2enMyc1RHX2FFYkgxNjQzTnV5cHdwd1YzYXNLcTRkcHlFZGZqYnF0RXJqMFdLcmlZZWVGMmVuVkg3eTY5OGowSkZ1VmNpUnFJTDRsYmF5ODVOcTZZMWpjZ1BxQzhiVEsydWJFS3QwZjkyZ0xkWVhEZVloSXlPcjlxb05Dc25tdURBUEw3MHVnaHdzR01DbHpyWTZYSjBzOXRQYU8zVUV6UVBGWm93?oc=5)
+- `[19:46]` **细胞与基因治疗生产需求推动代谢功能检测试剂盒市场到2035年持续扩张- 新闻和统计** [🔗阅读原文](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaEZYRVZmbnQ0OGxLTlpyMmZXZWlYNkd0dWtDbDhwY0twOWtpeERrMFdkNkVSZTBSTTZmMEtZb2ZOU1ZSamk0clotSFN6V0ZNV2ZVT1lUSXd1MWxxcDFNNjJOZGc0NEVSS0hXb2VxbmdjbzVTTXNocS12Z0N3dWxBNkFuU3VEY0o3bVppY1RnSDNaTUZ6X044aFp2WmRDRl9JZThnR2NqMldFZGQ5ZzhlMWVfNE5FX21RQjg5MmdZMFY2TDJqMXlvOXl1SmdIVm9qTnNER2t6RTlfdkg1aTBEVnA0dkcta0FoWE9ZVEUyLVo?oc=5)
+- `[17:30]` **iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa**
+  <br><small>🇬🇧 *iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa* [🔗Source](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUFqQ3ZPbmhEUDRkb1oxbTlGSXBWMG5fclluVzBnSGxOQ2ZNZ0VTLW9lclp6ckp6d0pMam45ZzF4US1EM0phaVY1MDRDRHI4QmY2aFRQalk5VkRUUlFIOUg1d21pY2RxOGpWbzFvV1M3WWJlU0tOWms3TV9ENEFpMHBKOWJncjdObUZ0YU9zcDlCWTFTZWU1ZnZ0Rnk3VV9vbEdPamFpRUhzT2RNaEFBeFJ6ZndDdkIxU2VqMlVkaTF3RDVxYi1HOGU2N0ZJeTZS?oc=5)</small>
+- `[15:43]` **Cancer Discov：新研究确定了两种因素可能有助于患者从现货的CAR-T细胞疗法中获益- 华人研究专区** [🔗阅读原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE82MFNJOHpTcWpnUGJnYlJ3UUs0cG1VcER5Y3RHWXNORm1PRXYwZXBTNk5ZVkJQbFZEQi1GU1kwNWc1ZVRzUGtuUEFEVTZLNnVTaVNlZ2FaN09XTG8?oc=5)
+- `[11:32]` **国际肿瘤前沿诊疗迎重大突破：顶尖癌症中心如何打破晚期耐药与生存期瓶颈？** [🔗阅读原文](https://news.google.com/rss/articles/CBMiR0FVX3lxTE90RzJLdldjUHN0NWdEV2k5MGx5cWhlNlRraHZLVVVSUHp0UGc5SkFqbTZmYUxSZVhyVzFRWFQwSXktbEtBQzNj?oc=5)
+- `[11:29]` **靶向GPC3的CAR-T细胞联合TACE治疗肝细胞癌的临床疗效与安全性评估** [🔗阅读原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYTdUNWxDSzh6RXBvWTRKLVc5UkhqeEdEb2MwQzEwQ2FuN3FfckpGRE5XZUFOaEN1cjNXOGVWYXVJY1hhWnBGdndCdk01WUsyLUV4VWlGbHZmSmdTaTNCbHB1Z0VraFpxZ0V2elZB?oc=5)
